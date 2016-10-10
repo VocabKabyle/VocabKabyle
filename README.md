@@ -82,27 +82,27 @@
 | 77  | Times, Timest       |          | Feu             | Fire                | ![Image77][Img77]   |
 | 78  | Lemri               |          | Miroir          | Mirror              | ![Image78][Img78]   |
 | 79  | Nekk, Nekkini       |          | Je, Moi         | I, Me               | ![Image79][Img79]   |
-| 80  | Ul                  |          | Coeur           | Heart               | ![Image80][Img80]   |
-| 81  | Ul                  |          | Coeur           | Heart               | ![Image81][Img81]   |
-| 82  | Uliw                |          | Mon coeur       | My heart            | ![Image82][Img82]   |
-| 83  | Izem                |          | Lion            | Lion                | ![Image83][Img83]   |
-| 84  | Izem                |          | Lion            | Lion                | ![Image84][Img84]   |
-| 85  | Izem                |          | Lion            | Lion                | ![Image85][Img85]   |
-| 86  | Izem                |          | Lion            | Lion                | ![Image86][Img86]   |
-| 87  | Izem                |          | Lion            | Lion                | ![Image87][Img87]   |
-| 88  | Izem                |          | Lion            | Lion                | ![Image88][Img88]   |
-| 89  | Izem                |          | Lion            | Lion                | ![Image89][Img89]   |
-| 90  | Ul                  |          | Coeur           | Heart               | ![Image90][Img90]   |
-| 91  | Ul                  |          | Coeur           | Heart               | ![Image91][Img91]   |
-| 92  | Uliw                |          | Mon coeur       | My heart            | ![Image92][Img92]   |
-| 93  | Izem                |          | Lion            | Lion                | ![Image93][Img93]   |
-| 94  | Izem                |          | Lion            | Lion                | ![Image94][Img94]   |
-| 95  | Izem                |          | Lion            | Lion                | ![Image95][Img95]   |
-| 96  | Izem                |          | Lion            | Lion                | ![Image96][Img96]   |
-| 97  | Izem                |          | Lion            | Lion                | ![Image97][Img97]   |
-| 98  | Izem                |          | Lion            | Lion                | ![Image98][Img98]   |
-| 99  | Izem                |          | Lion            | Lion                | ![Image99][Img99]   |
-| 100 | Izem                |          | Lion            | Lion                | ![Image100][Img100] |
+| 80  | Kečč, Keččini                  |          | Toi           | You               | ![Image80][Img80]   |
+| 81  | Ageffur                  |          | Pluie           | Rain               | ![Image81][Img81]   |
+| 82  | Dadi, Dihin, Dihinna                |          | Là-bas       | There, Over there            | ![Image82][Img82]   |
+| 83  | Llufan                |          | Bébé            | Baby                | ![Image83][Img83]   |
+| 84  | Aru                |          | Ecrire            | To write                | ![Image84][Img84]   |
+| 85  | Amzur                |          | Cheveux longs            | Long hair                | ![Image85][Img85]   |
+| 86  | Iccer                |          | Ongle            | Nail, Fingernail                | ![Image86][Img86]   |
+| 87  | Ečč                |          | Manger            | To eat                | ![Image87][Img87]   |
+| 88  | Tura                |          | Maintenant            | Now, Right now                | ![Image88][Img88]   |
+| 89  | Azemmur                |          | Olive            | Olive                | ![Image89][Img89]   |
+| 90  | Allen                  |          | Yeux           | Eyes               | ![Image90][Img90]   |
+| 91  |                   |          |            |                | ![Image91][Img91]   |
+| 92  |                 |          |         |              | ![Image92][Img92]   |
+| 93  |                 |          |             |                 | ![Image93][Img93]   |
+| 94  |                 |          |             |                 | ![Image94][Img94]   |
+| 95  |                 |          |             |                 | ![Image95][Img95]   |
+| 96  |                 |          |             |                 | ![Image96][Img96]   |
+| 97  |                 |          |             |                 | ![Image97][Img97]   |
+| 98  |                 |          |             |                 | ![Image98][Img98]   |
+| 99  |                 |          |             |                 | ![Image99][Img99]   |
+| 100 |                 |          |             |                 | ![Image100][Img100] |
 
 
 
