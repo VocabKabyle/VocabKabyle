@@ -53,35 +53,35 @@
 | 48  | Lzzayer             |          | Algérie            | Algeria      | ![Image48][Img48]   |
 | 49  | Fransa             |          | France            | France      | ![Image49][Img49]   |
 | 50  | Marikan               |          | Amérique           | America     | ![Image50][Img50]   |
-| 51  | Ul               |          | Coeur           | Heart     | ![Image51][Img51]   |
-| 52  | Uliw             |          | Mon coeur       | My heart  | ![Image52][Img52]   |
-| 53  | Izem             |          | Lion            | Lion      | ![Image53][Img53]   |
-| 54  | Izem             |          | Lion            | Lion      | ![Image54][Img54]   |
-| 55  | Izem             |          | Lion            | Lion      | ![Image55][Img55]   |
-| 56  | Izem             |          | Lion            | Lion      | ![Image56][Img56]   |
-| 57  | Izem             |          | Lion            | Lion      | ![Image57][Img57]   |
-| 58  | Izem             |          | Lion            | Lion      | ![Image58][Img58]   |
-| 59  | Izem             |          | Lion            | Lion      | ![Image59][Img59]   |
-| 60  | Ul               |          | Coeur           | Heart     | ![Image60][Img60]   |
-| 61  | Ul               |          | Coeur           | Heart     | ![Image61][Img61]   |
-| 62  | Uliw             |          | Mon coeur       | My heart  | ![Image62][Img62]   |
-| 63  | Izem             |          | Lion            | Lion      | ![Image63][Img63]   |
-| 64  | Izem             |          | Lion            | Lion      | ![Image64][Img64]   |
-| 65  | Izem             |          | Lion            | Lion      | ![Image65][Img65]   |
-| 66  | Izem             |          | Lion            | Lion      | ![Image66][Img66]   |
-| 67  | Izem             |          | Lion            | Lion      | ![Image67][Img67]   |
-| 68  | Izem             |          | Lion            | Lion      | ![Image68][Img68]   |
-| 69  | Izem             |          | Lion            | Lion      | ![Image69][Img69]   |
-| 70  | Ul               |          | Coeur           | Heart     | ![Image70][Img70]   |
-| 71  | Ul               |          | Coeur           | Heart     | ![Image71][Img71]   |
-| 72  | Uliw             |          | Mon coeur       | My heart  | ![Image72][Img72]   |
-| 73  | Izem             |          | Lion            | Lion      | ![Image73][Img73]   |
-| 74  | Izem             |          | Lion            | Lion      | ![Image74][Img74]   |
-| 75  | Izem             |          | Lion            | Lion      | ![Image75][Img75]   |
-| 76  | Izem             |          | Lion            | Lion      | ![Image76][Img76]   |
-| 77  | Izem             |          | Lion            | Lion      | ![Image77][Img77]   |
-| 78  | Izem             |          | Lion            | Lion      | ![Image78][Img78]   |
-| 79  | Izem             |          | Lion            | Lion      | ![Image79][Img79]   |
+| 51  | Tarumit, Tafransist               |          | Le français           | The french language     | ![Image51][Img51]   |
+| 52  | Arumi             |          | Un françai       | A frenchman  | ![Image52][Img52]   |
+| 53  | Aruy             |          | Porc-épic            | Porcupine      | ![Image53][Img53]   |
+| 54  | Tafat             |          | Lumière            | Light      | ![Image54][Img54]   |
+| 55  | Tafunast             |          | Vache            | Cow      | ![Image55][Img55]   |
+| 56  | Iddew, Ibekki             |          | Singe            | Monkey      | ![Image56][Img56]   |
+| 57  | Ayazidh             |          | Coq            | Rooster, Cock      | ![Image57][Img57]   |
+| 58  | Tamellalt             |          | Oeuf            | Egg      | ![Image58][Img58]   |
+| 59  | Tala             |          | Fontaine            | Fountain      | ![Image59][Img59]   |
+| 60  | Ighil               |          | Bras           | Arm     | ![Image60][Img60]   |
+| 61  | Awal               |          | Parole           | Talk     | ![Image61][Img61]   |
+| 62  | Aghrum             |          | Pain       | Bread  | ![Image62][Img62]   |
+| 63  | Akal             |          | Sol, Terre            | Soil      | ![Image63][Img63]   |
+| 64  | Anwa             |          | Qui, Lequel            | Who      | ![Image64][Img64]   |
+| 65  | Anta             |          | Qui, Laquelle            | Who      | ![Image65][Img65]   |
+| 66  | Taghat             |          | Chèvre            | Goat      | ![Image66][Img66]   |
+| 67  | Awtul             |          | Lapin            | Rabbit      | ![Image67][Img67]   |
+| 68  | Uccen             |          | Chacal            | Jackal      | ![Image68][Img68]   |
+| 69  | Adhfel             |          | Neige            | Snow      | ![Image69][Img69]   |
+| 70  | Adrar               |          | Montagne           | Mountain     | ![Image70][Img70]   |
+| 71  | Tayri               |          | Amour           | Love     | ![Image71][Img71]   |
+| 72  | Tameghra             |          | Fête       | Party  | ![Image72][Img72]   |
+| 73  | Tabburt, Tawwurt             |          | Porte            | Door      | ![Image73][Img73]   |
+| 74  | Ssuden, Mmac             |          | Embrasser            | To kiss      | ![Image74][Img74]   |
+| 75  | Aggur             |          | Lune            | Moon      | ![Image75][Img75]   |
+| 76  | Ttaq             |          | Fenêtre            | Window      | ![Image76][Img76]   |
+| 77  | Times, Timest             |          | Feu            | Fire      | ![Image77][Img77]   |
+| 78  | Lemri             |          | Miroir            | Mirror      | ![Image78][Img78]   |
+| 79  | Nekk, Nekkini             |          | Je, Moi            | I, Me      | ![Image79][Img79]   |
 | 80  | Ul               |          | Coeur           | Heart     | ![Image80][Img80]   |
 | 81  | Ul               |          | Coeur           | Heart     | ![Image81][Img81]   |
 | 82  | Uliw             |          | Mon coeur       | My heart  | ![Image82][Img82]   |
