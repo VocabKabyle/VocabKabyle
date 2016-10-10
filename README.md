@@ -6,13 +6,13 @@
 | 1   | Ul     |          | Coeur     | Heart    | ![Image1][Img1]     |
 | 2   | Uliw   |          | Mon coeur | My heart | ![Image2][Img2]     |
 | 3   | Izem   |          | Lion      | Lion     | ![Image3][Img3]     |
-| 4   | Izem   |          | Lion      | Lion     | ![Image4][Img4]     |
-| 5   | Izem   |          | Lion      | Lion     | ![Image5][Img5]     |
-| 6   | Izem   |          | Lion      | Lion     | ![Image6][Img6]     |
-| 7   | Izem   |          | Lion      | Lion     | ![Image7][Img7]     |
-| 8   | Izem   |          | Lion      | Lion     | ![Image8][Img8]     |
-| 9   | Izem   |          | Lion      | Lion     | ![Image9][Img9]     |
-| 10  | Ul     |          | Coeur     | Heart    | ![Image10][Img10]   |
+| 4   | Tasedda   |          | Une lionne      | A lioness     | ![Image4][Img4]     |
+| 5   | Amcic   |          | Un chat      | A cat     | ![Image5][Img5]     |
+| 6   | Aman   |          | Eau      | Water     | ![Image6][Img6]     |
+| 7   | Afus   |          | Main      | Hand     | ![Image7][Img7]     |
+| 8   | Adhar   |          | Pied      | Foot     | ![Image8][Img8]     |
+| 9   | Asigna   |          | Nuage      | Cloud     | ![Image9][Img9]     |
+| 10  | Itij     |          | Soleil     | Sun    | ![Image10][Img10]   |
 | 11  | Ul     |          | Coeur     | Heart    | ![Image11][Img11]   |
 | 12  | Uliw   |          | Mon coeur | My heart | ![Image12][Img12]   |
 | 13  | Izem   |          | Lion      | Lion     | ![Image13][Img13]   |
