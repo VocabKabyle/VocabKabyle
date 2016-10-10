@@ -1,108 +1,109 @@
 # VocabKabyle
 
 
-| Id  | Kabyle | Tifinagh | Français  | Anglais  | Image               |
-|-----|--------|----------|-----------|----------|---------------------|
-| 1   | Ul     |          | Coeur     | Heart    | ![Image1][Img1]     |
-| 2   | Uliw   |          | Mon coeur | My heart | ![Image2][Img2]     |
-| 3   | Izem   |          | Lion      | Lion     | ![Image3][Img3]     |
-| 4   | Tasedda   |          | Une lionne      | A lioness     | ![Image4][Img4]     |
-| 5   | Amcic   |          | Un chat      | A cat     | ![Image5][Img5]     |
-| 6   | Aman   |          | Eau      | Water     | ![Image6][Img6]     |
-| 7   | Afus   |          | Main      | Hand     | ![Image7][Img7]     |
-| 8   | Adhar   |          | Pied      | Foot     | ![Image8][Img8]     |
-| 9   | Asigna   |          | Nuage      | Cloud     | ![Image9][Img9]     |
-| 10  | Itij     |          | Soleil     | Sun    | ![Image10][Img10]   |
-| 11  | Ul     |          | Coeur     | Heart    | ![Image11][Img11]   |
-| 12  | Uliw   |          | Mon coeur | My heart | ![Image12][Img12]   |
-| 13  | Izem   |          | Lion      | Lion     | ![Image13][Img13]   |
-| 14  | Izem   |          | Lion      | Lion     | ![Image14][Img14]   |
-| 15  | Izem   |          | Lion      | Lion     | ![Image15][Img15]   |
-| 16  | Izem   |          | Lion      | Lion     | ![Image16][Img16]   |
-| 17  | Izem   |          | Lion      | Lion     | ![Image17][Img17]   |
-| 18  | Izem   |          | Lion      | Lion     | ![Image18][Img18]   |
-| 19  | Izem   |          | Lion      | Lion     | ![Image19][Img19]   |
-| 20  | Ul     |          | Coeur     | Heart    | ![Image20][Img20]   |
-| 21  | Ul     |          | Coeur     | Heart    | ![Image21][Img21]   |
-| 22  | Uliw   |          | Mon coeur | My heart | ![Image22][Img22]   |
-| 23  | Izem   |          | Lion      | Lion     | ![Image23][Img23]   |
-| 24  | Izem   |          | Lion      | Lion     | ![Image24][Img24]   |
-| 25  | Izem   |          | Lion      | Lion     | ![Image25][Img25]   |
-| 26  | Izem   |          | Lion      | Lion     | ![Image26][Img26]   |
-| 27  | Izem   |          | Lion      | Lion     | ![Image27][Img27]   |
-| 28  | Izem   |          | Lion      | Lion     | ![Image28][Img28]   |
-| 29  | Izem   |          | Lion      | Lion     | ![Image29][Img29]   |
-| 30  | Ul     |          | Coeur     | Heart    | ![Image30][Img30]   |
-| 31  | Ul     |          | Coeur     | Heart    | ![Image31][Img31]   |
-| 32  | Uliw   |          | Mon coeur | My heart | ![Image32][Img32]   |
-| 33  | Izem   |          | Lion      | Lion     | ![Image33][Img33]   |
-| 34  | Izem   |          | Lion      | Lion     | ![Image34][Img34]   |
-| 35  | Izem   |          | Lion      | Lion     | ![Image35][Img35]   |
-| 36  | Izem   |          | Lion      | Lion     | ![Image36][Img36]   |
-| 37  | Izem   |          | Lion      | Lion     | ![Image37][Img37]   |
-| 38  | Izem   |          | Lion      | Lion     | ![Image38][Img38]   |
-| 39  | Izem   |          | Lion      | Lion     | ![Image39][Img39]   |
-| 40  | Ul     |          | Coeur     | Heart    | ![Image40][Img40]   |
-| 41  | Ul     |          | Coeur     | Heart    | ![Image41][Img41]   |
-| 42  | Uliw   |          | Mon coeur | My heart | ![Image42][Img42]   |
-| 43  | Izem   |          | Lion      | Lion     | ![Image43][Img43]   |
-| 44  | Izem   |          | Lion      | Lion     | ![Image44][Img44]   |
-| 45  | Izem   |          | Lion      | Lion     | ![Image45][Img45]   |
-| 46  | Izem   |          | Lion      | Lion     | ![Image46][Img46]   |
-| 47  | Izem   |          | Lion      | Lion     | ![Image47][Img47]   |
-| 48  | Izem   |          | Lion      | Lion     | ![Image48][Img48]   |
-| 49  | Izem   |          | Lion      | Lion     | ![Image49][Img49]   |
-| 50  | Ul     |          | Coeur     | Heart    | ![Image50][Img50]   |
-| 51  | Ul     |          | Coeur     | Heart    | ![Image51][Img51]   |
-| 52  | Uliw   |          | Mon coeur | My heart | ![Image52][Img52]   |
-| 53  | Izem   |          | Lion      | Lion     | ![Image53][Img53]   |
-| 54  | Izem   |          | Lion      | Lion     | ![Image54][Img54]   |
-| 55  | Izem   |          | Lion      | Lion     | ![Image55][Img55]   |
-| 56  | Izem   |          | Lion      | Lion     | ![Image56][Img56]   |
-| 57  | Izem   |          | Lion      | Lion     | ![Image57][Img57]   |
-| 58  | Izem   |          | Lion      | Lion     | ![Image58][Img58]   |
-| 59  | Izem   |          | Lion      | Lion     | ![Image59][Img59]   |
-| 60  | Ul     |          | Coeur     | Heart    | ![Image60][Img60]   |
-| 61  | Ul     |          | Coeur     | Heart    | ![Image61][Img61]   |
-| 62  | Uliw   |          | Mon coeur | My heart | ![Image62][Img62]   |
-| 63  | Izem   |          | Lion      | Lion     | ![Image63][Img63]   |
-| 64  | Izem   |          | Lion      | Lion     | ![Image64][Img64]   |
-| 65  | Izem   |          | Lion      | Lion     | ![Image65][Img65]   |
-| 66  | Izem   |          | Lion      | Lion     | ![Image66][Img66]   |
-| 67  | Izem   |          | Lion      | Lion     | ![Image67][Img67]   |
-| 68  | Izem   |          | Lion      | Lion     | ![Image68][Img68]   |
-| 69  | Izem   |          | Lion      | Lion     | ![Image69][Img69]   |
-| 70  | Ul     |          | Coeur     | Heart    | ![Image70][Img70]   |
-| 71  | Ul     |          | Coeur     | Heart    | ![Image71][Img71]   |
-| 72  | Uliw   |          | Mon coeur | My heart | ![Image72][Img72]   |
-| 73  | Izem   |          | Lion      | Lion     | ![Image73][Img73]   |
-| 74  | Izem   |          | Lion      | Lion     | ![Image74][Img74]   |
-| 75  | Izem   |          | Lion      | Lion     | ![Image75][Img75]   |
-| 76  | Izem   |          | Lion      | Lion     | ![Image76][Img76]   |
-| 77  | Izem   |          | Lion      | Lion     | ![Image77][Img77]   |
-| 78  | Izem   |          | Lion      | Lion     | ![Image78][Img78]   |
-| 79  | Izem   |          | Lion      | Lion     | ![Image79][Img79]   |
-| 80  | Ul     |          | Coeur     | Heart    | ![Image80][Img80]   |
-| 81  | Ul     |          | Coeur     | Heart    | ![Image81][Img81]   |
-| 82  | Uliw   |          | Mon coeur | My heart | ![Image82][Img82]   |
-| 83  | Izem   |          | Lion      | Lion     | ![Image83][Img83]   |
-| 84  | Izem   |          | Lion      | Lion     | ![Image84][Img84]   |
-| 85  | Izem   |          | Lion      | Lion     | ![Image85][Img85]   |
-| 86  | Izem   |          | Lion      | Lion     | ![Image86][Img86]   |
-| 87  | Izem   |          | Lion      | Lion     | ![Image87][Img87]   |
-| 88  | Izem   |          | Lion      | Lion     | ![Image88][Img88]   |
-| 89  | Izem   |          | Lion      | Lion     | ![Image89][Img89]   |
-| 90  | Ul     |          | Coeur     | Heart    | ![Image90][Img90]   |
-| 91  | Ul     |          | Coeur     | Heart    | ![Image91][Img91]   |
-| 92  | Uliw   |          | Mon coeur | My heart | ![Image92][Img92]   |
-| 93  | Izem   |          | Lion      | Lion     | ![Image93][Img93]   |
-| 94  | Izem   |          | Lion      | Lion     | ![Image94][Img94]   |
-| 95  | Izem   |          | Lion      | Lion     | ![Image95][Img95]   |
-| 96  | Izem   |          | Lion      | Lion     | ![Image96][Img96]   |
-| 97  | Izem   |          | Lion      | Lion     | ![Image97][Img97]   |
-| 98  | Izem   |          | Lion      | Lion     | ![Image98][Img98]   |
-| 99  | Izem   |          | Lion      | Lion     | ![Image99][Img99]   |
-| 100 | Izem   |          | Lion      | Lion     | ![Image100][Img100] |
+| Id  | Kabyle  | Tifinagh | Français   | Anglais   | Image               |
+|-----|---------|----------|------------|-----------|---------------------|
+| 1   | Ul      |          | Coeur      | Heart     | ![Image1][Img1]     |
+| 2   | Uliw    |          | Mon coeur  | My heart  | ![Image2][Img2]     |
+| 3   | Izem    |          | Lion       | Lion      | ![Image3][Img3]     |
+| 4   | Tasedda |          | Une lionne | A lioness | ![Image4][Img4]     |
+| 5   | Amcic   |          | Un chat    | A cat     | ![Image5][Img5]     |
+| 6   | Aman    |          | Eau        | Water     | ![Image6][Img6]     |
+| 7   | Afus    |          | Main       | Hand      | ![Image7][Img7]     |
+| 8   | Adhar   |          | Pied       | Foot      | ![Image8][Img8]     |
+| 9   | Asigna  |          | Nuage      | Cloud     | ![Image9][Img9]     |
+| 10  | Itij    |          | Soleil     | Sun       | ![Image10][Img10]   |
+| 11  | Tiziri      |          | Claire de lune      | Moonlight     | ![Image11][Img11]   |
+| 12  | Axxam    |          | Maison  | House  | ![Image12][Img12]   |
+| 13  | Abrid    |          | Chemin       | Path      | ![Image13][Img13]   |
+| 14  | Asif    |          | Fleuve, Rivière       | River      | ![Image14][Img14]   |
+| 15  | Aqjun    |          | Un chien       | A dog      | ![Image15][Img15]   |
+| 16  | Da, Dagi, Dagini    |          | Là, ici       | Here      | ![Image16][Img16]   |
+| 17  | Degger, Demmer    |          | Pousser       | To push      | ![Image17][Img17]   |
+| 18  | Tadulki    |          | L'union       | The union      | ![Image18][Img18]   |
+| 19  | Anzaren    |          | Nez       | Nose      | ![Image19][Img19]   |
+| 20  | Ansuf yiswen      |          | Bienvenue      | Welcome     | ![Image20][Img20]   |
+| 21  | Seksu      |          | Couscous      | Couscous     | ![Image21][Img21]   |
+| 22  | Zegger    |          | Traverser  | To cross  | ![Image22][Img22]   |
+| 23  | Sugh    |          | Crier       | To scream      | ![Image23][Img23]   |
+| 24  | Asghar    |          | Bois       | Wood      | ![Image24][Img24]   |
+| 25  | Azger    |          | Boeuf       | Ox      | ![Image25][Img25]   |
+| 26  | Azul    |          | Salut       | Hello      | ![Image26][Img26]   |
+| 27  | Yemma    |          | Maman       | Mom      | ![Image27][Img27]   |
+| 28  | Amellal    |          | Blanc       | White      | ![Image28][Img28]   |
+| 29  | Azeggwagh    |          | Rouge       | Red      | ![Image29][Img29]   |
+| 30  | Azegzaw      |          | Vert      | Green     | ![Image30][Img30]   |
+| 31  | Ul      |          | Coeur      | Heart     | ![Image31][Img31]   |
+| 32  | Uliw    |          | Mon coeur  | My heart  | ![Image32][Img32]   |
+| 33  | Izem    |          | Lion       | Lion      | ![Image33][Img33]   |
+| 34  | Izem    |          | Lion       | Lion      | ![Image34][Img34]   |
+| 35  | Izem    |          | Lion       | Lion      | ![Image35][Img35]   |
+| 36  | Izem    |          | Lion       | Lion      | ![Image36][Img36]   |
+| 37  | Izem    |          | Lion       | Lion      | ![Image37][Img37]   |
+| 38  | Izem    |          | Lion       | Lion      | ![Image38][Img38]   |
+| 39  | Izem    |          | Lion       | Lion      | ![Image39][Img39]   |
+| 40  | Ul      |          | Coeur      | Heart     | ![Image40][Img40]   |
+| 41  | Ul      |          | Coeur      | Heart     | ![Image41][Img41]   |
+| 42  | Uliw    |          | Mon coeur  | My heart  | ![Image42][Img42]   |
+| 43  | Izem    |          | Lion       | Lion      | ![Image43][Img43]   |
+| 44  | Izem    |          | Lion       | Lion      | ![Image44][Img44]   |
+| 45  | Izem    |          | Lion       | Lion      | ![Image45][Img45]   |
+| 46  | Izem    |          | Lion       | Lion      | ![Image46][Img46]   |
+| 47  | Izem    |          | Lion       | Lion      | ![Image47][Img47]   |
+| 48  | Izem    |          | Lion       | Lion      | ![Image48][Img48]   |
+| 49  | Izem    |          | Lion       | Lion      | ![Image49][Img49]   |
+| 50  | Ul      |          | Coeur      | Heart     | ![Image50][Img50]   |
+| 51  | Ul      |          | Coeur      | Heart     | ![Image51][Img51]   |
+| 52  | Uliw    |          | Mon coeur  | My heart  | ![Image52][Img52]   |
+| 53  | Izem    |          | Lion       | Lion      | ![Image53][Img53]   |
+| 54  | Izem    |          | Lion       | Lion      | ![Image54][Img54]   |
+| 55  | Izem    |          | Lion       | Lion      | ![Image55][Img55]   |
+| 56  | Izem    |          | Lion       | Lion      | ![Image56][Img56]   |
+| 57  | Izem    |          | Lion       | Lion      | ![Image57][Img57]   |
+| 58  | Izem    |          | Lion       | Lion      | ![Image58][Img58]   |
+| 59  | Izem    |          | Lion       | Lion      | ![Image59][Img59]   |
+| 60  | Ul      |          | Coeur      | Heart     | ![Image60][Img60]   |
+| 61  | Ul      |          | Coeur      | Heart     | ![Image61][Img61]   |
+| 62  | Uliw    |          | Mon coeur  | My heart  | ![Image62][Img62]   |
+| 63  | Izem    |          | Lion       | Lion      | ![Image63][Img63]   |
+| 64  | Izem    |          | Lion       | Lion      | ![Image64][Img64]   |
+| 65  | Izem    |          | Lion       | Lion      | ![Image65][Img65]   |
+| 66  | Izem    |          | Lion       | Lion      | ![Image66][Img66]   |
+| 67  | Izem    |          | Lion       | Lion      | ![Image67][Img67]   |
+| 68  | Izem    |          | Lion       | Lion      | ![Image68][Img68]   |
+| 69  | Izem    |          | Lion       | Lion      | ![Image69][Img69]   |
+| 70  | Ul      |          | Coeur      | Heart     | ![Image70][Img70]   |
+| 71  | Ul      |          | Coeur      | Heart     | ![Image71][Img71]   |
+| 72  | Uliw    |          | Mon coeur  | My heart  | ![Image72][Img72]   |
+| 73  | Izem    |          | Lion       | Lion      | ![Image73][Img73]   |
+| 74  | Izem    |          | Lion       | Lion      | ![Image74][Img74]   |
+| 75  | Izem    |          | Lion       | Lion      | ![Image75][Img75]   |
+| 76  | Izem    |          | Lion       | Lion      | ![Image76][Img76]   |
+| 77  | Izem    |          | Lion       | Lion      | ![Image77][Img77]   |
+| 78  | Izem    |          | Lion       | Lion      | ![Image78][Img78]   |
+| 79  | Izem    |          | Lion       | Lion      | ![Image79][Img79]   |
+| 80  | Ul      |          | Coeur      | Heart     | ![Image80][Img80]   |
+| 81  | Ul      |          | Coeur      | Heart     | ![Image81][Img81]   |
+| 82  | Uliw    |          | Mon coeur  | My heart  | ![Image82][Img82]   |
+| 83  | Izem    |          | Lion       | Lion      | ![Image83][Img83]   |
+| 84  | Izem    |          | Lion       | Lion      | ![Image84][Img84]   |
+| 85  | Izem    |          | Lion       | Lion      | ![Image85][Img85]   |
+| 86  | Izem    |          | Lion       | Lion      | ![Image86][Img86]   |
+| 87  | Izem    |          | Lion       | Lion      | ![Image87][Img87]   |
+| 88  | Izem    |          | Lion       | Lion      | ![Image88][Img88]   |
+| 89  | Izem    |          | Lion       | Lion      | ![Image89][Img89]   |
+| 90  | Ul      |          | Coeur      | Heart     | ![Image90][Img90]   |
+| 91  | Ul      |          | Coeur      | Heart     | ![Image91][Img91]   |
+| 92  | Uliw    |          | Mon coeur  | My heart  | ![Image92][Img92]   |
+| 93  | Izem    |          | Lion       | Lion      | ![Image93][Img93]   |
+| 94  | Izem    |          | Lion       | Lion      | ![Image94][Img94]   |
+| 95  | Izem    |          | Lion       | Lion      | ![Image95][Img95]   |
+| 96  | Izem    |          | Lion       | Lion      | ![Image96][Img96]   |
+| 97  | Izem    |          | Lion       | Lion      | ![Image97][Img97]   |
+| 98  | Izem    |          | Lion       | Lion      | ![Image98][Img98]   |
+| 99  | Izem    |          | Lion       | Lion      | ![Image99][Img99]   |
+| 100 | Izem    |          | Lion       | Lion      | ![Image100][Img100] |
+
 
 
 
