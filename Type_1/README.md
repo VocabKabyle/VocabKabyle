@@ -93,16 +93,17 @@
 | 88  | Tura                 |          | Maintenant      | Now, Right now      | ![Image88][Img88]   |
 | 89  | Azemmur              |          | Olive           | Olive               | ![Image89][Img89]   |
 | 90  | Allen                |          | Yeux            | Eyes                | ![Image90][Img90]   |
-| 91  |                      |          |                 |                     | ![Image91][Img91]   |
-| 92  |                      |          |                 |                     | ![Image92][Img92]   |
-| 93  |                      |          |                 |                     | ![Image93][Img93]   |
-| 94  |                      |          |                 |                     | ![Image94][Img94]   |
-| 95  |                      |          |                 |                     | ![Image95][Img95]   |
-| 96  |                      |          |                 |                     | ![Image96][Img96]   |
-| 97  |                      |          |                 |                     | ![Image97][Img97]   |
-| 98  |                      |          |                 |                     | ![Image98][Img98]   |
-| 99  |                      |          |                 |                     | ![Image99][Img99]   |
-| 100 |                      |          |                 |                     | ![Image100][Img100] |
+| 91  | Aqejjir              |          | Jambe           | Leg                 | ![Image91][Img91]   |
+| 92  | Idmaren              |          | Poitrine        | Chest               | ![Image92][Img92]   |
+| 93  | Tabbuct              |          | Sein            | Breast              | ![Image93][Img93]   |
+| 94  | Nnal                 |          | Toucher         | Touch               | ![Image94][Img94]   |
+| 95  | Tismin               |          | Jalousie        | Jealousy            | ![Image95][Img95]   |
+| 96  | Amddakwel            |          | Un ami          | A friend            | ![Image96][Img96]   |
+| 97  | Azagur               |          | Dos             | Back                | ![Image97][Img97]   |
+| 98  | Idammen              |          | Sang            | Blood               | ![Image98][Img98]   |
+| 99  | Lmus                 |          | Couteau         | Knife               | ![Image99][Img99]   |
+| 100 | Zzit uzemmur         |          | Huile d'olive   | Olive oil           | ![Image100][Img100] |
+
 
 
 
