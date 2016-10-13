@@ -1,7 +1,7 @@
 
 # Creation d'un compte Github
 
-Aller dans https://github.com/join 
+Aller sur le lien https://github.com/join 
 
 Saisir : 
 * Nom utilisateur 
