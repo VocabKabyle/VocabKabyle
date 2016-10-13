@@ -2,7 +2,7 @@
 ## Description
 <*__Projet en cours de construction__*>
 
-Liste des images de vocabulaire de type 1 (chaque image décrit une seul mot en Kabyle avec sa traduction en Français et Anglais)
+Liste des images de vocabulaire de type 1 (chaque image décrit un seul mot en Kabyle avec sa traduction en Français et Anglais)
 
 ## Liste
 
