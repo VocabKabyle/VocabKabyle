@@ -4,7 +4,7 @@
 Aller sur le lien https://github.com/join 
 
 Saisir : 
-* Nom utilisateur 
+* Nom d'utilisateur 
 * Email
 * Mot de passe
  
@@ -18,6 +18,12 @@ Cliquer sur le boutton "**Submit**"
 
 # Demander une invitation au projet VocabKabyle
 
+Envoyer nous votre nom d'utilisateur choisi sur Github (le username) avec la description de vos connaissance et votre motivation, via message privé sur [Facebook](https://www.facebook.com/VocabKabyle) ou [Twitter](https://twitter.com)
+
 # Accepter l'invitation 
+
+Vous aller reçevoir un mail d'invitation
+
+Accepter l'invitation 
 
 # Contribuer au projet
