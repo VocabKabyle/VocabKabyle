@@ -24,6 +24,13 @@ Envoyer nous votre nom d'utilisateur choisi sur Github (le username) avec la des
 
 Vous aller reçevoir un mail d'invitation
 
-Accepter l'invitation 
+Vous pouvez l'accepter via l'email 
+
+Ou aller sur ce lien : https://github.com/orgs/VocabKabyle/invitation
+
+Cliquer sur "**Join VocabKabyle**"
+
+![github3](https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Divers/github3.png)
+
 
 # Contribuer au projet
