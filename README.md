@@ -7,7 +7,7 @@ VocabKabyle est une application sur les réseaux sociaux [Facebook](https://face
 
 
 ## Contribuer 
-
+*En cours de rédaction*
 
 ## Types 
 
