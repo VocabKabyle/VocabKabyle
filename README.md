@@ -11,4 +11,4 @@ VocabKabyle est une application sur les réseaux sociaux [Facebook](https://face
 
 ## Types 
 
-* [Type 1 : Format qui décrit un seul mot](https://github.com/VocabKabyle/VocabKabyle/blob/master/T1/README.md)
+* [Type 1 : Format qui décrit un seul mot](https://github.com/VocabKabyle/VocabKabyle/blob/master/Type_1/README.md)
