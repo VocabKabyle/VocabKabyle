@@ -1,5 +1,5 @@
 
-# Creation d'un compte Github
+# [Etape 1] Creation d'un compte Github
 
 Aller sur le lien https://github.com/join 
 
@@ -16,11 +16,11 @@ Cliquer sur le boutton "**Continue**"
 
 Cliquer sur le boutton "**Submit**"
 
-# Demander une invitation au projet VocabKabyle
+# [Etape 2] Demander une invitation au projet VocabKabyle
 
 Envoyer nous votre nom d'utilisateur choisi sur Github (le username) avec la description de vos connaissances et votre motivation, via message privé sur [Facebook](https://www.facebook.com/VocabKabyle) ou [Twitter](https://twitter.com)
 
-# Accepter l'invitation 
+# [Etape 3] Accepter l'invitation 
 
 Vous aller reçevoir un mail d'invitation
 
@@ -33,4 +33,4 @@ Cliquer sur "**Join VocabKabyle**"
 ![github3](https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Divers/github3.png)
 
 
-# Contribuer au projet
+# [Etape 4] Contribuer au projet
