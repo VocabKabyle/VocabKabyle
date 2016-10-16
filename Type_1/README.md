@@ -108,26 +108,27 @@ Liste des images de vocabulaire de type 1 (chaque image décrit un seul mot ou c
 | 98  | Idammen              |          | Sang            | Blood               | ![Image98][Img98]   |
 | 99  | Lmus                 |          | Couteau         | Knife               | ![Image99][Img99]   |
 | 100 | Zzit uzemmur         |          | Huile d'olive   | Olive oil           | ![Image100][Img100] |
-| 101 | Iles                   |          | Langue           | Tongue               | ![Image101][Img101] |
-| 102 | Tizizwitt                 |          | Abeille       | Bee            | ![Image102][Img102] |
-| 103 | Tixsi                 |          | Brebis            | Sheep                | ![Image103][Img103] |
-| 104 | Aghyul              |          | Ane      | Donkey           | ![Image104][Img104] |
-| 105 | Wa, Wagi                |          | ça, Celui-ci         | This, This one               | ![Image105][Img105] |
-| 106 | Tugwdi                 |          | La peur             | The fear               | ![Image106][Img106] |
-| 107 | Igenni                 |          | Ciel            | Sky                | ![Image107][Img107] |
-| 108 | Tudert                |          | La vie            | The life                | ![Image108][Img108] |
-| 109 | Itri               |          | Etoile           | Star               | ![Image109][Img109] |
-| 110 | Tagecrart                 |          | Genou          | Knee                 | ![Image110][Img110] |
-| 111 | Tiziri               |          | Claire de lune  | Moonlight           | ![Image111][Img111] |
-| 112 | Axxam                |          | Maison          | House               | ![Image112][Img112] |
-| 113 | Abrid                |          | Chemin          | Path                | ![Image113][Img113] |
-| 114 | Asif                 |          | Fleuve, Rivière | River               | ![Image114][Img114] |
+| 101 | Iles                 |          | Langue          | Tongue              | ![Image101][Img101] |
+| 102 | Tizizwitt            |          | Abeille         | Bee                 | ![Image102][Img102] |
+| 103 | Tixsi                |          | Brebis          | Sheep               | ![Image103][Img103] |
+| 104 | Aghyul               |          | Ane             | Donkey              | ![Image104][Img104] |
+| 105 | Wa, Wagi             |          | ça, Celui-ci    | This, This one      | ![Image105][Img105] |
+| 106 | Tugwdi               |          | La peur         | The fear            | ![Image106][Img106] |
+| 107 | Igenni               |          | Ciel            | Sky                 | ![Image107][Img107] |
+| 108 | Tudert               |          | La vie          | The life            | ![Image108][Img108] |
+| 109 | Itri                 |          | Etoile          | Star                | ![Image109][Img109] |
+| 110 | Tagecrart            |          | Genou           | Knee                | ![Image110][Img110] |
+| 111 | Izi                  |          | Mouche          | Fly                 | ![Image111][Img111] |
+| 112 | Tighirdemt           |          | Scorpion        | Scorpion            | ![Image112][Img112] |
+| 113 | Afekrun, Ifker       |          | Tortue          | Turtle              | ![Image113][Img113] |
+| 114 | Asif                 |          |                 | River               | ![Image114][Img114] |
 | 115 | Aqjun                |          | Un chien        | A dog               | ![Image115][Img115] |
 | 116 | Da, Dagi, Dagini     |          | Là, ici         | Here                | ![Image116][Img116] |
 | 117 | Degger, Demmer       |          | Pousser         | To push             | ![Image117][Img117] |
 | 118 | Tadulki              |          | L'union         | The union           | ![Image118][Img118] |
 | 119 | Anzaren              |          | Nez             | Nose                | ![Image119][Img119] |
 | 120 | Ansuf yiswen         |          | Bienvenue       | Welcome             | ![Image120][Img120] |
+
 
 
 
@@ -254,7 +255,7 @@ Liste des images de vocabulaire de type 1 (chaque image décrit un seul mot ou c
 [Img111]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/111.png
 [Img112]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/112.png
 [Img113]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/113.png
-[Img114]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/14.png
+[Img114]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/114.png
 [Img115]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/115.png
 [Img116]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/116.png
 [Img117]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/117.png
