@@ -121,13 +121,14 @@ Liste des images de vocabulaire de type 1 (chaque image décrit un seul mot ou c
 | 111 | Izi                  |          | Mouche          | Fly                 | ![Image111][Img111] |
 | 112 | Tighirdemt           |          | Scorpion        | Scorpion            | ![Image112][Img112] |
 | 113 | Afekrun, Ifker       |          | Tortue          | Turtle              | ![Image113][Img113] |
-| 114 | Asif                 |          |                 | River               | ![Image114][Img114] |
-| 115 | Aqjun                |          | Un chien        | A dog               | ![Image115][Img115] |
-| 116 | Da, Dagi, Dagini     |          | Là, ici         | Here                | ![Image116][Img116] |
-| 117 | Degger, Demmer       |          | Pousser         | To push             | ![Image117][Img117] |
-| 118 | Tadulki              |          | L'union         | The union           | ![Image118][Img118] |
-| 119 | Anzaren              |          | Nez             | Nose                | ![Image119][Img119] |
-| 120 | Ansuf yiswen         |          | Bienvenue       | Welcome             | ![Image120][Img120] |
+| 114 | Bururu               |          | Hibou           | Owl                 | ![Image114][Img114] |
+| 115 | Tiferllest           |          | Hirondelle      | Swallow             | ![Image115][Img115] |
+| 116 | Tamart               |          | Barbe           | Beard               | ![Image116][Img116] |
+| 117 | Claghem              |          | Moustache       | Moustache, Mustache | ![Image117][Img117] |
+| 118 | Tilelli              |          | Liberté         | Freedom             | ![Image118][Img118] |
+| 119 | Adhad                |          | Doigt           | Finger              | ![Image119][Img119] |
+| 120 | Ilef                 |          | Sanglier        | Wild boar           | ![Image120][Img120] |
+
 
 
 
