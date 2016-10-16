@@ -108,6 +108,26 @@ Liste des images de vocabulaire de type 1 (chaque image décrit un seul mot ou c
 | 98  | Idammen              |          | Sang            | Blood               | ![Image98][Img98]   |
 | 99  | Lmus                 |          | Couteau         | Knife               | ![Image99][Img99]   |
 | 100 | Zzit uzemmur         |          | Huile d'olive   | Olive oil           | ![Image100][Img100] |
+| 101 | Ul                   |          | Coeur           | Heart               | ![Image101][Img101] |
+| 102 | Uliw                 |          | Mon coeur       | My heart            | ![Image102][Img102] |
+| 103 | Izem                 |          | Lion            | Lion                | ![Image103][Img103] |
+| 104 | Tasedda              |          | Une lionne      | A lioness           | ![Image104][Img104] |
+| 105 | Amcic                |          | Un chat         | A cat               | ![Image105][Img105] |
+| 106 | Aman                 |          | Eau             | Water               | ![Image106][Img106] |
+| 107 | Afus                 |          | Main            | Hand                | ![Image107][Img107] |
+| 108 | Adhar                |          | Pied            | Foot                | ![Image108][Img108] |
+| 109 | Asigna               |          | Nuage           | Cloud               | ![Image109][Img109] |
+| 110 | Itij                 |          | Soleil          | Sun                 | ![Image110][Img110] |
+| 111 | Tiziri               |          | Claire de lune  | Moonlight           | ![Image111][Img111] |
+| 112 | Axxam                |          | Maison          | House               | ![Image112][Img112] |
+| 113 | Abrid                |          | Chemin          | Path                | ![Image113][Img113] |
+| 114 | Asif                 |          | Fleuve, Rivière | River               | ![Image114][Img114] |
+| 115 | Aqjun                |          | Un chien        | A dog               | ![Image115][Img115] |
+| 116 | Da, Dagi, Dagini     |          | Là, ici         | Here                | ![Image116][Img116] |
+| 117 | Degger, Demmer       |          | Pousser         | To push             | ![Image117][Img117] |
+| 118 | Tadulki              |          | L'union         | The union           | ![Image118][Img118] |
+| 119 | Anzaren              |          | Nez             | Nose                | ![Image119][Img119] |
+| 120 | Ansuf yiswen         |          | Bienvenue       | Welcome             | ![Image120][Img120] |
 
 
 
