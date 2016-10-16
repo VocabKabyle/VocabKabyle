@@ -108,16 +108,16 @@ Liste des images de vocabulaire de type 1 (chaque image décrit un seul mot ou c
 | 98  | Idammen              |          | Sang            | Blood               | ![Image98][Img98]   |
 | 99  | Lmus                 |          | Couteau         | Knife               | ![Image99][Img99]   |
 | 100 | Zzit uzemmur         |          | Huile d'olive   | Olive oil           | ![Image100][Img100] |
-| 101 | Ul                   |          | Coeur           | Heart               | ![Image101][Img101] |
-| 102 | Uliw                 |          | Mon coeur       | My heart            | ![Image102][Img102] |
-| 103 | Izem                 |          | Lion            | Lion                | ![Image103][Img103] |
-| 104 | Tasedda              |          | Une lionne      | A lioness           | ![Image104][Img104] |
-| 105 | Amcic                |          | Un chat         | A cat               | ![Image105][Img105] |
-| 106 | Aman                 |          | Eau             | Water               | ![Image106][Img106] |
-| 107 | Afus                 |          | Main            | Hand                | ![Image107][Img107] |
-| 108 | Adhar                |          | Pied            | Foot                | ![Image108][Img108] |
-| 109 | Asigna               |          | Nuage           | Cloud               | ![Image109][Img109] |
-| 110 | Itij                 |          | Soleil          | Sun                 | ![Image110][Img110] |
+| 101 | Iles                   |          | Langue           | Tongue               | ![Image101][Img101] |
+| 102 | Tizizwitt                 |          | Abeille       | Bee            | ![Image102][Img102] |
+| 103 | Tixsi                 |          | Brebis            | Sheep                | ![Image103][Img103] |
+| 104 | Aghyul              |          | Ane      | Donkey           | ![Image104][Img104] |
+| 105 | Wa, Wagi                |          | ça, Celui-ci         | This, This one               | ![Image105][Img105] |
+| 106 | Tugwdi                 |          | La peur             | The fear               | ![Image106][Img106] |
+| 107 | Igenni                 |          | Ciel            | Sky                | ![Image107][Img107] |
+| 108 | Tudert                |          | La vie            | The life                | ![Image108][Img108] |
+| 109 | Itri               |          | Etoile           | Star               | ![Image109][Img109] |
+| 110 | Tagecrart                 |          | Genou          | Knee                 | ![Image110][Img110] |
 | 111 | Tiziri               |          | Claire de lune  | Moonlight           | ![Image111][Img111] |
 | 112 | Axxam                |          | Maison          | House               | ![Image112][Img112] |
 | 113 | Abrid                |          | Chemin          | Path                | ![Image113][Img113] |
