@@ -34,3 +34,11 @@ Cliquer sur "**Join VocabKabyle**"
 
 
 # [Etape 4] Contribuer au projet
+
+Cliquer sur le stylo à côté du fichier pour pouvoir le modifier 
+
+![github4](https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Divers/github4.png)
+
+Modifier le fichier aller tout en bas et cliquer sur le bouton "**Commit changes**" pour sauvegarder les modifications
+
+![github5](https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Divers/github5.png)
