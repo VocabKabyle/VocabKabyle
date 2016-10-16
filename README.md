@@ -7,7 +7,8 @@ VocabKabyle est une application sur les réseaux sociaux [Facebook](https://face
 
 
 ## Contribuer 
-*En cours de rédaction*
+
+[Procédure à suivre](https://github.com/VocabKabyle/VocabKabyle/blob/master/CONTRIBUTE.md)
 
 ## Types 
 
