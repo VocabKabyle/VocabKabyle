@@ -1,21 +1,23 @@
 # VocabKabyle
 ## Description
+
 <*__Projet en cours de construction__*>
+Liste des images de vocabulaire de type 1 (chaque image décrit un phrase en Kabyle avec sa traduction en Français et Anglais)
 
 ## Liste
 
-| Id  | Kabyle               | Tifinagh | Français        | Anglais             | Image               |
-|-----|----------------------|----------|-----------------|---------------------|---------------------|
-| 1   | Ul                   |          | Coeur           | Heart               | ![Image1][Img1]     |
-| 2   | Uliw                 |          | Mon coeur       | My heart            | ![Image2][Img2]     |
-| 3   | Izem                 |          | Lion            | Lion                | ![Image3][Img3]     |
-| 4   | Tasedda              |          | Une lionne      | A lioness           | ![Image4][Img4]     |
-| 5   | Amcic                |          | Un chat         | A cat               | ![Image5][Img5]     |
-| 6   | Aman                 |          | Eau             | Water               | ![Image6][Img6]     |
-| 7   | Afus                 |          | Main            | Hand                | ![Image7][Img7]     |
-| 8   | Adhar                |          | Pied            | Foot                | ![Image8][Img8]     |
-| 9   | Asigna               |          | Nuage           | Cloud               | ![Image9][Img9]     |
-| 10  | Itij                 |          | Soleil          | Sun                 | ![Image10][Img10]   |
+| Id | Kabyle                | Tifinagh | Français           | Anglais           | Image             |
+|----|-----------------------|----------|--------------------|-------------------|-------------------|
+| 1  | Iqqerḥ-iyi uqerru-yiw |          | J'ai mal à la tête | I have a headache | ![Image1][Img1]   |
+| 2  |                       |          |                    |                   | ![Image2][Img2]   |
+| 3  |                       |          |                    |                   | ![Image3][Img3]   |
+| 4  |                       |          |                    |                   | ![Image4][Img4]   |
+| 5  |                       |          |                    |                   | ![Image5][Img5]   |
+| 6  |                       |          |                    |                   | ![Image6][Img6]   |
+| 7  |                       |          |                    |                   | ![Image7][Img7]   |
+| 8  |                       |          |                    |                   | ![Image8][Img8]   |
+| 9  |                       |          |                    |                   | ![Image9][Img9]   |
+| 10 |                       |          |                    |                   | ![Image10][Img10] |
 
 
 
