@@ -10,7 +10,7 @@ Liste des images de vocabulaire de type 1 (chaque image décrit un phrase en Kab
 | Id | Kabyle                | Tifinagh | Français           | Anglais           | Image             |
 |----|-----------------------|----------|--------------------|-------------------|-------------------|
 | 1  | Iqqerḥ-iyi uqerru-yiw |          | J'ai mal à la tête | I have a headache | ![Image1][Img1]   |
-| 2  |                       |          |                    |                   | ![Image2][Img2]   |
+| 2  | Amek i tettiliḍ ?     |          | Comment vas-tu ?   | How are you?      | ![Image2][Img2]   |
 | 3  |                       |          |                    |                   | ![Image3][Img3]   |
 | 4  |                       |          |                    |                   | ![Image4][Img4]   |
 | 5  |                       |          |                    |                   | ![Image5][Img5]   |
@@ -19,6 +19,8 @@ Liste des images de vocabulaire de type 1 (chaque image décrit un phrase en Kab
 | 8  |                       |          |                    |                   | ![Image8][Img8]   |
 | 9  |                       |          |                    |                   | ![Image9][Img9]   |
 | 10 |                       |          |                    |                   | ![Image10][Img10] |
+
+
 
 
 
