@@ -5,7 +5,6 @@
 Liste des images de vocabulaire de type 1 (chaque image décrit un seul mot ou concept en Kabyle avec sa traduction en Français et Anglais)
 
 ## Liste
-
 | Id  | Kabyle               | Tifinagh       | Français        | Anglais             | Image               |
 |-----|----------------------|----------------|-----------------|---------------------|---------------------|
 | 1   | Ul                   | ⵓⵍ             | Coeur           | Heart               | ![Image1][Img1]     |
@@ -128,6 +127,21 @@ Liste des images de vocabulaire de type 1 (chaque image décrit un seul mot ou c
 | 118 | Tilelli              |                | Liberté         | Freedom             | ![Image118][Img118] |
 | 119 | Adhad                |                | Doigt           | Finger              | ![Image119][Img119] |
 | 120 | Ilef                 |                | Sanglier        | Wild boar           | ![Image120][Img120] |
+| 121 | Ul                   |                | Coeur           | Heart               | ![Image121][Img121] |
+| 122 | Uliw                 |                | Mon coeur       | My heart            | ![Image122][Img122] |
+| 123 | Izem                 |                | Lion            | Lion                | ![Image123][Img123] |
+| 124 | Tasedda              |                | Une lionne      | A lioness           | ![Image124][Img124] |
+| 125 | Amcic                |                | Un chat         | A cat               | ![Image125][Img125] |
+| 126 | Aman                 |                | Eau             | Water               | ![Image126][Img126] |
+| 127 | Afus                 |                | Main            | Hand                | ![Image127][Img127] |
+| 128 | Adhar                |                | Pied            | Foot                | ![Image128][Img128] |
+| 129 | Asigna               |                | Nuage           | Cloud               | ![Image129][Img129] |
+| 130 | Itij                 |                | Soleil          | Sun                 | ![Image130][Img130] |
+| 131 | Tiziri               |                | Claire de lune  | Moonlight           | ![Image131][Img131] |
+| 132 | Axxam                |                | Maison          | House               | ![Image132][Img132] |
+| 133 | Abrid                |                | Chemin          | Path                | ![Image133][Img133] |
+| 134 | Asif                 |                | Fleuve, Rivière | River               | ![Image134][Img134] |
+| 135 | Aqjun                |                | Un chien        | A dog               | ![Image135][Img135] |
 
 
 
@@ -264,3 +278,18 @@ Liste des images de vocabulaire de type 1 (chaque image décrit un seul mot ou c
 [Img118]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/118.png
 [Img119]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/119.png
 [Img120]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/120.png
+[Img121]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/121.png
+[Img122]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/122.png
+[Img123]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/123.png
+[Img124]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/124.png
+[Img125]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/125.png
+[Img126]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/126.png
+[Img127]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/127.png
+[Img128]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/128.png
+[Img129]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/129.png
+[Img130]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/130.png
+[Img131]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/131.png
+[Img132]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/132.png
+[Img133]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/133.png
+[Img134]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/134.png
+[Img135]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/135.png
