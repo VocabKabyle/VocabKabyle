@@ -8,15 +8,15 @@ Liste des images de vocabulaire de type 1 (chaque image décrit un seul mot ou c
 | Id  | Kabyle               | Tifinagh       | Français        | Anglais                  | Image               |
 |-----|----------------------|----------------|-----------------|--------------------------|---------------------|
 | 1   | Ul                   | ⵓⵍ             | Coeur           | Heart                    | ![Image1][Img1]     |
-| 2   | Uliw                 | ⵓⵍⵉⵡ           | Mon coeur       | My heart                 | ![Image2][Img2]     |
+| 2   | Ul-iw                | ⵓⵍⵉⵡ           | Mon coeur       | My heart                 | ![Image2][Img2]     |
 | 3   | Izem                 | ⵉⵣⴻⵎ           | Lion            | Lion                     | ![Image3][Img3]     |
 | 4   | Tasedda              |                | Une lionne      | A lioness                | ![Image4][Img4]     |
 | 5   | Amcic                | ⴰⵎⵛⵉⵛ          | Un chat         | A cat                    | ![Image5][Img5]     |
 | 6   | Aman                 | ⴰⵎⴰⵏ           | Eau             | Water                    | ![Image6][Img6]     |
 | 7   | Afus                 | ⴰⴼⵓⵙ           | Main            | Hand                     | ![Image7][Img7]     |
-| 8   | Adhar                |                | Pied            | Foot                     | ![Image8][Img8]     |
+| 8   | Aḍar                 |                | Pied            | Foot                     | ![Image8][Img8]     |
 | 9   | Asigna               | ⴰⴱⴰⵔⴽⴰⵏ        | Nuage           | Cloud                    | ![Image9][Img9]     |
-| 10  | Itij                 |                | Soleil          | Sun                      | ![Image10][Img10]   |
+| 10  | Iṭij                 |                | Soleil          | Sun                      | ![Image10][Img10]   |
 | 11  | Tiziri               | ⴰⴱⴰⵔⴽⴰⵏ        | Claire de lune  | Moonlight                | ![Image11][Img11]   |
 | 12  | Axxam                |                | Maison          | House                    | ![Image12][Img12]   |
 | 13  | Abrid                |                | Chemin          | Path                     | ![Image13][Img13]   |
@@ -26,68 +26,68 @@ Liste des images de vocabulaire de type 1 (chaque image décrit un seul mot ou c
 | 17  | Degger, Demmer       | ⴷⴻⴳⴳⴻⵔ, ⴷⴻⵎⵎⴻⵔ | Pousser         | To push                  | ![Image17][Img17]   |
 | 18  | Tadulki              | ⵜⴰⴷⵓⴽⵍⵉ        | L'union         | The union                | ![Image18][Img18]   |
 | 19  | Anzaren              |                | Nez             | Nose                     | ![Image19][Img19]   |
-| 20  | Ansuf yiswen         |                | Bienvenue       | Welcome                  | ![Image20][Img20]   |
+| 20  | Anṣuf yiswen         |                | Bienvenue       | Welcome                  | ![Image20][Img20]   |
 | 21  | Seksu                | ⵙⴽⵙⵓ           | Couscous        | Couscous                 | ![Image21][Img21]   |
 | 22  | Zegger               | ⵣⴻⴳⴰⵔ          | Traverser       | To cross                 | ![Image22][Img22]   |
-| 23  | Sugh                 |                | Crier           | To scream                | ![Image23][Img23]   |
-| 24  | Asghar               |                | Bois            | Wood                     | ![Image24][Img24]   |
+| 23  | Ɛeggeḍ               |                | Crier           | To scream                | ![Image23][Img23]   |
+| 24  | Asɣaṛ                |                | Bois            | Wood                     | ![Image24][Img24]   |
 | 25  | Azger                | ⴰⵣⴳⴰⵔ          | Boeuf           | Ox                       | ![Image25][Img25]   |
 | 26  | Azul                 |                | Salut           | Hello                    | ![Image26][Img26]   |
 | 27  | Yemma                | ⵢⴻⵎⵎⴰ          | Maman           | Mom                      | ![Image27][Img27]   |
 | 28  | Amellal              |                | Blanc           | White                    | ![Image28][Img28]   |
-| 29  | Azeggwagh            |                | Rouge           | Red                      | ![Image29][Img29]   |
+| 29  | Azeggwaɣ             |                | Rouge           | Red                      | ![Image29][Img29]   |
 | 30  | Azegzaw              |                | Vert            | Green                    | ![Image30][Img30]   |
 | 31  | Aberkan              | ⴰⴱⴰⵔⴽⴰⵏ        | Noir            | Black                    | ![Image31][Img31]   |
 | 32  | Azegzaw              |                | Bleu            | Blue                     | ![Image32][Img32]   |
 | 33  | Imi, Aqemmuc         |                | Bouche          | Mouth                    | ![Image33][Img33]   |
 | 34  | Acenfir              |                | Lèvre           | Lip                      | ![Image34][Img34]   |
-| 35  | Amezzugh             |                | Oreille         | Ear                      | ![Image35][Img35]   |
+| 35  | Ameẓẓuɣ              |                | Oreille         | Ear                      | ![Image35][Img35]   |
 | 36  | Argaz                |                | Homme           | Man                      | ![Image36][Img36]   |
-| 37  | Tamettut             |                | Femme           | Woman                    | ![Image37][Img37]   |
-| 38  | Taqcict, Taqrurt     |                | Fille           | Girl                     | ![Image38][Img38]   |
-| 39  | Aqerru               | ⵢⴻⵎⵎⴰ          | Tête            | Head                     | ![Image39][Img39]   |
+| 37  | Tameṭṭut             |                | Femme           | Woman                    | ![Image37][Img37]   |
+| 38  | Taqcict, Taqṛuṛt     |                | Fille           | Girl                     | ![Image38][Img38]   |
+| 39  | Aqeṛṛu               | ⵢⴻⵎⵎⴰ          | Tête            | Head                     | ![Image39][Img39]   |
 | 40  | Tanemmirt            |                | Merci           | Thanks, Thank you        | ![Image40][Img40]   |
 | 41  | Azekka               |                | Demain          | Tomorrow                 | ![Image41][Img41]   |
-| 42  | Idelli               |                | Hier            | Yesterday                | ![Image42][Img42]   |
+| 42  | Iḍelli               |                | Hier            | Yesterday                | ![Image42][Img42]   |
 | 43  | Assa, Assagi         |                | Aujoud'hui      | Today                    | ![Image43][Img43]   |
-| 44  | Ddurt, Smana         |                | Semaine         | Week                     | ![Image44][Img44]   |
+| 44  | Dduṛt, Smana         |                | Semaine         | Week                     | ![Image44][Img44]   |
 | 45  | Aggur                |                | Mois            | Month                    | ![Image45][Img45]   |
 | 46  | Assegwas             |                | Année           | Year                     | ![Image46][Img46]   |
-| 47  | Suttedh              |                | Allaiter        | Suckle, Breast-feed      | ![Image47][Img47]   |
+| 47  | Suṭṭeḍ               |                | Allaiter        | Suckle, Breast-feed      | ![Image47][Img47]   |
 | 48  | Lzzayer              |                | Algérie         | Algeria                  | ![Image48][Img48]   |
 | 49  | Fransa               | ⴼⵔⴰⵏⵙⴰ         | France          | France                   | ![Image49][Img49]   |
 | 50  | Marikan              | ⵎⴰⵔⵉⴽⴰⵏ        | Amérique        | America                  | ![Image50][Img50]   |
-| 51  | Tarumit, Tafransist  |                | Le français     | The french language      | ![Image51][Img51]   |
-| 52  | Arumi                |                | Un françai      | A frenchman              | ![Image52][Img52]   |
+| 51  | Taṛumit, Tafṛansist  |                | Le français     | The french language      | ![Image51][Img51]   |
+| 52  | Aṛumi                |                | Un français     | A frenchman              | ![Image52][Img52]   |
 | 53  | Aruy                 |                | Porc-épic       | Porcupine                | ![Image53][Img53]   |
 | 54  | Tafat                | ⵜⴰⴼⴰⵜ          | Lumière         | Light                    | ![Image54][Img54]   |
 | 55  | Tafunast             |                | Vache           | Cow                      | ![Image55][Img55]   |
 | 56  | Iddew, Ibekki        |                | Singe           | Monkey                   | ![Image56][Img56]   |
-| 57  | Ayazidh              |                | Coq             | Rooster, Cock            | ![Image57][Img57]   |
+| 57  | Ayaziḍ               |                | Coq             | Rooster, Cock            | ![Image57][Img57]   |
 | 58  | Tamellalt            | ⵜⴰⵎⵎⵍⵍⴻⵍⵜ      | Oeuf            | Egg                      | ![Image58][Img58]   |
 | 59  | Tala                 | ⵜⴰⵍⴰ           | Fontaine        | Fountain                 | ![Image59][Img59]   |
-| 60  | Ighil                |                | Bras            | Arm                      | ![Image60][Img60]   |
+| 60  | Iɣil                 |                | Bras            | Arm                      | ![Image60][Img60]   |
 | 61  | Awal                 |                | Parole          | Talk                     | ![Image61][Img61]   |
-| 62  | Aghrum               | ⴰⵖⵔⵓⵎ          | Pain            | Bread                    | ![Image62][Img62]   |
+| 62  | Aɣṛum                | ⴰⵖⵔⵓⵎ          | Pain            | Bread                    | ![Image62][Img62]   |
 | 63  | Akal                 |                | Sol, Terre      | Soil                     | ![Image63][Img63]   |
 | 64  | Anwa                 |                | Qui, Lequel     | Who                      | ![Image64][Img64]   |
 | 65  | Anta                 |                | Qui, Laquelle   | Who                      | ![Image65][Img65]   |
-| 66  | Taghat               |                | Chèvre          | Goat                     | ![Image66][Img66]   |
+| 66  | Taɣaṭ                |                | Chèvre          | Goat                     | ![Image66][Img66]   |
 | 67  | Awtul                | ⴰⵡⵜⵓⵍ          | Lapin           | Rabbit                   | ![Image67][Img67]   |
 | 68  | Uccen                |                | Chacal          | Jackal                   | ![Image68][Img68]   |
-| 69  | Adhfel               | ⴰⴷⵔⴰⵔ          | Neige           | Snow                     | ![Image69][Img69]   |
+| 69  | Adfel                | ⴰⴷⵔⴰⵔ          | Neige           | Snow                     | ![Image69][Img69]   |
 | 70  | Adrar                |                | Montagne        | Mountain                 | ![Image70][Img70]   |
 | 71  | Tayri                |                | Amour           | Love                     | ![Image71][Img71]   |
-| 72  | Tameghra             |                | Fête            | Party                    | ![Image72][Img72]   |
+| 72  | Tameɣṛa              |                | Fête            | Party                    | ![Image72][Img72]   |
 | 73  | Tabburt, Tawwurt     |                | Porte           | Door                     | ![Image73][Img73]   |
 | 74  | Ssuden, Mmac         |                | Embrasser       | To kiss                  | ![Image74][Img74]   |
 | 75  | Aggur                |                | Lune            | Moon                     | ![Image75][Img75]   |
-| 76  | Ttaq                 |                | Fenêtre         | Window                   | ![Image76][Img76]   |
+| 76  | Ṭṭaq                 |                | Fenêtre         | Window                   | ![Image76][Img76]   |
 | 77  | Times, Timest        |                | Feu             | Fire                     | ![Image77][Img77]   |
 | 78  | Lemri                |                | Miroir          | Mirror                   | ![Image78][Img78]   |
 | 79  | Nekk, Nekkini        |                | Je, Moi         | I, Me                    | ![Image79][Img79]   |
-| 80  | Kečč, Keččini        |                | Toi             | You                      | ![Image80][Img80]   |
-| 81  | Ageffur              |                | Pluie           | Rain                     | ![Image81][Img81]   |
+| 80  | Kečč, Keččini        |                | Toi (Masculine) | You (Male)               | ![Image80][Img80]   |
+| 81  | Ageffur, Anẓaṛ       |                | Pluie           | Rain                     | ![Image81][Img81]   |
 | 82  | Dadi, Dihin, Dihinna |                | Là-bas          | There, Over there        | ![Image82][Img82]   |
 | 83  | Llufan               |                | Bébé            | Baby                     | ![Image83][Img83]   |
 | 84  | Aru                  |                | Ecrire          | To write                 | ![Image84][Img84]   |
@@ -97,20 +97,20 @@ Liste des images de vocabulaire de type 1 (chaque image décrit un seul mot ou c
 | 88  | Tura                 |                | Maintenant      | Now, Right now           | ![Image88][Img88]   |
 | 89  | Azemmur              | ⴰⵣⴻⵎⵎⵓⵔ        | Olive           | Olive                    | ![Image89][Img89]   |
 | 90  | Allen                |                | Yeux            | Eyes                     | ![Image90][Img90]   |
-| 91  | Aqejjir              |                | Jambe           | Leg                      | ![Image91][Img91]   |
+| 91  | Aqejjiṛ              |                | Jambe           | Leg                      | ![Image91][Img91]   |
 | 92  | Idmaren              |                | Poitrine        | Chest                    | ![Image92][Img92]   |
 | 93  | Tabbuct              |                | Sein            | Breast                   | ![Image93][Img93]   |
 | 94  | Nnal                 |                | Toucher         | Touch                    | ![Image94][Img94]   |
 | 95  | Tismin               |                | Jalousie        | Jealousy                 | ![Image95][Img95]   |
 | 96  | Amddakwel            |                | Un ami          | A friend                 | ![Image96][Img96]   |
-| 97  | Azagur               |                | Dos             | Back                     | ![Image97][Img97]   |
+| 97  | Azagur, Aεrur        |                | Dos             | Back                     | ![Image97][Img97]   |
 | 98  | Idammen              |                | Sang            | Blood                    | ![Image98][Img98]   |
 | 99  | Lmus                 | ⵍⵎⵓⵙ           | Couteau         | Knife                    | ![Image99][Img99]   |
 | 100 | Zzit uzemmur         |                | Huile d'olive   | Olive oil                | ![Image100][Img100] |
 | 101 | Iles                 |                | Langue          | Tongue                   | ![Image101][Img101] |
 | 102 | Tizizwitt            | ⵜⵉⵣⵉⵣⵡⵉⵜ       | Abeille         | Bee                      | ![Image102][Img102] |
 | 103 | Tixsi                |                | Brebis          | Sheep                    | ![Image103][Img103] |
-| 104 | Aghyul               |                | Ane             | Donkey                   | ![Image104][Img104] |
+| 104 | Aɣyul                |                | Ane             | Donkey                   | ![Image104][Img104] |
 | 105 | Wa, Wagi             |                | ça, Celui-ci    | This, This one           | ![Image105][Img105] |
 | 106 | Tugwdi               |                | La peur         | The fear                 | ![Image106][Img106] |
 | 107 | Igenni               |                | Ciel            | Sky                      | ![Image107][Img107] |
@@ -118,30 +118,31 @@ Liste des images de vocabulaire de type 1 (chaque image décrit un seul mot ou c
 | 109 | Itri                 |                | Etoile          | Star                     | ![Image109][Img109] |
 | 110 | Tagecrart            |                | Genou           | Knee                     | ![Image110][Img110] |
 | 111 | Izi                  |                | Mouche          | Fly                      | ![Image111][Img111] |
-| 112 | Tighirdemt           |                | Scorpion        | Scorpion                 | ![Image112][Img112] |
+| 112 | Tiɣirdemt            |                | Scorpion        | Scorpion                 | ![Image112][Img112] |
 | 113 | Afekrun, Ifker       |                | Tortue          | Turtle                   | ![Image113][Img113] |
 | 114 | Bururu               |                | Hibou           | Owl                      | ![Image114][Img114] |
 | 115 | Tiferllest           |                | Hirondelle      | Swallow                  | ![Image115][Img115] |
 | 116 | Tamart               |                | Barbe           | Beard                    | ![Image116][Img116] |
-| 117 | Claghem              |                | Moustache       | Moustache, Mustache      | ![Image117][Img117] |
+| 117 | Claɣem               |                | Moustache       | Moustache, Mustache      | ![Image117][Img117] |
 | 118 | Tilelli              |                | Liberté         | Freedom                  | ![Image118][Img118] |
-| 119 | Adhad                |                | Doigt           | Finger                   | ![Image119][Img119] |
+| 119 | Aḍad                 |                | Doigt           | Finger                   | ![Image119][Img119] |
 | 120 | Ilef                 |                | Sanglier        | Wild boar                | ![Image120][Img120] |
-| 121 | Aqcic, Aqrur         |                | Garçon          | Boy                      | ![Image121][Img121] |
+| 121 | Aqcic, Aqṛuṛ         |                | Garçon          | Boy                      | ![Image121][Img121] |
 | 122 | Tifdentt             |                | Orteil          | Toe                      | ![Image122][Img122] |
-| 123 | Babaghayu            |                | Perroquet       | Parrot                   | ![Image123][Img123] |
+| 123 | Babaɣayu             |                | Perroquet       | Parrot                   | ![Image123][Img123] |
 | 124 | Anyir                |                | Front           | Forehead                 | ![Image124][Img124] |
 | 125 | Tawacult             |                | Famille         | Family                   | ![Image125][Img125] |
-| 126 | Timit                |                | Nombril         | Navel                    | ![Image126][Img126] |
-| 127 | Allagh               |                | Cerveau         | Brain                    | ![Image127][Img127] |
+| 126 | Timiṭ                |                | Nombril         | Navel                    | ![Image126][Img126] |
+| 127 | Allaɣ                |                | Cerveau         | Brain                    | ![Image127][Img127] |
 | 128 | Lbunya               |                | Poing           | Fist                     | ![Image128][Img128] |
-| 129 | Tamgert              |                | Cou             | Neck                     | ![Image129][Img129] |
-| 130 | Anebdu               |                | Eté             | Summber                  | ![Image130][Img130] |
+| 129 | Tamgeṛt              |                | Cou             | Neck                     | ![Image129][Img129] |
+| 130 | Anebdu, Azɣal        |                | Eté             | Summber                  | ![Image130][Img130] |
 | 131 | Lexrif               |                | Automne         | Autumn                   | ![Image131][Img131] |
 | 132 | Tarewela             |                | Fuite           | Flight, Escape, Run away | ![Image132][Img132] |
-| 133 | Imettawen            |                | Larmes          | Tears                    | ![Image133][Img133] |
+| 133 | Imeṭṭawen            |                | Larmes          | Tears                    | ![Image133][Img133] |
 | 134 | Anezgum              |                | Tristesse       | Sadness                  | ![Image134][Img134] |
-| 135 | Turghmest            |                | Dent            | Tooth                    | ![Image135][Img135] |
+| 135 | Tuɣmest              |                | Dent            | Tooth                    | ![Image135][Img135] |
+
 
 
 
