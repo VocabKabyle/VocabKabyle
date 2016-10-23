@@ -142,6 +142,21 @@ Liste des images de vocabulaire de type 1 (chaque image décrit un seul mot ou c
  133 | Imeṭṭawen            |                | Larmes          | Tears                    | ![Image133][Img133] |
  134 | Anezgum              |                | Tristesse       | Sadness                  | ![Image134][Img134] |
  135 | Tuɣmest              |                | Dent            | Tooth                    | ![Image135][Img135] |
+ 136 | Timiṭ                |                | Nombril         | Navel                    | ![Image136][Img136] |
+ 137 | Allaɣ                |                | Cerveau         | Brain                    | ![Image137][Img137] |
+ 138 | Lbunya               |                | Poing           | Fist                     | ![Image138][Img138] |
+ 139 | Tamgeṛt              |                | Cou             | Neck                     | ![Image139][Img139] |
+ 140 | Anebdu, Azɣal        |                | Eté             | Summber                  | ![Image140][Img140] |
+ 141 | Lexrif               |                | Automne         | Autumn                   | ![Image141][Img141] |
+ 142 | Tarewela             |                | Fuite           | Flight, Escape, Run away | ![Image142][Img142] |
+ 143 | Imeṭṭawen            |                | Larmes          | Tears                    | ![Image143][Img143] |
+ 144 | Anezgum              |                | Tristesse       | Sadness                  | ![Image144][Img144] |
+ 145 | Tuɣmest              |                | Dent            | Tooth                    | ![Image145][Img145] |
+ 146 | Timiṭ                |                | Nombril         | Navel                    | ![Image146][Img146] |
+ 147 | Allaɣ                |                | Cerveau         | Brain                    | ![Image147][Img147] |
+ 148 | Lbunya               |                | Poing           | Fist                     | ![Image148][Img148] |
+ 149 | Tamgeṛt              |                | Cou             | Neck                     | ![Image149][Img149] |
+ 150 | Anebdu, Azɣal        |                | Eté             | Summber                  | ![Image150][Img150] |
 
 
 
