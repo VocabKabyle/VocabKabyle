@@ -4,6 +4,8 @@
 Images de 101 à 200
 
 ## Liste
+| Id  | Kabyle               | Tifinagh       | Français        | Anglais                  | Image               |
+|-----|----------------------|----------------|-----------------|--------------------------|---------------------|
 | 101 | Iles                 |                | Langue          | Tongue                   | ![Image101][Img101] |
 | 102 | Tizizwitt            | ⵜⵉⵣⵉⵣⵡⵉⵜ       | Abeille         | Bee                      | ![Image102][Img102] |
 | 103 | Tixsi                |                | Brebis          | Sheep                    | ![Image103][Img103] |
