@@ -66,6 +66,22 @@ Images de 101 à 200
 | 158 | Neggez, Jelleb     |          | Sauter            | To jump                  | ![Image158][Img158] |
 | 159 | Iḍ                 |          | Nuit              | Night                    | ![Image159][Img159] |
 | 160 | Ččina              |          | Orange            | Orange                   | ![Image160][Img160] |
+| 161 | Isli               |          | Le marié          | Bridegroom, Groom        | ![Image161][Img161] |
+| 162 | Tislit             |          | La mariée         | The bride                | ![Image162][Img162] |
+| 163 | Aferṭeṭṭu          |          | Papillon          | Butterfly                | ![Image163][Img163] |
+| 164 | Azrem              |          | Serpent           | Serpent                  | ![Image164][Img164] |
+| 165 | Ṭubba              |          | Rat               | Rat                      | ![Image165][Img165] |
+| 166 | Aɣeṛda             |          | Souris            | Mouse                    | ![Image166][Img166] |
+| 167 | Enɣ                |          | Tuer              | To kill                  | ![Image167][Img167] |
+| 168 | Aɣenjuṛ            |          | Nez aquilin       | Roman nose               | ![Image168][Img168] |
+| 169 | Timesrifegt        |          | Avion             | Airplane, Plane          | ![Image169][Img169] |
+| 170 | Baba               |          | Papa              | Dad, Daddy               | ![Image170][Img170] |
+| 171 | xx                 |          | xx                | xx                       | ![Image171][Img171] |
+| 172 | xx                 |          | xx                | xx                       | ![Image172][Img172] |
+| 173 | xx                 |          | xx                | xx                       | ![Image173][Img173] |
+| 174 | xx                 |          | xx                | xx                       | ![Image174][Img174] |
+| 175 | xx                 |          | xx                | xx                       | ![Image175][Img175] |
+
 
 
 
@@ -136,3 +152,13 @@ Images de 101 à 200
 [Img158]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/158.png
 [Img159]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/159.png
 [Img160]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/160.png
+[Img161]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/161.png
+[Img162]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/162.png
+[Img163]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/163.png
+[Img164]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/164.png
+[Img165]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/165.png
+[Img166]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/166.png
+[Img167]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/167.png
+[Img168]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/168.png
+[Img169]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/169.png
+[Img170]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/170.png
