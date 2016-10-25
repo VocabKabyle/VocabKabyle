@@ -4,83 +4,89 @@
 Images de 101 à 200
 
 ## Liste
-| Id  | Kabyle             | Tifinagh | Français          | Anglais                  | Image               |
-|-----|--------------------|----------|-------------------|--------------------------|---------------------|
-| 101 | Iles               |          | Langue            | Tongue                   | ![Image101][Img101] |
-| 102 | Tizizwitt          | ⵜⵉⵣⵉⵣⵡⵉⵜ | Abeille           | Bee                      | ![Image102][Img102] |
-| 103 | Tixsi              |          | Brebis            | Sheep                    | ![Image103][Img103] |
-| 104 | Aɣyul              |          | Ane               | Donkey                   | ![Image104][Img104] |
-| 105 | Wa, Wagi           |          | ça, Celui-ci      | This, This one           | ![Image105][Img105] |
-| 106 | Tugwdi             |          | La peur           | The fear                 | ![Image106][Img106] |
-| 107 | Igenni             |          | Ciel              | Sky                      | ![Image107][Img107] |
-| 108 | Tudert             |          | La vie            | The life                 | ![Image108][Img108] |
-| 109 | Itri               |          | Etoile            | Star                     | ![Image109][Img109] |
-| 110 | Tagecrart          |          | Genou             | Knee                     | ![Image110][Img110] |
-| 111 | Izi                |          | Mouche            | Fly                      | ![Image111][Img111] |
-| 112 | Tiɣirdemt          |          | Scorpion          | Scorpion                 | ![Image112][Img112] |
-| 113 | Afekrun, Ifker     |          | Tortue            | Turtle                   | ![Image113][Img113] |
-| 114 | Bururu             |          | Hibou             | Owl                      | ![Image114][Img114] |
-| 115 | Tiferllest         |          | Hirondelle        | Swallow                  | ![Image115][Img115] |
-| 116 | Tamart             |          | Barbe             | Beard                    | ![Image116][Img116] |
-| 117 | Claɣem             |          | Moustache         | Moustache, Mustache      | ![Image117][Img117] |
-| 118 | Tilelli            |          | Liberté           | Freedom                  | ![Image118][Img118] |
-| 119 | Aḍad               |          | Doigt             | Finger                   | ![Image119][Img119] |
-| 120 | Ilef               |          | Sanglier          | Wild boar                | ![Image120][Img120] |
-| 121 | Aqcic, Aqṛuṛ       |          | Garçon            | Boy                      | ![Image121][Img121] |
-| 122 | Tifdentt           |          | Orteil            | Toe                      | ![Image122][Img122] |
-| 123 | Babaɣayu           |          | Perroquet         | Parrot                   | ![Image123][Img123] |
-| 124 | Anyir              |          | Front             | Forehead                 | ![Image124][Img124] |
-| 125 | Tawacult           |          | Famille           | Family                   | ![Image125][Img125] |
-| 126 | Timiṭ              |          | Nombril           | Navel                    | ![Image126][Img126] |
-| 127 | Allaɣ              |          | Cerveau           | Brain                    | ![Image127][Img127] |
-| 128 | Lbunya             |          | Poing             | Fist                     | ![Image128][Img128] |
-| 129 | Tamgeṛt            |          | Cou               | Neck                     | ![Image129][Img129] |
-| 130 | Anebdu, Azɣal      |          | Eté               | Summber                  | ![Image130][Img130] |
-| 131 | Lexrif             |          | Automne           | Autumn                   | ![Image131][Img131] |
-| 132 | Tarewela           |          | Fuite             | Flight, Escape, Run away | ![Image132][Img132] |
-| 133 | Imeṭṭawen          |          | Larmes            | Tears                    | ![Image133][Img133] |
-| 134 | Anezgum            |          | Tristesse         | Sadness                  | ![Image134][Img134] |
-| 135 | Tuɣmest            |          | Dent              | Tooth                    | ![Image135][Img135] |
-| 136 | Tafsut             |          | Printemps         | Spring                   | ![Image136][Img136] |
-| 137 | Kemm, Kemmini      |          | Toi (Féminin)     | You (Female              | ![Image137][Img137] |
-| 138 | Tagrest            |          | Hiver             | Winter                   | ![Image138][Img138] |
-| 139 | Tayett             |          | Épaule            | Shoulder                 | ![Image139][Img139] |
-| 140 | Tigzirt            |          | Ile               | Island                   | ![Image140][Img140] |
-| 141 | Aεebbuḍ            |          | Ventre            | Stomach                  | ![Image141][Img141] |
-| 142 | Tiṭ, Taṭṭuct       |          | Oeil              | Eye                      | ![Image142][Img142] |
-| 143 | Tiweṭzit           |          | Cheville          | Ankle                    | ![Image143][Img143] |
-| 144 | Acebbub, Acekkuḥ   |          | Cheveux           | Hair                     | ![Image144][Img144] |
-| 145 | Udem, Aqadum       |          | Visage            | Face                     | ![Image145][Img145] |
-| 146 | Adebbuz            |          | Pouce             | Thumb                    | ![Image146][Img146] |
-| 147 | Taddart            |          | Voiture           | Car                      | ![Image147][Img147] |
-| 148 | Takaṛṛust, Ṭumubil |          | Poing             | Fist                     | ![Image148][Img148] |
-| 149 | Tissist            |          | Araignée          | Spider                   | ![Image149][Img149] |
-| 150 | Ameksa             |          | Un berger         | A shepherd               | ![Image150][Img150] |
-| 151 | Aseṛɣu             |          | Bois de chauffage | Firewood                 | ![Image151][Img151] |
-| 152 | Aḍu                |          | Vent              | Wind                     | ![Image152][Img152] |
-| 153 | Tabexsist          |          | Une figue         | A fig fruit              | ![Image153][Img153] |
-| 154 | Baṭaṭa             |          | Pomme de terre    | Potato                   | ![Image154][Img154] |
-| 155 | Aεawdiw            |          | Cheval            | Horse                    | ![Image155][Img155] |
-| 156 | Tiqenṭaṛt          |          | Pont              | Bridge                   | ![Image156][Img156] |
-| 157 | Tilizṛi            |          | Télévision        | Television, TV           | ![Image157][Img157] |
-| 158 | Neggez, Jelleb     |          | Sauter            | To jump                  | ![Image158][Img158] |
-| 159 | Iḍ                 |          | Nuit              | Night                    | ![Image159][Img159] |
-| 160 | Ččina              |          | Orange            | Orange                   | ![Image160][Img160] |
-| 161 | Isli               |          | Le marié          | Bridegroom, Groom        | ![Image161][Img161] |
-| 162 | Tislit             |          | La mariée         | The bride                | ![Image162][Img162] |
-| 163 | Aferṭeṭṭu          |          | Papillon          | Butterfly                | ![Image163][Img163] |
-| 164 | Azrem              |          | Serpent           | Serpent                  | ![Image164][Img164] |
-| 165 | Ṭubba              |          | Rat               | Rat                      | ![Image165][Img165] |
-| 166 | Aɣeṛda             |          | Souris            | Mouse                    | ![Image166][Img166] |
-| 167 | Enɣ                |          | Tuer              | To kill                  | ![Image167][Img167] |
-| 168 | Aɣenjuṛ            |          | Nez aquilin       | Roman nose               | ![Image168][Img168] |
-| 169 | Timesrifegt        |          | Avion             | Airplane, Plane          | ![Image169][Img169] |
-| 170 | Baba               |          | Papa              | Dad, Daddy               | ![Image170][Img170] |
-| 171 | xx                 |          | xx                | xx                       | ![Image171][Img171] |
-| 172 | xx                 |          | xx                | xx                       | ![Image172][Img172] |
-| 173 | xx                 |          | xx                | xx                       | ![Image173][Img173] |
-| 174 | xx                 |          | xx                | xx                       | ![Image174][Img174] |
-| 175 | xx                 |          | xx                | xx                       | ![Image175][Img175] |
+| Id  | Kabyle             | Tifinagh | Français            | Anglais                  | Image               |
+|-----|--------------------|----------|---------------------|--------------------------|---------------------|
+| 101 | Iles               |          | Langue              | Tongue                   | ![Image101][Img101] |
+| 102 | Tizizwitt          | ⵜⵉⵣⵉⵣⵡⵉⵜ | Abeille             | Bee                      | ![Image102][Img102] |
+| 103 | Tixsi              |          | Brebis              | Sheep                    | ![Image103][Img103] |
+| 104 | Aɣyul              |          | Ane                 | Donkey                   | ![Image104][Img104] |
+| 105 | Wa, Wagi           |          | ça, Celui-ci        | This, This one           | ![Image105][Img105] |
+| 106 | Tugwdi             |          | La peur             | The fear                 | ![Image106][Img106] |
+| 107 | Igenni             |          | Ciel                | Sky                      | ![Image107][Img107] |
+| 108 | Tudert             |          | La vie              | The life                 | ![Image108][Img108] |
+| 109 | Itri               |          | Etoile              | Star                     | ![Image109][Img109] |
+| 110 | Tagecrart          |          | Genou               | Knee                     | ![Image110][Img110] |
+| 111 | Izi                |          | Mouche              | Fly                      | ![Image111][Img111] |
+| 112 | Tiɣirdemt          |          | Scorpion            | Scorpion                 | ![Image112][Img112] |
+| 113 | Afekrun, Ifker     |          | Tortue              | Turtle                   | ![Image113][Img113] |
+| 114 | Bururu             |          | Hibou               | Owl                      | ![Image114][Img114] |
+| 115 | Tiferllest         |          | Hirondelle          | Swallow                  | ![Image115][Img115] |
+| 116 | Tamart             |          | Barbe               | Beard                    | ![Image116][Img116] |
+| 117 | Claɣem             |          | Moustache           | Moustache, Mustache      | ![Image117][Img117] |
+| 118 | Tilelli            |          | Liberté             | Freedom                  | ![Image118][Img118] |
+| 119 | Aḍad               |          | Doigt               | Finger                   | ![Image119][Img119] |
+| 120 | Ilef               |          | Sanglier            | Wild boar                | ![Image120][Img120] |
+| 121 | Aqcic, Aqṛuṛ       |          | Garçon              | Boy                      | ![Image121][Img121] |
+| 122 | Tifdentt           |          | Orteil              | Toe                      | ![Image122][Img122] |
+| 123 | Babaɣayu           |          | Perroquet           | Parrot                   | ![Image123][Img123] |
+| 124 | Anyir              |          | Front               | Forehead                 | ![Image124][Img124] |
+| 125 | Tawacult           |          | Famille             | Family                   | ![Image125][Img125] |
+| 126 | Timiṭ              |          | Nombril             | Navel                    | ![Image126][Img126] |
+| 127 | Allaɣ              |          | Cerveau             | Brain                    | ![Image127][Img127] |
+| 128 | Lbunya             |          | Poing               | Fist                     | ![Image128][Img128] |
+| 129 | Tamgeṛt            |          | Cou                 | Neck                     | ![Image129][Img129] |
+| 130 | Anebdu, Azɣal      |          | Eté                 | Summber                  | ![Image130][Img130] |
+| 131 | Lexrif             |          | Automne             | Autumn                   | ![Image131][Img131] |
+| 132 | Tarewela           |          | Fuite               | Flight, Escape, Run away | ![Image132][Img132] |
+| 133 | Imeṭṭawen          |          | Larmes              | Tears                    | ![Image133][Img133] |
+| 134 | Anezgum            |          | Tristesse           | Sadness                  | ![Image134][Img134] |
+| 135 | Tuɣmest            |          | Dent                | Tooth                    | ![Image135][Img135] |
+| 136 | Tafsut             |          | Printemps           | Spring                   | ![Image136][Img136] |
+| 137 | Kemm, Kemmini      |          | Toi (Féminin)       | You (Female              | ![Image137][Img137] |
+| 138 | Tagrest            |          | Hiver               | Winter                   | ![Image138][Img138] |
+| 139 | Tayett             |          | Épaule              | Shoulder                 | ![Image139][Img139] |
+| 140 | Tigzirt            |          | Ile                 | Island                   | ![Image140][Img140] |
+| 141 | Aεebbuḍ            |          | Ventre              | Stomach                  | ![Image141][Img141] |
+| 142 | Tiṭ, Taṭṭuct       |          | Oeil                | Eye                      | ![Image142][Img142] |
+| 143 | Tiweṭzit           |          | Cheville            | Ankle                    | ![Image143][Img143] |
+| 144 | Acebbub, Acekkuḥ   |          | Cheveux             | Hair                     | ![Image144][Img144] |
+| 145 | Udem, Aqadum       |          | Visage              | Face                     | ![Image145][Img145] |
+| 146 | Adebbuz            |          | Pouce               | Thumb                    | ![Image146][Img146] |
+| 147 | Taddart            |          | Voiture             | Car                      | ![Image147][Img147] |
+| 148 | Takaṛṛust, Ṭumubil |          | Poing               | Fist                     | ![Image148][Img148] |
+| 149 | Tissist            |          | Araignée            | Spider                   | ![Image149][Img149] |
+| 150 | Ameksa             |          | Un berger           | A shepherd               | ![Image150][Img150] |
+| 151 | Aseṛɣu             |          | Bois de chauffage   | Firewood                 | ![Image151][Img151] |
+| 152 | Aḍu                |          | Vent                | Wind                     | ![Image152][Img152] |
+| 153 | Tabexsist          |          | Une figue           | A fig fruit              | ![Image153][Img153] |
+| 154 | Baṭaṭa             |          | Pomme de terre      | Potato                   | ![Image154][Img154] |
+| 155 | Aεawdiw            |          | Cheval              | Horse                    | ![Image155][Img155] |
+| 156 | Tiqenṭaṛt          |          | Pont                | Bridge                   | ![Image156][Img156] |
+| 157 | Tilizṛi            |          | Télévision          | Television, TV           | ![Image157][Img157] |
+| 158 | Neggez, Jelleb     |          | Sauter              | To jump                  | ![Image158][Img158] |
+| 159 | Iḍ                 |          | Nuit                | Night                    | ![Image159][Img159] |
+| 160 | Ččina              |          | Orange              | Orange                   | ![Image160][Img160] |
+| 161 | Isli               |          | Le marié            | Bridegroom, Groom        | ![Image161][Img161] |
+| 162 | Tislit             |          | La mariée           | The bride                | ![Image162][Img162] |
+| 163 | Aferṭeṭṭu          |          | Papillon            | Butterfly                | ![Image163][Img163] |
+| 164 | Azrem              |          | Serpent             | Serpent                  | ![Image164][Img164] |
+| 165 | Ṭubba              |          | Rat                 | Rat                      | ![Image165][Img165] |
+| 166 | Aɣeṛda             |          | Souris              | Mouse                    | ![Image166][Img166] |
+| 167 | Enɣ                |          | Tuer                | To kill                  | ![Image167][Img167] |
+| 168 | Aɣenjuṛ            |          | Nez aquilin         | Roman nose               | ![Image168][Img168] |
+| 169 | Timesrifegt        |          | Avion               | Airplane, Plane          | ![Image169][Img169] |
+| 170 | Baba               |          | Papa                | Dad, Daddy               | ![Image170][Img170] |
+| 171 | Settut             |          | Sorcière            | Witch                    | ![Image171][Img171] |
+| 172 | Ṭṭes, Gen          |          | Dormir              | To sleep                 | ![Image172][Img172] |
+| 173 | Latay              |          | Thé                 | Tea                      | ![Image173][Img173] |
+| 174 | Akli               |          | Esclave             | Slave                    | ![Image174][Img174] |
+| 175 | Taneqwlett         |          | Figuier             | Fig tree                 | ![Image175][Img175] |
+| 176 | Tazemmurt          |          | Olivier             | Olive tree               | ![Image176][Img176] |
+| 177 | Tafrara            |          | Aube, Lever du jour | Daybreak, Sunrise        | ![Image177][Img177] |
+| 178 | Tagut              |          | Brouillard          | Fog                      | ![Image178][Img178] |
+| 179 | Sew                |          | Boire               | To drink                 | ![Image179][Img179] |
+| 180 | Skweṛ              |          | Sucre               | Sugar                    | ![Image180][Img180] |
+
 
 
 
@@ -162,3 +168,13 @@ Images de 101 à 200
 [Img168]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/168.png
 [Img169]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/169.png
 [Img170]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/170.png
+[Img171]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/171.png
+[Img172]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/172.png
+[Img173]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/173.png
+[Img174]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/174.png
+[Img175]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/175.png
+[Img176]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/176.png
+[Img177]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/177.png
+[Img178]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/178.png
+[Img179]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/179.png
+[Img180]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/180.png
