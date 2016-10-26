@@ -34,7 +34,7 @@ Images de 1 à 100
 | 25  | Azger                | ⴰⵣⴳⴰⵔ                | Boeuf           | Ox                  | ![Image25][Img25]   |
 | 26  | Azul                 | ⴰⵣⵓⵍ                 | Salut           | Hello               | ![Image26][Img26]   |
 | 27  | Yemma                | ⵢⴻⵎⵎⴰ                | Maman           | Mom                 | ![Image27][Img27]   |
-| 28  | Amellal              | ⴰⵎⴻⵍⵍⴰⵍ              | Blanc           | White               | ![Image28][Img28]   |
+| 28  | Amellal, Acebḥan     | ⴰⵎⴻⵍⵍⴰⵍ, ⴰⵛⴻⴱⵃⴰⵏ       | Blanc           | White               | ![Image28][Img28]   |
 | 29  | Azeggwaɣ             | ⴰⵣⴻⴳⴳⵡⴰⵖ             | Rouge           | Red                 | ![Image29][Img29]   |
 | 30  | Azegzaw              | ⴰⵣⴻⴳⵣⴰⵡ              | Vert            | Green               | ![Image30][Img30]   |
 | 31  | Aberkan              | ⴰⴱⴰⵔⴽⴰⵏ              | Noir            | Black               | ![Image31][Img31]   |
