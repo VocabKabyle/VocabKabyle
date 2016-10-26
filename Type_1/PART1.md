@@ -64,7 +64,7 @@ Images de 1 à 100
 | 55  | Tafunast             | ⵜⴰⴼⵓⵏⴰⵙⵜ             | Vache           | Cow                 | ![Image55][Img55]   |
 | 56  | Iddew, Ibekki        | ⵉⴷⴷⴻⵡ, ⵉⴱⴻⴽⴽⵉ        | Singe           | Monkey              | ![Image56][Img56]   |
 | 57  | Ayaziḍ               | ⴰⵢⴰⵣⵉⴹ               | Coq             | Rooster, Cock       | ![Image57][Img57]   |
-| 58  | Tamellalt            | ⵜⴰⵎⴻⵍⵍⴰⵍⵜ            | Oeuf            | Egg                 | ![Image58][Img58]   |
+| 58  | Tamellalt            | ⵜⴰⵎⴻⵍⵍⴰⵍⵜ            | Œuf            | Egg                 | ![Image58][Img58]   |
 | 59  | Tala                 | ⵜⴰⵍⴰ                 | Fontaine        | Fountain            | ![Image59][Img59]   |
 | 60  | Iɣil                 | ⵉⵖⵉⵍ                 | Bras            | Arm                 | ![Image60][Img60]   |
 | 61  | Awal                 | ⴰⵡⴰⵍ                 | Parole          | Talk                | ![Image61][Img61]   |
@@ -90,7 +90,7 @@ Images de 1 à 100
 | 81  | Ageffur, Anẓaṛ       | ⴰⴳⴻⴼⴼⵓⵔ, ⴰⵏⵥⴰⵕ       | Pluie           | Rain                | ![Image81][Img81]   |
 | 82  | Dadi, Dihin, Dihinna | ⴷⴰⴷⵉ, ⴷⵉⵀⵉⵏ, ⴷⵉⵀⵉⵏⵏⴰ | Là-bas          | There, Over there   | ![Image82][Img82]   |
 | 83  | Llufan               | ⵍⵍⵓⴼⴰⵏ               | Bébé            | Baby                | ![Image83][Img83]   |
-| 84  | Aru                  | ⴰⵔⵓ                  | Ecrire          | To write            | ![Image84][Img84]   |
+| 84  | Aru                  | ⴰⵔⵓ                  | Écrire          | To write            | ![Image84][Img84]   |
 | 85  | Amzur                | ⴰⵎⵣⵓⵔ                | Cheveux longs   | Long hair           | ![Image85][Img85]   |
 | 86  | Iccer                | ⵉⵛⵛⴻⵔ                | Ongle           | Nail, Fingernail    | ![Image86][Img86]   |
 | 87  | Ečč                  | ⴻⵛⵛ                  | Manger          | To eat              | ![Image87][Img87]   |
