@@ -9,8 +9,8 @@ Images de 101 à 200
 | 101 | Iles               | ⵉⵍⴻⵙ               | Langue              | Tongue                   | ![Image101][Img101] |
 | 102 | Tizizwitt          | ⵜⵉⵣⵉⵣⵡⵉⵜⵜ          | Abeille             | Bee                      | ![Image102][Img102] |
 | 103 | Tixsi              | ⵜⵉⵅⵙⵉ              | Brebis              | Sheep                    | ![Image103][Img103] |
-| 104 | Aɣyul              | ⴰⵖⵢⵓⵍ              | Ane                 | Donkey                   | ![Image104][Img104] |
-| 105 | Wa, Wagi           | ⵡⴰ, ⵡⴰⴳⵉ           | ça, Celui-ci        | This, This one           | ![Image105][Img105] |
+| 104 | Aɣyul              | ⴰⵖⵢⵓⵍ              | Âne                 | Donkey                   | ![Image104][Img104] |
+| 105 | Wa, Wagi           | ⵡⴰ, ⵡⴰⴳⵉ           | Ça, Celui-ci        | This, This one           | ![Image105][Img105] |
 | 106 | Tugwdi             | ⵜⵓⴳⵡⴷⵉ             | La peur             | The fear                 | ![Image106][Img106] |
 | 107 | Igenni             | ⵉⴳⴻⵏⵏⵉ             | Ciel                | Sky                      | ![Image107][Img107] |
 | 108 | Tudert             | ⵜⵓⴷⴻⵔⵜ             | La vie              | The life                 | ![Image108][Img108] |
@@ -35,7 +35,7 @@ Images de 101 à 200
 | 127 | Allaɣ              | ⴰⵍⵍⴰⵖ              | Cerveau             | Brain                    | ![Image127][Img127] |
 | 128 | Lbunya             | ⵍⴱⵓⵏⵢⴰ             | Poing               | Fist                     | ![Image128][Img128] |
 | 129 | Tamgeṛt            | ⵜⴰⵎⴳⴻⵕⵜ            | Cou                 | Neck                     | ![Image129][Img129] |
-| 130 | Anebdu, Azɣal      | ⴰⵏⴻⴱⴷⵓ, ⴰⵣⵖⴰⵍ      | Eté                 | Summber                  | ![Image130][Img130] |
+| 130 | Anebdu, Azɣal      | ⴰⵏⴻⴱⴷⵓ, ⴰⵣⵖⴰⵍ      | Été                 | Summber                  | ![Image130][Img130] |
 | 131 | Lexrif             | ⵍⴻⵅⵔⵉⴼ             | Automne             | Autumn                   | ![Image131][Img131] |
 | 132 | Tarewela           | ⵜⴰⵔⴻⵡⴻⵍⴰ           | Fuite               | Flight, Escape, Run away | ![Image132][Img132] |
 | 133 | Imeṭṭawen          | ⵉⵎⴻⵟⵟⴰⵡⴻⵏ          | Larmes              | Tears                    | ![Image133][Img133] |
@@ -45,7 +45,7 @@ Images de 101 à 200
 | 137 | Kemm, Kemmini      | ⴽⴻⵎⵎ, ⴽⴻⵎⵎⵉⵏⵉ      | Toi (Féminin)       | You (Female)              | ![Image137][Img137] |
 | 138 | Tagrest            | ⵜⴰⴳⵔⴻⵙⵜ            | Hiver               | Winter                   | ![Image138][Img138] |
 | 139 | Tayett             | ⵜⴰⵢⴻⵜⵜ             | Épaule              | Shoulder                 | ![Image139][Img139] |
-| 140 | Tigzirt            | ⵜⵉⴳⵣⵉⵔⵜ            | Ile                 | Island                   | ![Image140][Img140] |
+| 140 | Tigzirt            | ⵜⵉⴳⵣⵉⵔⵜ            | Île                 | Island                   | ![Image140][Img140] |
 | 141 | Aεebbuḍ            | ⴰⵄⴻⴱⴱⵓⴹ            | Ventre              | Stomach                  | ![Image141][Img141] |
 | 142 | Tiṭ, Taṭṭuct       | ⵜⵉⵟ, ⵜⴰⵟⵟⵓⵛⵜ       | Oeil                | Eye                      | ![Image142][Img142] |
 | 143 | Tiweṭzit           | ⵜⵉⵡⴻⵟⵣⵉⵜ           | Cheville            | Ankle                    | ![Image143][Img143] |
@@ -69,7 +69,7 @@ Images de 101 à 200
 | 161 | Isli               | ⵉⵙⵍⵉ               | Le marié            | Bridegroom, Groom        | ![Image161][Img161] |
 | 162 | Tislit             | ⵜⵉⵙⵍⵉⵜ             | La mariée           | The bride                | ![Image162][Img162] |
 | 163 | Aferṭeṭṭu          | ⴰⴼⴻⵔⵟⴻⵟⵟⵓ          | Papillon            | Butterfly                | ![Image163][Img163] |
-| 164 | Azrem              | ⴰⵣⵔⴻⵎ              | Serpent             | Serpent                  | ![Image164][Img164] |
+| 164 | Izrem              | ⴰⵣⵔⴻⵎ              | Serpent             | Serpent                  | ![Image164][Img164] |
 | 165 | Ṭubba              | ⵟⵓⴱⴱⴰ              | Rat                 | Rat                      | ![Image165][Img165] |
 | 166 | Aɣeṛda             | ⴰⵖⴻⵕⴷⴰ             | Souris              | Mouse                    | ![Image166][Img166] |
 | 167 | Enɣ                | ⴻⵏⵖ                | Tuer                | To kill                  | ![Image167][Img167] |
