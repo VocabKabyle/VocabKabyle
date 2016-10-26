@@ -10,31 +10,31 @@ Images de 1 à 100
 | 1   | Ul                   | ⵓⵍ             | Coeur           | Heart                    | ![Image1][Img1]     |
 | 2   | Ul-iw                | ⵓⵍⵉⵡ           | Mon coeur       | My heart                 | ![Image2][Img2]     |
 | 3   | Izem                 | ⵉⵣⴻⵎ           | Lion            | Lion                     | ![Image3][Img3]     |
-| 4   | Tasedda              |                | Une lionne      | A lioness                | ![Image4][Img4]     |
+| 4   | Tasedda              | ⵜⴰⵙⴻⴷⴷⴰ               | Une lionne      | A lioness                | ![Image4][Img4]     |
 | 5   | Amcic                | ⴰⵎⵛⵉⵛ          | Un chat         | A cat                    | ![Image5][Img5]     |
 | 6   | Aman                 | ⴰⵎⴰⵏ           | Eau             | Water                    | ![Image6][Img6]     |
 | 7   | Afus                 | ⴰⴼⵓⵙ           | Main            | Hand                     | ![Image7][Img7]     |
-| 8   | Aḍar                 |                | Pied            | Foot                     | ![Image8][Img8]     |
+| 8   | Aḍar                 | ⴰⴹⴰⵔ               | Pied            | Foot                     | ![Image8][Img8]     |
 | 9   | Asigna               | ⴰⴱⴰⵔⴽⴰⵏ        | Nuage           | Cloud                    | ![Image9][Img9]     |
-| 10  | Iṭij                 |                | Soleil          | Sun                      | ![Image10][Img10]   |
+| 10  | Iṭij                 | ⵉⵟⵉⵊ               | Soleil          | Sun                      | ![Image10][Img10]   |
 | 11  | Tiziri               | ⴰⴱⴰⵔⴽⴰⵏ        | Claire de lune  | Moonlight                | ![Image11][Img11]   |
-| 12  | Axxam                |                | Maison          | House                    | ![Image12][Img12]   |
-| 13  | Abrid                |                | Chemin          | Path                     | ![Image13][Img13]   |
-| 14  | Asif                 |                | Fleuve, Rivière | River                    | ![Image14][Img14]   |
+| 12  | Axxam                | ⴰⵅⵅⴰⵎ               | Maison          | House                    | ![Image12][Img12]   |
+| 13  | Abrid                | ⴰⴱⵔⵉⴷ               | Chemin          | Path                     | ![Image13][Img13]   |
+| 14  | Asif                 | ⴰⵙⵉⴼ               | Fleuve, Rivière | River                    | ![Image14][Img14]   |
 | 15  | Aqjun                | ⴰⵇⵊⵓⵏ          | Un chien        | A dog                    | ![Image15][Img15]   |
-| 16  | Da, Dagi, Dagini     |                | Là, ici         | Here                     | ![Image16][Img16]   |
+| 16  | Da, Dagi, Dagini     | ⴷⴰ, ⴷⴰⴳⵉ, ⴷⴰⴳⵉⵏⵉ               | Là, ici         | Here                     | ![Image16][Img16]   |
 | 17  | Degger, Demmer       | ⴷⴻⴳⴳⴻⵔ, ⴷⴻⵎⵎⴻⵔ | Pousser         | To push                  | ![Image17][Img17]   |
 | 18  | Tadulki              | ⵜⴰⴷⵓⴽⵍⵉ        | L'union         | The union                | ![Image18][Img18]   |
-| 19  | Anzaren              |                | Nez             | Nose                     | ![Image19][Img19]   |
-| 20  | Anṣuf yiswen         |                | Bienvenue       | Welcome                  | ![Image20][Img20]   |
+| 19  | Anzaren              | ⴰⵏⵣⴰⵔⴻⵏ               | Nez             | Nose                     | ![Image19][Img19]   |
+| 20  | Anṣuf yiswen         | ⴰⵏⵚⵓⴼ ⵢⵉⵙⵡⴻⵏ               | Bienvenue       | Welcome                  | ![Image20][Img20]   |
 | 21  | Seksu                | ⵙⴽⵙⵓ           | Couscous        | Couscous                 | ![Image21][Img21]   |
 | 22  | Zegger               | ⵣⴻⴳⴰⵔ          | Traverser       | To cross                 | ![Image22][Img22]   |
 | 23  | Ɛeggeḍ               |                | Crier           | To scream                | ![Image23][Img23]   |
-| 24  | Asɣaṛ                |                | Bois            | Wood                     | ![Image24][Img24]   |
+| 24  | Asɣaṛ                | ⴰⵙɣⴰⵕ               | Bois            | Wood                     | ![Image24][Img24]   |
 | 25  | Azger                | ⴰⵣⴳⴰⵔ          | Boeuf           | Ox                       | ![Image25][Img25]   |
-| 26  | Azul                 |                | Salut           | Hello                    | ![Image26][Img26]   |
+| 26  | Azul                 | ⴰⵣⵓⵍ               | Salut           | Hello                    | ![Image26][Img26]   |
 | 27  | Yemma                | ⵢⴻⵎⵎⴰ          | Maman           | Mom                      | ![Image27][Img27]   |
-| 28  | Amellal              |                | Blanc           | White                    | ![Image28][Img28]   |
+| 28  | Amellal              | ⴰⵎⴻⵍⵍⴰⵍ               | Blanc           | White                    | ![Image28][Img28]   |
 | 29  | Azeggwaɣ             |                | Rouge           | Red                      | ![Image29][Img29]   |
 | 30  | Azegzaw              |                | Vert            | Green                    | ![Image30][Img30]   |
 | 31  | Aberkan              | ⴰⴱⴰⵔⴽⴰⵏ        | Noir            | Black                    | ![Image31][Img31]   |
