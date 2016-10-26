@@ -42,7 +42,7 @@ Images de 101 à 200
 | 134 | Anezgum            | ⴰⵏⴻⵣⴳⵓⵎ            | Tristesse           | Sadness                  | ![Image134][Img134] |
 | 135 | Tuɣmest            | ⵜⵓⵖⵎⴻⵙⵜ            | Dent                | Tooth                    | ![Image135][Img135] |
 | 136 | Tafsut             | ⵜⴰⴼⵙⵓⵜ             | Printemps           | Spring                   | ![Image136][Img136] |
-| 137 | Kemm, Kemmini      | ⴽⴻⵎⵎ, ⴽⴻⵎⵎⵉⵏⵉ      | Toi (Féminin)       | You (Female              | ![Image137][Img137] |
+| 137 | Kemm, Kemmini      | ⴽⴻⵎⵎ, ⴽⴻⵎⵎⵉⵏⵉ      | Toi (Féminin)       | You (Female)              | ![Image137][Img137] |
 | 138 | Tagrest            | ⵜⴰⴳⵔⴻⵙⵜ            | Hiver               | Winter                   | ![Image138][Img138] |
 | 139 | Tayett             | ⵜⴰⵢⴻⵜⵜ             | Épaule              | Shoulder                 | ![Image139][Img139] |
 | 140 | Tigzirt            | ⵜⵉⴳⵣⵉⵔⵜ            | Ile                 | Island                   | ![Image140][Img140] |
