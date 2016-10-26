@@ -104,7 +104,7 @@ Images de 1 à 100
 | 95  | Tismin               | ⵜⵉⵙⵎⵉⵏ               | Jalousie        | Jealousy            | ![Image95][Img95]   |
 | 96  | Amddakwel            | ⴰⵎⴷⴷⴰⴽⵡⴻⵍ            | Un ami          | A friend            | ![Image96][Img96]   |
 | 97  | Azagur, Aεrur        | ⴰⵣⴰⴳⵓⵔ, ⴰⵄⵔⵓⵔ        | Dos             | Back                | ![Image97][Img97]   |
-| 98  | Idammen              | Idammen              | Sang            | Blood               | ![Image98][Img98]   |
+| 98  | Idammen              | ⵉⴷⴰⵎⵎⴻⵏ               | Sang            | Blood               | ![Image98][Img98]   |
 | 99  | Lmus                 | ⵍⵎⵓⵙ                 | Couteau         | Knife               | ![Image99][Img99]   |
 | 100 | Zzit uzemmur         | ⵣⵣⵉⵜ ⵓⵣⴻⵎⵎⵓⵔ         | Huile d'olive   | Olive oil           | ![Image100][Img100] |
 
