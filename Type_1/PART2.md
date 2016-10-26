@@ -4,88 +4,89 @@
 Images de 101 à 200
 
 ## Liste
-| Id  | Kabyle             | Tifinagh | Français            | Anglais                  | Image               |
-|-----|--------------------|----------|---------------------|--------------------------|---------------------|
-| 101 | Iles               | ⵉⵍⴻⵙ         | Langue              | Tongue                   | ![Image101][Img101] |
-| 102 | Tizizwitt          | ⵜⵉⵣⵉⵣⵡⵉⵜⵜ | Abeille             | Bee                      | ![Image102][Img102] |
-| 103 | Tixsi              | ⵜⵉⵅⵙⵉ         | Brebis              | Sheep                    | ![Image103][Img103] |
-| 104 | Aɣyul              | ⴰⵖⵢⵓⵍ         | Ane                 | Donkey                   | ![Image104][Img104] |
-| 105 | Wa, Wagi           | ⵡⴰ, ⵡⴰⴳⵉ         | ça, Celui-ci        | This, This one           | ![Image105][Img105] |
-| 106 | Tugwdi             | ⵜⵓⴳⵡⴷⵉ         | La peur             | The fear                 | ![Image106][Img106] |
-| 107 | Igenni             | ⵉⴳⴻⵏⵏⵉ         | Ciel                | Sky                      | ![Image107][Img107] |
-| 108 | Tudert             | ⵜⵓⴷⴻⵔⵜ         | La vie              | The life                 | ![Image108][Img108] |
-| 109 | Itri               | ⵉⵜⵔⵉ         | Etoile              | Star                     | ![Image109][Img109] |
-| 110 | Tagecrart          | ⵜⴰⴳⴻⵛⵔⴰⵔⵜ         | Genou               | Knee                     | ![Image110][Img110] |
-| 111 | Izi                | ⵉⵣⵉ         | Mouche              | Fly                      | ![Image111][Img111] |
-| 112 | Tiɣirdemt          | ⵜⵉⵖⵉⵔⴷⴻⵎⵜ         | Scorpion            | Scorpion                 | ![Image112][Img112] |
-| 113 | Afekrun, Ifker     | ⴰⴼⴻⴽⵔⵓⵏ, ⵉⴼⴽⴻⵔ         | Tortue              | Turtle                   | ![Image113][Img113] |
-| 114 | Bururu             | ⴱⵓⵔⵓⵔⵓ         | Hibou               | Owl                      | ![Image114][Img114] |
+| Id  | Kabyle             | Tifinagh           | Français            | Anglais                  | Image               |
+|-----|--------------------|--------------------|---------------------|--------------------------|---------------------|
+| 101 | Iles               | ⵉⵍⴻⵙ               | Langue              | Tongue                   | ![Image101][Img101] |
+| 102 | Tizizwitt          | ⵜⵉⵣⵉⵣⵡⵉⵜⵜ          | Abeille             | Bee                      | ![Image102][Img102] |
+| 103 | Tixsi              | ⵜⵉⵅⵙⵉ              | Brebis              | Sheep                    | ![Image103][Img103] |
+| 104 | Aɣyul              | ⴰⵖⵢⵓⵍ              | Ane                 | Donkey                   | ![Image104][Img104] |
+| 105 | Wa, Wagi           | ⵡⴰ, ⵡⴰⴳⵉ           | ça, Celui-ci        | This, This one           | ![Image105][Img105] |
+| 106 | Tugwdi             | ⵜⵓⴳⵡⴷⵉ             | La peur             | The fear                 | ![Image106][Img106] |
+| 107 | Igenni             | ⵉⴳⴻⵏⵏⵉ             | Ciel                | Sky                      | ![Image107][Img107] |
+| 108 | Tudert             | ⵜⵓⴷⴻⵔⵜ             | La vie              | The life                 | ![Image108][Img108] |
+| 109 | Itri               | ⵉⵜⵔⵉ               | Etoile              | Star                     | ![Image109][Img109] |
+| 110 | Tagecrart          | ⵜⴰⴳⴻⵛⵔⴰⵔⵜ          | Genou               | Knee                     | ![Image110][Img110] |
+| 111 | Izi                | ⵉⵣⵉ                | Mouche              | Fly                      | ![Image111][Img111] |
+| 112 | Tiɣirdemt          | ⵜⵉⵖⵉⵔⴷⴻⵎⵜ          | Scorpion            | Scorpion                 | ![Image112][Img112] |
+| 113 | Afekrun, Ifker     | ⴰⴼⴻⴽⵔⵓⵏ, ⵉⴼⴽⴻⵔ     | Tortue              | Turtle                   | ![Image113][Img113] |
+| 114 | Bururu             | ⴱⵓⵔⵓⵔⵓ             | Hibou               | Owl                      | ![Image114][Img114] |
 | 115 | Tiferllest         | ⵜⵉⴼⴻⵔⵍⵍⴻⵙⵜ         | Hirondelle          | Swallow                  | ![Image115][Img115] |
-| 116 | Tamart             | ⵜⴰⵎⴰⵔⵜ         | Barbe               | Beard                    | ![Image116][Img116] |
-| 117 | Claɣem             | ⵛⵍⴰⵖⴻⵎ         | Moustache           | Moustache, Mustache      | ![Image117][Img117] |
-| 118 | Tilelli            | ⵜⵉⵍⴻⵍⵍⵉ         | Liberté             | Freedom                  | ![Image118][Img118] |
-| 119 | Aḍad               | ⴰⴹⴰⴷ         | Doigt               | Finger                   | ![Image119][Img119] |
-| 120 | Ilef               | ⵉⵍⴻⴼ         | Sanglier            | Wild boar                | ![Image120][Img120] |
-| 121 | Aqcic, Aqṛuṛ       | ⴰⵇⵛⵉⵛ, ⴰⵇⵕⵓⵕ         | Garçon              | Boy                      | ![Image121][Img121] |
-| 122 | Tifdentt           | ⵜⵉⴼⴷⴻⵏⵜⵜ         | Orteil              | Toe                      | ![Image122][Img122] |
-| 123 | Babaɣayu           | ⴱⴰⴱⴰⵖⴰⵢⵓ         | Perroquet           | Parrot                   | ![Image123][Img123] |
-| 124 | Anyir              | ⴰⵏⵢⵉⵔ         | Front               | Forehead                 | ![Image124][Img124] |
-| 125 | Tawacult           | ⵜⴰⵡⴰⵛⵓⵍⵜ         | Famille             | Family                   | ![Image125][Img125] |
-| 126 | Timiṭ              | ⵜⵉⵎⵉⵟ         | Nombril             | Navel                    | ![Image126][Img126] |
-| 127 | Allaɣ              | ⴰⵍⵍⴰⵖ         | Cerveau             | Brain                    | ![Image127][Img127] |
-| 128 | Lbunya             | ⵍⴱⵓⵏⵢⴰ         | Poing               | Fist                     | ![Image128][Img128] |
-| 129 | Tamgeṛt            | ⵜⴰⵎⴳⴻⵕⵜ         | Cou                 | Neck                     | ![Image129][Img129] |
-| 130 | Anebdu, Azɣal      | ⴰⵏⴻⴱⴷⵓ, ⴰⵣⵖⴰⵍ         | Eté                 | Summber                  | ![Image130][Img130] |
-| 131 | Lexrif             | ⵍⴻⵅⵔⵉⴼ         | Automne             | Autumn                   | ![Image131][Img131] |
-| 132 | Tarewela           | ⵜⴰⵔⴻⵡⴻⵍⴰ         | Fuite               | Flight, Escape, Run away | ![Image132][Img132] |
-| 133 | Imeṭṭawen          | ⵉⵎⴻⵟⵟⴰⵡⴻⵏ         | Larmes              | Tears                    | ![Image133][Img133] |
-| 134 | Anezgum            | ⴰⵏⴻⵣⴳⵓⵎ         | Tristesse           | Sadness                  | ![Image134][Img134] |
-| 135 | Tuɣmest            | ⵜⵓⵖⵎⴻⵙⵜ         | Dent                | Tooth                    | ![Image135][Img135] |
-| 136 | Tafsut             | ⵜⴰⴼⵙⵓⵜ         | Printemps           | Spring                   | ![Image136][Img136] |
-| 137 | Kemm, Kemmini      | ⴽⴻⵎⵎ, ⴽⴻⵎⵎⵉⵏⵉ         | Toi (Féminin)       | You (Female              | ![Image137][Img137] |
-| 138 | Tagrest            | ⵜⴰⴳⵔⴻⵙⵜ         | Hiver               | Winter                   | ![Image138][Img138] |
-| 139 | Tayett             | ⵜⴰⵢⴻⵜⵜ         | Épaule              | Shoulder                 | ![Image139][Img139] |
-| 140 | Tigzirt            | ⵜⵉⴳⵣⵉⵔⵜ         | Ile                 | Island                   | ![Image140][Img140] |
-| 141 | Aεebbuḍ            | ⴰⵄⴻⴱⴱⵓⴹ         | Ventre              | Stomach                  | ![Image141][Img141] |
-| 142 | Tiṭ, Taṭṭuct       | ⵜⵉⵟ, ⵜⴰⵟⵟⵓⵛⵜ         | Oeil                | Eye                      | ![Image142][Img142] |
-| 143 | Tiweṭzit           | ⵜⵉⵡⴻⵟⵣⵉⵜ         | Cheville            | Ankle                    | ![Image143][Img143] |
-| 144 | Acebbub, Acekkuḥ   | ⴰⵛⴻⴱⴱⵓⴱ, ⴰⵛⴻⴽⴽⵓⵃ         | Cheveux             | Hair                     | ![Image144][Img144] |
-| 145 | Udem, Aqadum       | ⵓⴷⴻⵎ, ⴰⵇⴰⴷⵓⵎ         | Visage              | Face                     | ![Image145][Img145] |
-| 146 | Adebbuz            | ⴰⴷⴻⴱⴱⵓⵣ         | Pouce               | Thumb                    | ![Image146][Img146] |
-| 147 | Taddart            | ⵜⴰⴷⴷⴰⵔⵜ         | Voiture             | Car                      | ![Image147][Img147] |
-| 148 | Takaṛṛust, Ṭumubil | ⵜⴰⴽⴰⵕⵕⵓⵙⵜ, ⵟⵓⵎⵓⴱⵉⵍ         | Poing               | Fist                     | ![Image148][Img148] |
-| 149 | Tissist            | ⵜⵉⵙⵙⵉⵙⵜ         | Araignée            | Spider                   | ![Image149][Img149] |
-| 150 | Ameksa             | ⴰⵎⴻⴽⵙⴰ         | Un berger           | A shepherd               | ![Image150][Img150] |
-| 151 | Aseṛɣu             |          | Bois de chauffage   | Firewood                 | ![Image151][Img151] |
-| 152 | Aḍu                |          | Vent                | Wind                     | ![Image152][Img152] |
-| 153 | Tabexsist          |          | Une figue           | A fig fruit              | ![Image153][Img153] |
-| 154 | Baṭaṭa             |          | Pomme de terre      | Potato                   | ![Image154][Img154] |
-| 155 | Aεawdiw            |          | Cheval              | Horse                    | ![Image155][Img155] |
-| 156 | Tiqenṭaṛt          |          | Pont                | Bridge                   | ![Image156][Img156] |
-| 157 | Tilizṛi            |          | Télévision          | Television, TV           | ![Image157][Img157] |
-| 158 | Neggez, Jelleb     |          | Sauter              | To jump                  | ![Image158][Img158] |
-| 159 | Iḍ                 |          | Nuit                | Night                    | ![Image159][Img159] |
-| 160 | Ččina              |          | Orange              | Orange                   | ![Image160][Img160] |
-| 161 | Isli               |          | Le marié            | Bridegroom, Groom        | ![Image161][Img161] |
-| 162 | Tislit             |          | La mariée           | The bride                | ![Image162][Img162] |
-| 163 | Aferṭeṭṭu          |          | Papillon            | Butterfly                | ![Image163][Img163] |
-| 164 | Azrem              |          | Serpent             | Serpent                  | ![Image164][Img164] |
-| 165 | Ṭubba              |          | Rat                 | Rat                      | ![Image165][Img165] |
-| 166 | Aɣeṛda             |          | Souris              | Mouse                    | ![Image166][Img166] |
-| 167 | Enɣ                |          | Tuer                | To kill                  | ![Image167][Img167] |
-| 168 | Aɣenjuṛ            |          | Nez aquilin         | Roman nose               | ![Image168][Img168] |
-| 169 | Timesrifegt        |          | Avion               | Airplane, Plane          | ![Image169][Img169] |
-| 170 | Baba               |          | Papa                | Dad, Daddy               | ![Image170][Img170] |
-| 171 | Settut             |          | Sorcière            | Witch                    | ![Image171][Img171] |
-| 172 | Ṭṭes, Gen          |          | Dormir              | To sleep                 | ![Image172][Img172] |
-| 173 | Latay              |          | Thé                 | Tea                      | ![Image173][Img173] |
-| 174 | Akli               |          | Esclave             | Slave                    | ![Image174][Img174] |
-| 175 | Taneqwlett         |          | Figuier             | Fig tree                 | ![Image175][Img175] |
-| 176 | Tazemmurt          |          | Olivier             | Olive tree               | ![Image176][Img176] |
-| 177 | Tafrara            |          | Aube, Lever du jour | Daybreak, Sunrise        | ![Image177][Img177] |
-| 178 | Tagut              |          | Brouillard          | Fog                      | ![Image178][Img178] |
-| 179 | Sew                |          | Boire               | To drink                 | ![Image179][Img179] |
-| 180 | Skweṛ              |          | Sucre               | Sugar                    | ![Image180][Img180] |
+| 116 | Tamart             | ⵜⴰⵎⴰⵔⵜ             | Barbe               | Beard                    | ![Image116][Img116] |
+| 117 | Claɣem             | ⵛⵍⴰⵖⴻⵎ             | Moustache           | Moustache, Mustache      | ![Image117][Img117] |
+| 118 | Tilelli            | ⵜⵉⵍⴻⵍⵍⵉ            | Liberté             | Freedom                  | ![Image118][Img118] |
+| 119 | Aḍad               | ⴰⴹⴰⴷ               | Doigt               | Finger                   | ![Image119][Img119] |
+| 120 | Ilef               | ⵉⵍⴻⴼ               | Sanglier            | Wild boar                | ![Image120][Img120] |
+| 121 | Aqcic, Aqṛuṛ       | ⴰⵇⵛⵉⵛ, ⴰⵇⵕⵓⵕ       | Garçon              | Boy                      | ![Image121][Img121] |
+| 122 | Tifdentt           | ⵜⵉⴼⴷⴻⵏⵜⵜ           | Orteil              | Toe                      | ![Image122][Img122] |
+| 123 | Babaɣayu           | ⴱⴰⴱⴰⵖⴰⵢⵓ           | Perroquet           | Parrot                   | ![Image123][Img123] |
+| 124 | Anyir              | ⴰⵏⵢⵉⵔ              | Front               | Forehead                 | ![Image124][Img124] |
+| 125 | Tawacult           | ⵜⴰⵡⴰⵛⵓⵍⵜ           | Famille             | Family                   | ![Image125][Img125] |
+| 126 | Timiṭ              | ⵜⵉⵎⵉⵟ              | Nombril             | Navel                    | ![Image126][Img126] |
+| 127 | Allaɣ              | ⴰⵍⵍⴰⵖ              | Cerveau             | Brain                    | ![Image127][Img127] |
+| 128 | Lbunya             | ⵍⴱⵓⵏⵢⴰ             | Poing               | Fist                     | ![Image128][Img128] |
+| 129 | Tamgeṛt            | ⵜⴰⵎⴳⴻⵕⵜ            | Cou                 | Neck                     | ![Image129][Img129] |
+| 130 | Anebdu, Azɣal      | ⴰⵏⴻⴱⴷⵓ, ⴰⵣⵖⴰⵍ      | Eté                 | Summber                  | ![Image130][Img130] |
+| 131 | Lexrif             | ⵍⴻⵅⵔⵉⴼ             | Automne             | Autumn                   | ![Image131][Img131] |
+| 132 | Tarewela           | ⵜⴰⵔⴻⵡⴻⵍⴰ           | Fuite               | Flight, Escape, Run away | ![Image132][Img132] |
+| 133 | Imeṭṭawen          | ⵉⵎⴻⵟⵟⴰⵡⴻⵏ          | Larmes              | Tears                    | ![Image133][Img133] |
+| 134 | Anezgum            | ⴰⵏⴻⵣⴳⵓⵎ            | Tristesse           | Sadness                  | ![Image134][Img134] |
+| 135 | Tuɣmest            | ⵜⵓⵖⵎⴻⵙⵜ            | Dent                | Tooth                    | ![Image135][Img135] |
+| 136 | Tafsut             | ⵜⴰⴼⵙⵓⵜ             | Printemps           | Spring                   | ![Image136][Img136] |
+| 137 | Kemm, Kemmini      | ⴽⴻⵎⵎ, ⴽⴻⵎⵎⵉⵏⵉ      | Toi (Féminin)       | You (Female              | ![Image137][Img137] |
+| 138 | Tagrest            | ⵜⴰⴳⵔⴻⵙⵜ            | Hiver               | Winter                   | ![Image138][Img138] |
+| 139 | Tayett             | ⵜⴰⵢⴻⵜⵜ             | Épaule              | Shoulder                 | ![Image139][Img139] |
+| 140 | Tigzirt            | ⵜⵉⴳⵣⵉⵔⵜ            | Ile                 | Island                   | ![Image140][Img140] |
+| 141 | Aεebbuḍ            | ⴰⵄⴻⴱⴱⵓⴹ            | Ventre              | Stomach                  | ![Image141][Img141] |
+| 142 | Tiṭ, Taṭṭuct       | ⵜⵉⵟ, ⵜⴰⵟⵟⵓⵛⵜ       | Oeil                | Eye                      | ![Image142][Img142] |
+| 143 | Tiweṭzit           | ⵜⵉⵡⴻⵟⵣⵉⵜ           | Cheville            | Ankle                    | ![Image143][Img143] |
+| 144 | Acebbub, Acekkuḥ   | ⴰⵛⴻⴱⴱⵓⴱ, ⴰⵛⴻⴽⴽⵓⵃ   | Cheveux             | Hair                     | ![Image144][Img144] |
+| 145 | Udem, Aqadum       | ⵓⴷⴻⵎ, ⴰⵇⴰⴷⵓⵎ       | Visage              | Face                     | ![Image145][Img145] |
+| 146 | Adebbuz            | ⴰⴷⴻⴱⴱⵓⵣ            | Pouce               | Thumb                    | ![Image146][Img146] |
+| 147 | Taddart            | ⵜⴰⴷⴷⴰⵔⵜ            | Voiture             | Car                      | ![Image147][Img147] |
+| 148 | Takaṛṛust, Ṭumubil | ⵜⴰⴽⴰⵕⵕⵓⵙⵜ, ⵟⵓⵎⵓⴱⵉⵍ | Poing               | Fist                     | ![Image148][Img148] |
+| 149 | Tissist            | ⵜⵉⵙⵙⵉⵙⵜ            | Araignée            | Spider                   | ![Image149][Img149] |
+| 150 | Ameksa             | ⴰⵎⴻⴽⵙⴰ             | Un berger           | A shepherd               | ![Image150][Img150] |
+| 151 | Aseṛɣu             | ⴰⵙⴻⵕⵖⵓ             | Bois de chauffage   | Firewood                 | ![Image151][Img151] |
+| 152 | Aḍu                | ⴰⴹⵓ                | Vent                | Wind                     | ![Image152][Img152] |
+| 153 | Tabexsist          | ⵜⴰⴱⴻⵅⵙⵉⵙⵜ          | Une figue           | A fig fruit              | ![Image153][Img153] |
+| 154 | Baṭaṭa             | ⴱⴰⵟⴰⵟⴰ             | Pomme de terre      | Potato                   | ![Image154][Img154] |
+| 155 | Aεawdiw            | ⴰⵄⴰⵡⴷⵉⵡ            | Cheval              | Horse                    | ![Image155][Img155] |
+| 156 | Tiqenṭaṛt          | ⵜⵉⵇⴻⵏⵟⴰⵕⵜ          | Pont                | Bridge                   | ![Image156][Img156] |
+| 157 | Tilizṛi            | ⵜⵉⵍⵉⵣⵕⵉ            | Télévision          | Television, TV           | ![Image157][Img157] |
+| 158 | Neggez, Jelleb     | ⵏⴻⴳⴳⴻⵣ, ⵊⴻⵍⵍⴻⴱ     | Sauter              | To jump                  | ![Image158][Img158] |
+| 159 | Iḍ                 | ⵉⴹ                 | Nuit                | Night                    | ![Image159][Img159] |
+| 160 | Ččina              | ⵛⵛⵉⵏⴰ              | Orange              | Orange                   | ![Image160][Img160] |
+| 161 | Isli               | ⵉⵙⵍⵉ               | Le marié            | Bridegroom, Groom        | ![Image161][Img161] |
+| 162 | Tislit             | ⵜⵉⵙⵍⵉⵜ             | La mariée           | The bride                | ![Image162][Img162] |
+| 163 | Aferṭeṭṭu          | ⴰⴼⴻⵔⵟⴻⵟⵟⵓ          | Papillon            | Butterfly                | ![Image163][Img163] |
+| 164 | Azrem              | ⴰⵣⵔⴻⵎ              | Serpent             | Serpent                  | ![Image164][Img164] |
+| 165 | Ṭubba              | ⵟⵓⴱⴱⴰ              | Rat                 | Rat                      | ![Image165][Img165] |
+| 166 | Aɣeṛda             | ⴰⵖⴻⵕⴷⴰ             | Souris              | Mouse                    | ![Image166][Img166] |
+| 167 | Enɣ                | ⴻⵏⵖ                | Tuer                | To kill                  | ![Image167][Img167] |
+| 168 | Aɣenjuṛ            | ⴰⵖⴻⵏⵊⵓⵕ            | Nez aquilin         | Roman nose               | ![Image168][Img168] |
+| 169 | Timesrifegt        | ⵜⵉⵎⴻⵙⵔⵉⴼⴻⴳⵜ        | Avion               | Airplane, Plane          | ![Image169][Img169] |
+| 170 | Baba               | ⴱⴰⴱⴰ               | Papa                | Dad, Daddy               | ![Image170][Img170] |
+| 171 | Settut             | ⵙⴻⵜⵜⵓⵜ             | Sorcière            | Witch                    | ![Image171][Img171] |
+| 172 | Ṭṭes, Gen          | ⵟⵟⴻⵙ, ⴳⴻⵏ          | Dormir              | To sleep                 | ![Image172][Img172] |
+| 173 | Latay              | ⵍⴰⵜⴰⵢ              | Thé                 | Tea                      | ![Image173][Img173] |
+| 174 | Akli               | ⴰⴽⵍⵉ               | Esclave             | Slave                    | ![Image174][Img174] |
+| 175 | Taneqwlett         | ⵜⴰⵏⴻⵇⵡⵍⴻⵜⵜ         | Figuier             | Fig tree                 | ![Image175][Img175] |
+| 176 | Tazemmurt          | ⵜⴰⵣⴻⵎⵎⵓⵔⵜ          | Olivier             | Olive tree               | ![Image176][Img176] |
+| 177 | Tafrara            | ⵜⴰⴼⵔⴰⵔⴰ            | Aube, Lever du jour | Daybreak, Sunrise        | ![Image177][Img177] |
+| 178 | Tagut              | ⵜⴰⴳⵓⵜ              | Brouillard          | Fog                      | ![Image178][Img178] |
+| 179 | Sew                | ⵙⴻⵡ                | Boire               | To drink                 | ![Image179][Img179] |
+| 180 | Skweṛ              | ⵙⴽⵡⴻⵕ              | Sucre               | Sugar                    | ![Image180][Img180] |
+
 
 
 
