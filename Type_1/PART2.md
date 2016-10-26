@@ -52,8 +52,8 @@ Images de 101 à 200
 | 144 | Acebbub, Acekkuḥ   | ⴰⵛⴻⴱⴱⵓⴱ, ⴰⵛⴻⴽⴽⵓⵃ   | Cheveux             | Hair                     | ![Image144][Img144] |
 | 145 | Udem, Aqadum       | ⵓⴷⴻⵎ, ⴰⵇⴰⴷⵓⵎ       | Visage              | Face                     | ![Image145][Img145] |
 | 146 | Adebbuz            | ⴰⴷⴻⴱⴱⵓⵣ            | Pouce               | Thumb                    | ![Image146][Img146] |
-| 147 | Taddart            | ⵜⴰⴷⴷⴰⵔⵜ            | Voiture             | Car                      | ![Image147][Img147] |
-| 148 | Takaṛṛust, Ṭumubil | ⵜⴰⴽⴰⵕⵕⵓⵙⵜ, ⵟⵓⵎⵓⴱⵉⵍ | Poing               | Fist                     | ![Image148][Img148] |
+| 147 | Taddart            | ⵜⴰⴷⴷⴰⵔⵜ            | Village             | Village                   | ![Image147][Img147] |
+| 148 | Takaṛṛust, Ṭumubil | ⵜⴰⴽⴰⵕⵕⵓⵙⵜ, ⵟⵓⵎⵓⴱⵉⵍ | Voiture             | Car                      | ![Image148][Img148] |
 | 149 | Tissist            | ⵜⵉⵙⵙⵉⵙⵜ            | Araignée            | Spider                   | ![Image149][Img149] |
 | 150 | Ameksa             | ⴰⵎⴻⴽⵙⴰ             | Un berger           | A shepherd               | ![Image150][Img150] |
 | 151 | Aseṛɣu             | ⴰⵙⴻⵕⵖⵓ             | Bois de chauffage   | Firewood                 | ![Image151][Img151] |
