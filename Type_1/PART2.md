@@ -86,7 +86,7 @@ Images de 101 à 200
 | 178 | Tagut               | ⵜⴰⴳⵓⵜ              | Brouillard          | Fog                      | ![Image178][Img178] |
 | 179 | Sew                 | ⵙⴻⵡ                | Boire               | To drink                 | ![Image179][Img179] |
 | 180 | Skweṛ               | ⵙⴽⵡⴻⵕ              | Sucre               | Sugar                    | ![Image180][Img180] |
-| 181 | xx                  | xx                 | xx                  | xx                       | ![Image181][Img181] |
+| 181 | Ta, Tagi            | xx                 | Ça, Celle-ci        | This, This one           | ![Image181][Img181] |
 | 182 | Aḍebsi              | xx                 | Assiette            | Plate                    | ![Image182][Img182] |
 | 183 | Tili                | xx                 | Ombre               | Shadow                   | ![Image183][Img183] |
 | 184 | Azzel               | xx                 | Courir              | To run                   | ![Image184][Img184] |
