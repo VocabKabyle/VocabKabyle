@@ -8,7 +8,7 @@ Images de 1 à 100
 | Id  | Kabyle               | Tifinagh         | Français        | Anglais             | Image               |
 |-----|----------------------|------------------|-----------------|---------------------|---------------------|
 | 1   | Ul                   | ⵓⵍ               | Coeur           | Heart               | ![Image1][Img1]     |
-| 2   | Ul-iw                | ⵓⵍⵉⵡ             | Mon coeur       | My heart            | ![Image2][Img2]     |
+| 2   | Ul-iw                | ⵓⵍ-ⵉⵡ             | Mon coeur       | My heart            | ![Image2][Img2]     |
 | 3   | Izem                 | ⵉⵣⴻⵎ             | Lion            | Lion                | ![Image3][Img3]     |
 | 4   | Tasedda              | ⵜⴰⵙⴻⴷⴷⴰ          | Une lionne      | A lioness           | ![Image4][Img4]     |
 | 5   | Amcic                | ⴰⵎⵛⵉⵛ            | Un chat         | A cat               | ![Image5][Img5]     |
@@ -29,7 +29,7 @@ Images de 1 à 100
 | 20  | Anṣuf yiswen         | ⴰⵏⵚⵓⴼ ⵢⵉⵙⵡⴻⵏ     | Bienvenue       | Welcome             | ![Image20][Img20]   |
 | 21  | Seksu                | ⵙⴽⵙⵓ             | Couscous        | Couscous            | ![Image21][Img21]   |
 | 22  | Zegger               | ⵣⴻⴳⴰⵔ            | Traverser       | To cross            | ![Image22][Img22]   |
-| 23  | Ɛeggeḍ               |                  | Crier           | To scream           | ![Image23][Img23]   |
+| 23  | Ɛeggeḍ               | ⵙⴽⵙⵓ                 | Crier           | To scream           | ![Image23][Img23]   |
 | 24  | Asɣaṛ                | ⴰⵙɣⴰⵕ            | Bois            | Wood                | ![Image24][Img24]   |
 | 25  | Azger                | ⴰⵣⴳⴰⵔ            | Boeuf           | Ox                  | ![Image25][Img25]   |
 | 26  | Azul                 | ⴰⵣⵓⵍ             | Salut           | Hello               | ![Image26][Img26]   |
