@@ -105,7 +105,7 @@ Images de 101 à 200
 | 197 | Tayaziḍt            | xx                 | Poule               | Chicken                  | ![Image197][Img197] |
 | 198 | Taxxamt n tguni     | xx                 | Chambre à coucher   | Bedroom                  | ![Image198][Img198] |
 | 199 | Inisi               | xx                 | Hérisson            | Hedgehog                 | ![Image199][Img199] |
-| 200 | xx                  | xx                 | xx                  | xx                       | ![Image200][Img200] |
+| 200 | Ifelfel             | xx                 | Piment              | Chilli pepper            | ![Image200][Img200] |
 
 
 
