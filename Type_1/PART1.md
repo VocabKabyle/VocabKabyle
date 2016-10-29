@@ -15,17 +15,17 @@ Images de 1 à 100
 | 6   | Aman                 | ⴰⵎⴰⵏ                 | Eau             | Water                | ماء    | ![Image6][Img6]     |
 | 7   | Afus                 | ⴰⴼⵓⵙ                 | Main            | Hand                | يد     | ![Image7][Img7]     |
 | 8   | Aḍar                 | ⴰⴹⴰⵔ                 | Pied            | Foot                | قدم    | ![Image8][Img8]     |
-| 9   | Asigna               | ⴰⴱⴰⵔⴽⴰⵏ              | Nuage           | Cloud               | سحابة  | ![Image9][Img9]     |
+| 9   | Asigna               | ⴰⵙⵉⴳⵏⴰ              | Nuage           | Cloud               | سحابة  | ![Image9][Img9]     |
 | 10  | Iṭij                 | ⵉⵟⵉⵊ                 | Soleil          | Sun                 | شمس    | ![Image10][Img10]   |
-| 11  | Tiziri               | ⴰⴱⴰⵔⴽⴰⵏ              | Claire de lune  | Moonlight           | ضوء القمر       | ![Image11][Img11]   |
+| 11  | Tiziri               | ⵜⵉⵣⵉⵔⵉ              | Claire de lune  | Moonlight           | ضوء القمر       | ![Image11][Img11]   |
 | 12  | Axxam                | ⴰⵅⵅⴰⵎ                | Maison          | House               | منزل, بيت       | ![Image12][Img12]   |
 | 13  | Abrid                | ⴰⴱⵔⵉⴷ                | Chemin          | Path               | مسار, طريق       | ![Image13][Img13]   |
 | 14  | Asif                 | ⴰⵙⵉⴼ                 | Fleuve, Rivière | River              | نهر       | ![Image14][Img14]   |
 | 15  | Aqjun                | ⴰⵇⵊⵓⵏ                | Un chien        | A dog                | كلب       | ![Image15][Img15]   |
 | 16  | Da, Dagi, Dagini     | ⴷⴰ, ⴷⴰⴳⵉ, ⴷⴰⴳⵉⵏⵉ     | Là, ici         | Here                | هنا       | ![Image16][Img16]   |
-| 17  | Degger, Demmer       | ⴷⴻⴳⴳⴻⵔ, ⴷⴻⵎⵎⴻⵔ       | Pousser         | To push           | دفع       | ![Image17][Img17]   |
-| 18  | Tadulki              | ⵜⴰⴷⵓⴽⵍⵉ              | L'union         | The union           | الاتحاد       | ![Image18][Img18]   |
-| 19  | Anzaren              | ⴰⵏⵣⴰⵔⴻⵏ              | Nez             | Nose                | أنف       | ![Image19][Img19]   |
+| 17  | Degger, Demmer,Behher | ⴷⴻⴳⴳⴻⵔ, ⴷⴻⵎⵎⴻⵔ, ⴱⴻⵀⵀⴻⵔ | Pousser         | To push           | دفع       | ![Image17][Img17]   |
+| 18  | Tadukkli              | ⵜⴰⴷⵓⴽⴽⵍⵉ              | L'union         | The union           | الاتحاد       | ![Image18][Img18]   |
+| 19  | Anzaren              | ⴰⵏⵣⴰⵔⴻⵏ                | Narines         | Nose                | أنف       | ![Image19][Img19]   |
 | 20  | Anṣuf yiswen         | ⴰⵏⵚⵓⴼ ⵢⵉⵙⵡⴻⵏ         | Bienvenue       | Welcome             | مرحبا بكم       | ![Image20][Img20]   |
 | 21  | Seksu                | ⵙⴽⵙⵓ                 | Couscous        | Couscous            | الكسكس       | ![Image21][Img21]   |
 | 22  | Zegger               | ⵣⴻⴳⴰⵔ                | Traverser       | To cross            |        | ![Image22][Img22]   |
