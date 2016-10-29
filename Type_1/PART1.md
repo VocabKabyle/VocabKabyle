@@ -25,27 +25,27 @@ Images de 1 à 100
 | 16  | Da, Dagi, Dagini     | ⴷⴰ, ⴷⴰⴳⵉ, ⴷⴰⴳⵉⵏⵉ     | Là, ici         | Here                | هنا       | ![Image16][Img16]   |
 | 17  | Degger, Demmer,Behher | ⴷⴻⴳⴳⴻⵔ, ⴷⴻⵎⵎⴻⵔ, ⴱⴻⵀⵀⴻⵔ | Pousser         | To push           | دفع       | ![Image17][Img17]   |
 | 18  | Tadukkli              | ⵜⴰⴷⵓⴽⴽⵍⵉ              | L'union         | The union           | الاتحاد       | ![Image18][Img18]   |
-| 19  | Anzaren              | ⴰⵏⵣⴰⵔⴻⵏ                | Narines         | Nose                | أنف       | ![Image19][Img19]   |
-| 20  | Anṣuf yiswen         | ⴰⵏⵚⵓⴼ ⵢⵉⵙⵡⴻⵏ         | Bienvenue       | Welcome             | مرحبا بكم       | ![Image20][Img20]   |
-| 21  | Seksu                | ⵙⴽⵙⵓ                 | Couscous        | Couscous            | الكسكس       | ![Image21][Img21]   |
-| 22  | Zegger               | ⵣⴻⴳⴰⵔ                | Traverser       | To cross            |        | ![Image22][Img22]   |
-| 23  | Ɛeggeḍ               | ⵙⴽⵙⵓ                 | Crier           | To scream           |        | ![Image23][Img23]   |
-| 24  | Asɣaṛ                | ⴰⵙɣⴰⵕ                | Bois            | Wood                |        | ![Image24][Img24]   |
-| 25  | Azger                | ⴰⵣⴳⴰⵔ                | Boeuf           | Ox                  |        | ![Image25][Img25]   |
+| 19  | Anzaren              | ⴰⵏⵣⴰⵔⴻⵏ                | Narines         | Nostrils                |        | ![Image19][Img19]   |
+| 20  | Ansuf yis-wen         | ⴰⵏⵚⵓⴼ ⵢⵉⵙ-ⵡⴻⵏ         | Bienvenue       | Welcome             | مرحبا بكم       | ![Image20][Img20]   |
+| 21  | Seksu                | ⵙⴻⴽⵙⵓ              | Couscous        | Couscous       | الكسكس       | ![Image21][Img21]   |
+| 22  | Zegger,Zger          | ⵣⴻⴳⴰⵔ, ⵣⴳⴻⵔ          | Traverser       | To cross            |        | ![Image22][Img22]   |
+| 23  | Σeggeḍ               | ⵄⴻⴳⴳⴻⴹ                 | Crier           | To scream           |        | ![Image23][Img23]   |
+| 24  | Asɣaṛ                | ⴰⵙⵖⴰⵕ                | Bois            | Wood                |        | ![Image24][Img24]   |
+| 25  | Azger                | ⴰⵣⴳⴻⵔ                | Boeuf           | Ox                  |        | ![Image25][Img25]   |
 | 26  | Azul                 | ⴰⵣⵓⵍ                 | Salut           | Hello               |        | ![Image26][Img26]   |
 | 27  | Yemma                | ⵢⴻⵎⵎⴰ                | Maman           | Mom                 |        | ![Image27][Img27]   |
 | 28  | Amellal, Acebḥan     | ⴰⵎⴻⵍⵍⴰⵍ, ⴰⵛⴻⴱⵃⴰⵏ     | Blanc           | White               |        | ![Image28][Img28]   |
-| 29  | Azeggwaɣ             | ⴰⵣⴻⴳⴳⵡⴰⵖ             | Rouge           | Red                 |        | ![Image29][Img29]   |
+| 29  | Azeggaɣ              | ⴰⵣⴻⴳⴳⴰⵖ             | Rouge           | Red                 |        | ![Image29][Img29]   |
 | 30  | Azegzaw              | ⴰⵣⴻⴳⵣⴰⵡ              | Vert            | Green               |        | ![Image30][Img30]   |
 | 31  | Aberkan              | ⴰⴱⴰⵔⴽⴰⵏ              | Noir            | Black               |        | ![Image31][Img31]   |
-| 32  | Azegzaw              | ⴰⵣⴻⴳⵣⴰⵡ              | Bleu            | Blue                |        | ![Image32][Img32]   |
+| 32  | Azenjaṛi, Ajenjaṛi   | ⴰⵣⴻⵏⵊⴰⵕⵉ, ⴰⵊⴻⵏⵊⴰⵕⵉ   | Bleu            | Blue                |        | ![Image32][Img32]   |
 | 33  | Imi, Aqemmuc         | ⵉⵎⵉ, ⴰⵇⴻⵎⵎⵓⵛ         | Bouche          | Mouth               |        | ![Image33][Img33]   |
-| 34  | Acenfir              | ⴰⵛⴻⵏⴼⵉⵔ              | Lèvre           | Lip                 |        | ![Image34][Img34]   |
+| 34  | Acenfir, Acenfur     | ⴰⵛⴻⵏⴼⵉⵔ, ⴰⵛⴻⵏⴼⵓⵔ   | Lèvre           | Lip                 |        | ![Image34][Img34]   |
 | 35  | Ameẓẓuɣ              | ⴰⵎⴻⵥⵥⵓⵖ              | Oreille         | Ear                 |        | ![Image35][Img35]   |
 | 36  | Argaz                | ⴰⵔⴳⴰⵣ                | Homme           | Man                 |        | ![Image36][Img36]   |
 | 37  | Tameṭṭut             | ⵜⴰⵎⴻⵟⵟⵓⵜ             | Femme           | Woman               |        | ![Image37][Img37]   |
 | 38  | Taqcict, Taqṛuṛt     | ⵜⴰⵇⵛⵉⵛⵜ, ⵜⴰⵇⵕⵓⵕⵜ     | Fille           | Girl                |        | ![Image38][Img38]   |
-| 39  | Aqeṛṛu               | ⴰⵇⴻⵕⵕⵓ               | Tête            | Head                |        | ![Image39][Img39]   |
+| 39  | Aqeṛṛu, Aqeṛṛuy, Abbaɣ  | ⴰⵇⴻⵕⵕⵓ, ⴰⵇⴻⵕⵕⵓⵢ, ⴰⴱⴱⴰⵖ | Tête            | Head                |        | ![Image39][Img39]   |
 | 40  | Tanemmirt            | ⵜⴰⵏⴻⵎⵎⵉⵔⵜ            | Merci           | Thanks, Thank you   |        | ![Image40][Img40]   |
 | 41  | Azekka               | ⴰⵣⴻⴽⴽⴰ               | Demain          | Tomorrow            |        | ![Image41][Img41]   |
 | 42  | Iḍelli               | ⵉⴹⴻⵍⵍⵉ               | Hier            | Yesterday           |        | ![Image42][Img42]   |
