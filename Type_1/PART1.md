@@ -52,7 +52,7 @@ Images de 1 à 100
 | 43  | Assa, Assagi         | ⴰⵙⵙⴰ, ⴰⵙⵙⴰⴳⵉ         | Aujoud'hui      | Today               |        | ![Image43][Img43]   |
 | 44  | Dduṛt, Smana         | ⴷⴷⵓⵕⵜ, ⵙⵎⴰⵏⴰ         | Semaine         | Week                |        | ![Image44][Img44]   |
 | 45  | Aggur                | ⴰⴳⴳⵓⵔ                | Mois            | Month               |        | ![Image45][Img45]   |
-| 46  | Assegwas             | ⴰⵙⵙⴻⴳⵡⴰⵙ             | Année           | Year                |        | ![Image46][Img46]   |
+| 46  | Aseggas              | ⴰⵙⴻⴳⴳⴰⵙ             | Année           | Year                |        | ![Image46][Img46]   |
 | 47  | Suṭṭeḍ               | ⵙⵓⵟⵟⴻⴹ               | Allaiter        | Suckle, Breast-feed |        | ![Image47][Img47]   |
 | 48  | Lzzayer              | ⵍⵣⵣⴰⵢⴻⵔ              | Algérie         | Algeria             |        | ![Image48][Img48]   |
 | 49  | Fransa               | ⴼⵔⴰⵏⵙⴰ               | France          | France              |        | ![Image49][Img49]   |
