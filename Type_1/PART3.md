@@ -4,18 +4,19 @@
 Images de 201 à 300
 
 ## Liste
-| Id  | Kabyle         | Tifinagh | Français          | Anglais                      | Arabe | Image               |
-|-----|----------------|----------|-------------------|------------------------------|-------|---------------------|
-| 201 | Bibb           |          | Porter sur le dos | Carry on the back, Piggyback |       | ![Image201][Img201] |
-| 202 | Taεekkwazt     |          | Canne             | Cane                         |       | ![Image202][Img202] |
-| 203 | Tiɣwmeṛt       |          | Coude             | Elbow                        |       | ![Image203][Img203] |
-| 204 | Aɣeṛbaz        |          | École             | School                       |       | ![Image204][Img204] |
-| 205 | Aqeggel        |          | Sieste            | Siesta                       |       | ![Image205][Img205] |
-| 206 | Tislit n unẓar |          | Arc-en-ciel       | Rainbow                      |       | ![Image206][Img206] |
-| 207 | Aḍil           |          | Raisin            | Grape                        |       | ![Image207][Img207] |
-| 208 | zṛudiyya       |          | Carotte           | Carrot                       |       | ![Image208][Img208] |
-| 209 | Aseklu         |          | Arbre             | Tree                         |       | ![Image209][Img209] |
-| 210 | Aḥeckul        |          | Sortilège         | Magic spell                  |       | ![Image210][Img210] |
+| Id  | Kabyle         | Tifinagh       | Français          | Anglais                      | Arabe          | Image               |
+|-----|----------------|----------------|-------------------|------------------------------|----------------|---------------------|
+| 201 | Bibb           | ⴱⵉⴱⴱ          | Porter sur le dos | Carry on the back, Piggyback | حمل على الظهر | ![Image201][Img201] |
+| 202 | Taεekkwazt     | ⵜⴰⵄⴻⴽⴽⵡⴰⵣⵜ     | Canne             | Cane                         | قصب            | ![Image202][Img202] |
+| 203 | Tiɣwmeṛt       | ⵜⵉⵖⵡⵎⴻⵕⵜ       | Coude             | Elbow                        | كوع            | ![Image203][Img203] |
+| 204 | Aɣeṛbaz        | ⴰⵖⴻⵕⴱⴰⵣ        | École             | School                       | مدرسة         | ![Image204][Img204] |
+| 205 | Aqeggel        | ⴰⵇⴻⴳⴳⴻⵍ         | Sieste            | Siesta                       | قيلولة        | ![Image205][Img205] |
+| 206 | Tislit n unẓar | ⵜⵉⵙⵍⵉⵜ ⵏ ⵓⵏⵥⴰⵔ  | Arc-en-ciel       | Rainbow                      | قوس قزح        | ![Image206][Img206] |
+| 207 | Aḍil           | ⵜⴹⵉⵍ            | Raisin            | Grape                        | عنب            | ![Image207][Img207] |
+| 208 | zṛudiyya       | ⵣⵕⵓⴷⵉⵢⵢⴰ       | Carotte           | Carrot                       | جزر            | ![Image208][Img208] |
+| 209 | Aseklu         | ⴰⵙⴻⴽⵍⵓ          | Arbre             | Tree                         | شجرة           | ![Image209][Img209] |
+| 210 | Aḥeckul        | ⴰⵃⴻⵛⴽⵓⵍ         | Sortilège         | Magic spell                  | سحر            | ![Image210][Img210] |
+
 
 
 
