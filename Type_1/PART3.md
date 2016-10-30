@@ -4,18 +4,19 @@
 Images de 201 à 300
 
 ## Liste
-| Id  | Kabyle | Tifinagh | Français | Anglais | Arabe | Image               |
-|-----|--------|----------|----------|---------|-------|---------------------|
-| 201 | xx     |          | xx       | xx      |       | ![Image201][Img201] |
-| 202 | xx     |          | xx       | xx      |       | ![Image202][Img202] |
-| 203 | xx     |          | xx       | xx      |       | ![Image203][Img203] |
-| 204 | xx     |          | x        | xx      |       | ![Image204][Img204] |
-| 205 | xx     |          | xx       | xx      |       | ![Image205][Img205] |
-| 206 | xx     |          | xx       | xx      |       | ![Image206][Img206] |
-| 207 | xx     |          | xx       | xx      |       | ![Image207][Img207] |
-| 208 | xx     |          | xxx      | xx      |       | ![Image208][Img208] |
-| 209 | xx     |          | xx       | xx      |       | ![Image209][Img209] |
-| 210 | xx     |          | xx       | xx      |       | ![Image210][Img210] |
+| Id  | Kabyle         | Tifinagh | Français          | Anglais                      | Arabe | Image               |
+|-----|----------------|----------|-------------------|------------------------------|-------|---------------------|
+| 201 | Bibb           |          | Porter sur le dos | Carry on the back, Piggyback |       | ![Image201][Img201] |
+| 202 | Taεekkwazt     |          | Canne             | Cane                         |       | ![Image202][Img202] |
+| 203 | Tiɣwmeṛt       |          | Coude             | Elbow                        |       | ![Image203][Img203] |
+| 204 | Aɣeṛbaz        |          | École             | School                       |       | ![Image204][Img204] |
+| 205 | Aqeggel        |          | Sieste            | Siesta                       |       | ![Image205][Img205] |
+| 206 | Tislit n unẓar |          | Arc-en-ciel       | Rainbow                      |       | ![Image206][Img206] |
+| 207 | Aḍil           |          | Raisin            | Grape                        |       | ![Image207][Img207] |
+| 208 | zṛudiyya       |          | Carotte           | Carrot                       |       | ![Image208][Img208] |
+| 209 | Aseklu         |          | Arbre             | Tree                         |       | ![Image209][Img209] |
+| 210 | Aḥeckul        |          | Sortilège         | Magic spell                  |       | ![Image210][Img210] |
+
 
 
 
