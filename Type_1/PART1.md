@@ -77,12 +77,12 @@ Images de 1 à 100
 | 68                | Uccen                | ⵓⵛⵛⴻⵏ                | Chacal          | Jackal              | ابن آوى        | ![Image68][Img68]   |
 | 69                | Adfel                | ⴰⴷⴼⴻⵍ                | Neige           | Snow                | ثلج            | ![Image69][Img69]   |
 | 70                | Adrar                | ⴰⴷⵔⴰⵔ                | Montagne        | Mountain            | جبل            | ![Image70][Img70]   |
-| 71                | Tayri                | ⵜⴰⵢⵔⵉ                | Amour           | Love                | حب             |                     |
-| ![Image71][Img71] |                      |                      |                 |                     |                |                     |
+| 71                | Tayri                | ⵜⴰⵢⵔⵉ                | Amour           | Love                | حب             
+| ![Image71][Img71] |
 | 72                | Tameɣṛa              | ⵜⴰⵎⴻⵖⵕⴰ              | Fête            | Party               | حفلة           | ![Image72][Img72]   |
 | 73                | Tabburt, Tawwurt     | ⵜⴰⴱⴱⵓⵔⵜ, ⵜⴰⵡⵡⵓⵔⵜ     | Porte           | Door                | باب            | ![Image73][Img73]   |
-| 74                | Ssuden, Mmac         | ⵙⵙⵓⴷⴻⵏ, ⵎⵎⴰⵛ         | Embrasser       | To kiss             | قبل, باس       |                     |
-| ![Image74][Img74] |                      |                      |                 |                     |                |                     |
+| 74                | Ssuden, Mmac         | ⵙⵙⵓⴷⴻⵏ, ⵎⵎⴰⵛ         | Embrasser       | To kiss             | قبل, باس       
+| ![Image74][Img74] |
 | 75                | Aggur                | ⴰⴳⴳⵓⵔ                | Lune            | Moon                | قمر            | ![Image75][Img75]   |
 | 76                | Ṭṭaq                 | ⵟⵟⴰⵇ                 | Fenêtre         | Window              | نافذة          | ![Image76][Img76]   |
 | 77                | Times, Timest        | ⵜⵉⵎⴻⵙ, ⵜⵉⵎⴻⵙⵜ        | Feu             | Fire                | نار            | ![Image77][Img77]   |
