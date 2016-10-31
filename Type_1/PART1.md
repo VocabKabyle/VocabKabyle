@@ -5,108 +5,111 @@
 Images de 1 à 100
 
 ## Liste
-| Id  | Kabyle               | Tifinagh             | Français        | Anglais             | Arabe  | Image               |
-|-----|----------------------|----------------------|-----------------|---------------------|--------|---------------------|
-| 1   | Ul                   | ⵓⵍ                   | Coeur           | Heart               | قلب    | ![Image1][Img1]     |
-| 2   | Ul-iw                | ⵓⵍ-ⵉⵡ                | Mon coeur       | My heart            | قلبي   | ![Image2][Img2]     |
-| 3   | Izem                 | ⵉⵣⴻⵎ                 | Lion            | Lion                | أسد    | ![Image3][Img3]     |
-| 4   | Tasedda              | ⵜⴰⵙⴻⴷⴷⴰ              | Une lionne      | A lioness           | لبؤة   | ![Image4][Img4]     |
-| 5   | Amcic                | ⴰⵎⵛⵉⵛ                | Un chat         | A cat               | قط, هر | ![Image5][Img5]     |
-| 6   | Aman                 | ⴰⵎⴰⵏ                 | Eau             | Water                | ماء    | ![Image6][Img6]     |
-| 7   | Afus                 | ⴰⴼⵓⵙ                 | Main            | Hand                | يد     | ![Image7][Img7]     |
-| 8   | Aḍar                 | ⴰⴹⴰⵔ                 | Pied            | Foot                | قدم    | ![Image8][Img8]     |
-| 9   | Asigna               | ⴰⵙⵉⴳⵏⴰ              | Nuage           | Cloud                | سحابة  | ![Image9][Img9]     |
-| 10  | Iṭij                 | ⵉⵟⵉⵊ                 | Soleil          | Sun                 | شمس    | ![Image10][Img10]   |
-| 11  | Tiziri               | ⵜⵉⵣⵉⵔⵉ              | Claire de lune  | Moonlight           | ضوء القمر       | ![Image11][Img11]   |
-| 12  | Axxam                | ⴰⵅⵅⴰⵎ                | Maison          | House               | منزل, بيت       | ![Image12][Img12]   |
-| 13  | Abrid                | ⴰⴱⵔⵉⴷ                | Chemin          | Path               | مسار, طريق       | ![Image13][Img13]   |
-| 14  | Asif                 | ⴰⵙⵉⴼ                 | Fleuve, Rivière | River              | نهر       | ![Image14][Img14]   |
-| 15  | Aqjun                | ⴰⵇⵊⵓⵏ                | Un chien        | A dog                | كلب       | ![Image15][Img15]   |
-| 16  | Da, Dagi, Dagini     | ⴷⴰ, ⴷⴰⴳⵉ, ⴷⴰⴳⵉⵏⵉ     | Là, ici         | Here                | هنا       | ![Image16][Img16]   |
-| 17  | Degger, Demmer       | ⴷⴻⴳⴳⴻⵔ, ⴷⴻⵎⵎⴻⵔ     | Pousser         | To push             | دفع       | ![Image17][Img17]   |
-| 18  | Tadukkli             | ⵜⴰⴷⵓⴽⴽⵍⵉ              | L'union         | The union           | الاتحاد       | ![Image18][Img18]   |
-| 19  | Anzaren              | ⴰⵏⵣⴰⵔⴻⵏ                | Nez             | Nose               | أنف       | ![Image19][Img19]   |
-| 20  | Ansuf yis-wen        | ⴰⵏⵚⵓⴼ ⵢⵉⵙ-ⵡⴻⵏ         | Bienvenue       | Welcome             | مرحبا بكم       | ![Image20][Img20]   |
-| 21  | Seksu                | ⵙⴻⴽⵙⵓ                | Couscous        | Couscous             | الكسكس       | ![Image21][Img21]   |
-| 22  | Zegger,Zger          | ⵣⴻⴳⴰⵔ, ⵣⴳⴻⵔ          | Traverser       | To cross            | عبر       | ![Image22][Img22]   |
-| 23  | Σeggeḍ               | ⵄⴻⴳⴳⴻⴹ                 | Crier           | To scream           | صرخ       | ![Image23][Img23]   |
-| 24  | Asɣaṛ                | ⴰⵙⵖⴰⵕ                | Bois            | Wood                | خشب       | ![Image24][Img24]   |
-| 25  | Azger                | ⴰⵣⴳⴻⵔ                | Boeuf           | Ox                  | ثور       | ![Image25][Img25]   |
-| 26  | Azul                 | ⴰⵣⵓⵍ                 | Salut           | Hello               | سلام       | ![Image26][Img26]   |
-| 27  | Yemma                | ⵢⴻⵎⵎⴰ                | Maman           | Mom                 | أمي       | ![Image27][Img27]   |
-| 28  | Amellal, Acebḥan     | ⴰⵎⴻⵍⵍⴰⵍ, ⴰⵛⴻⴱⵃⴰⵏ     | Blanc           | White                | أبيض       | ![Image28][Img28]   |
-| 29  | Azeggwaɣ             | ⴰⵣⴻⴳⴳⵡⴰⵖ             | Rouge           | Red                 | أحمر       | ![Image29][Img29]   |
-| 30  | Azegzaw              | ⴰⵣⴻⴳⵣⴰⵡ              | Vert            | Green               | أخضر       | ![Image30][Img30]   |
-| 31  | Aberkan              | ⴰⴱⴰⵔⴽⴰⵏ              | Noir            | Black               | أسود       | ![Image31][Img31]   |
-| 32  | Azeggwaɣ             | ⴰⵣⴻⴳⴳⴰⵖ              | Bleu            | Blue                | أزرق       | ![Image32][Img32]   |
-| 33  | Imi, Aqemmuc         | ⵉⵎⵉ, ⴰⵇⴻⵎⵎⵓⵛ         | Bouche          | Mouth               | فم       | ![Image33][Img33]   |
-| 34  | Acenfir              | ⴰⵛⴻⵏⴼⵉⵔ              | Lèvre           | Lip                 | شفة       | ![Image34][Img34]   |
-| 35  | Ameẓẓuɣ              | ⴰⵎⴻⵥⵥⵓⵖ              | Oreille         | Ear                 | إذن       | ![Image35][Img35]   |
-| 36  | Argaz                | ⴰⵔⴳⴰⵣ                | Homme           | Man                 | رجل       | ![Image36][Img36]   |
-| 37  | Tameṭṭut             | ⵜⴰⵎⴻⵟⵟⵓⵜ               | Femme           | Woman               | امرأة       | ![Image37][Img37]   |
-| 38  | Taqcict, Taqṛuṛt     | ⵜⴰⵇⵛⵉⵛⵜ, ⵜⴰⵇⵕⵓⵕⵜ     | Fille           | Girl                | فتاة       | ![Image38][Img38]   |
-| 39  | Aqeṛṛu, Aqeṛṛuy      | ⴰⵇⴻⵕⵕⵓ, ⴰⵇⴻⵕⵕⵓⵢ    | Tête            | Head                 | رأس       | ![Image39][Img39]   |
-| 40  | Tanemmirt            | ⵜⴰⵏⴻⵎⵎⵉⵔⵜ            | Merci           | Thanks, Thank you   | شكرا       | ![Image40][Img40]   |
-| 41  | Azekka               | ⴰⵣⴻⴽⴽⴰ               | Demain          | Tomorrow            | غدا       | ![Image41][Img41]   |
-| 42  | Iḍelli               | ⵉⴹⴻⵍⵍⵉ               | Hier            | Yesterday           | أمس, البارحة   | ![Image42][Img42]   |
-| 43  | Assa, Assagi         | ⴰⵙⵙⴰ, ⴰⵙⵙⴰⴳⵉ         | Aujourd'hui      | Today             | اليوم       | ![Image43][Img43]   |
-| 44  | Dduṛt, Smana         | ⴷⴷⵓⵕⵜ, ⵙⵎⴰⵏⴰ         | Semaine         | Week                | أسبوع       | ![Image44][Img44]   |
-| 45  | Aggur                | ⴰⴳⴳⵓⵔ                | Mois            | Month               | شهر       | ![Image45][Img45]   |
-| 46  | Asseggas             | ⴰⵙⴻⴳⴳⴰⵙ             | Année           | Year                | عام       | ![Image46][Img46]   |
-| 47  | Suṭṭeḍ               | ⵙⵓⵟⵟⴻⴹ               | Allaiter        | Suckle, Breast-feed | ترضع       | ![Image47][Img47]   |
-| 48  | Lzzayer              | ⵍⵣⵣⴰⵢⴻⵔ              | Algérie         | Algeria             | الجزائر       | ![Image48][Img48]   |
-| 49  | Fransa               | ⴼⵔⴰⵏⵙⴰ               | France          | France              | فرنسا       | ![Image49][Img49]   |
-| 50  | Marikan              | ⵎⴰⵔⵉⴽⴰⵏ              | Amérique        | America             | أمريكا       | ![Image50][Img50]   |
-| 51  | Taṛumit, Tafṛansist  | ⵜⴰⵕⵓⵎⵉⵜ, ⵜⴰⴼⵕⴰⵏⵙⵉⵙⵜ  | Le français     | The french language |        | ![Image51][Img51]   |
-| 52  | Aṛumi                | ⴰⵕⵓⵎⵉ                | Un français     | A frenchman         |        | ![Image52][Img52]   |
-| 53  | Aruy                 | ⴰⵔⵓⵢ                 | Porc-épic       | Porcupine           |        | ![Image53][Img53]   |
-| 54  | Tafat                | ⵜⴰⴼⴰⵜ                | Lumière         | Light               |        | ![Image54][Img54]   |
-| 55  | Tafunast             | ⵜⴰⴼⵓⵏⴰⵙⵜ             | Vache           | Cow                 |        | ![Image55][Img55]   |
-| 56  | Iddew, Ibekki        | ⵉⴷⴷⴻⵡ, ⵉⴱⴻⴽⴽⵉ        | Singe           | Monkey              |        | ![Image56][Img56]   |
-| 57  | Ayaziḍ               | ⴰⵢⴰⵣⵉⴹ               | Coq             | Rooster, Cock       |        | ![Image57][Img57]   |
-| 58  | Tamellalt            | ⵜⴰⵎⴻⵍⵍⴰⵍⵜ            | Œuf             | Egg                 |        | ![Image58][Img58]   |
-| 59  | Tala                 | ⵜⴰⵍⴰ                 | Fontaine        | Fountain            |        | ![Image59][Img59]   |
-| 60  | Iɣil                 | ⵉⵖⵉⵍ                 | Bras            | Arm                 |        | ![Image60][Img60]   |
-| 61  | Awal                 | ⴰⵡⴰⵍ                 | Parole          | Talk                |        | ![Image61][Img61]   |
-| 62  | Aɣṛum                | ⴰⵖⵕⵓⵎ                | Pain            | Bread               |        | ![Image62][Img62]   |
-| 63  | Akal                 | ⴰⴽⴰⵍ                 | Sol, Terre      | Soil                |        | ![Image63][Img63]   |
-| 64  | Anwa                 | ⴰⵏⵡⴰ                 | Qui, Lequel     | Who                 |        | ![Image64][Img64]   |
-| 65  | Anta                 | ⴰⵏⵜⴰ                 | Qui, Laquelle   | Who                 |        | ![Image65][Img65]   |
-| 66  | Taɣaṭ                | ⵜⴰⵖⴰⵟ                | Chèvre          | Goat                |        | ![Image66][Img66]   |
-| 67  | Awtul                | ⴰⵡⵜⵓⵍ                | Lapin           | Rabbit              |        | ![Image67][Img67]   |
-| 68  | Uccen                | ⵓⵛⵛⴻⵏ                | Chacal          | Jackal              |        | ![Image68][Img68]   |
-| 69  | Adfel                | ⴰⴷⴼⴻⵍ                | Neige           | Snow                |        | ![Image69][Img69]   |
-| 70  | Adrar                | ⴰⴷⵔⴰⵔ                | Montagne        | Mountain            |        | ![Image70][Img70]   |
-| 71  | Tayri                | ⵜⴰⵢⵔⵉ                | Amour           | Love                |        | ![Image71][Img71]   |
-| 72  | Tameɣṛa              | ⵜⴰⵎⴻⵖⵕⴰ              | Fête            | Party               |        | ![Image72][Img72]   |
-| 73  | Tabburt, Tawwurt     | ⵜⴰⴱⴱⵓⵔⵜ, ⵜⴰⵡⵡⵓⵔⵜ     | Porte           | Door                |        | ![Image73][Img73]   |
-| 74  | Ssuden, Mmac         | ⵙⵙⵓⴷⴻⵏ, ⵎⵎⴰⵛ         | Embrasser       | To kiss             |        | ![Image74][Img74]   |
-| 75  | Aggur                | ⴰⴳⴳⵓⵔ                | Lune            | Moon                |        | ![Image75][Img75]   |
-| 76  | Ṭṭaq                 | ⵟⵟⴰⵇ                 | Fenêtre         | Window              |        | ![Image76][Img76]   |
-| 77  | Times, Timest        | ⵜⵉⵎⴻⵙ, ⵜⵉⵎⴻⵙⵜ        | Feu             | Fire                |        | ![Image77][Img77]   |
-| 78  | Lemri                | ⵍⴻⵎⵔⵉ                | Miroir          | Mirror              |        | ![Image78][Img78]   |
-| 79  | Nekk, Nekkini        | ⵏⴻⴽⴽ, ⵏⴻⴽⴽⵉⵏⵉ        | Je, Moi         | I, Me               |        | ![Image79][Img79]   |
-| 80  | Kečč, Keččini        | ⴽⴻⵛⵛ, ⴽⴻⵛⵛⵉⵏⵉ        | Toi (Masculine) | You (Male)          |        | ![Image80][Img80]   |
-| 81  | Ageffur, Anẓaṛ       | ⴰⴳⴻⴼⴼⵓⵔ, ⴰⵏⵥⴰⵕ       | Pluie           | Rain                |        | ![Image81][Img81]   |
-| 82  | Dadi, Dihin, Dihinna | ⴷⴰⴷⵉ, ⴷⵉⵀⵉⵏ, ⴷⵉⵀⵉⵏⵏⴰ | Là-bas          | There, Over there   |        | ![Image82][Img82]   |
-| 83  | Llufan               | ⵍⵍⵓⴼⴰⵏ               | Bébé            | Baby                |        | ![Image83][Img83]   |
-| 84  | Aru                  | ⴰⵔⵓ                  | Écrire          | To write            |        | ![Image84][Img84]   |
-| 85  | Amzur                | ⴰⵎⵣⵓⵔ                | Cheveux longs   | Long hair           |        | ![Image85][Img85]   |
-| 86  | Iccer                | ⵉⵛⵛⴻⵔ                | Ongle           | Nail, Fingernail    |        | ![Image86][Img86]   |
-| 87  | Ečč                  | ⴻⵛⵛ                  | Manger          | To eat              |        | ![Image87][Img87]   |
-| 88  | Tura                 | ⵜⵓⵔⴰ                 | Maintenant      | Now, Right now      |        | ![Image88][Img88]   |
-| 89  | Azemmur              | ⴰⵣⴻⵎⵎⵓⵔ              | Olive           | Olive               |        | ![Image89][Img89]   |
-| 90  | Allen                | ⴰⵍⵍⴻⵏ                | Yeux            | Eyes                |        | ![Image90][Img90]   |
-| 91  | Aqejjiṛ              | ⴰⵇⴻⵊⵊⵉⵕ              | Jambe           | Leg                 |        | ![Image91][Img91]   |
-| 92  | Idmaren              | ⵉⴷⵎⴰⵔⴻⵏ              | Poitrine        | Chest               |        | ![Image92][Img92]   |
-| 93  | Tabbuct              | ⵜⴰⴱⴱⵓⵛⵜ              | Sein            | Breast              |        | ![Image93][Img93]   |
-| 94  | Nnal                 | ⵏⵏⴰⵍ                 | Toucher         | Touch               |        | ![Image94][Img94]   |
-| 95  | Tismin               | ⵜⵉⵙⵎⵉⵏ               | Jalousie        | Jealousy            |        | ![Image95][Img95]   |
-| 96  | Amddakwel            | ⴰⵎⴷⴷⴰⴽⵡⴻⵍ            | Un ami          | A friend            |        | ![Image96][Img96]   |
-| 97  | Azagur, Aεrur        | ⴰⵣⴰⴳⵓⵔ, ⴰⵄⵔⵓⵔ        | Dos             | Back                |        | ![Image97][Img97]   |
-| 98  | Idammen              | ⵉⴷⴰⵎⵎⴻⵏ              | Sang            | Blood               |        | ![Image98][Img98]   |
-| 99  | Lmus                 | ⵍⵎⵓⵙ                 | Couteau         | Knife               |        | ![Image99][Img99]   |
-| 100 | Zzit uzemmur         | ⵣⵣⵉⵜ ⵓⵣⴻⵎⵎⵓⵔ         | Huile d'olive   | Olive oil           |        | ![Image100][Img100] |
+| Id                | Kabyle               | Tifinagh             | Français        | Anglais             | Arabe          | Image               |
+|-------------------|----------------------|----------------------|-----------------|---------------------|----------------|---------------------|
+| 1                 | Ul                   | ⵓⵍ                   | Coeur           | Heart               | قلب            | ![Image1][Img1]     |
+| 2                 | Ul-iw                | ⵓⵍ-ⵉⵡ                | Mon coeur       | My heart            | قلبي           | ![Image2][Img2]     |
+| 3                 | Izem                 | ⵉⵣⴻⵎ                 | Lion            | Lion                | أسد            | ![Image3][Img3]     |
+| 4                 | Tasedda              | ⵜⴰⵙⴻⴷⴷⴰ              | Une lionne      | A lioness           | لبؤة           | ![Image4][Img4]     |
+| 5                 | Amcic                | ⴰⵎⵛⵉⵛ                | Un chat         | A cat               | قط, هر         | ![Image5][Img5]     |
+| 6                 | Aman                 | ⴰⵎⴰⵏ                 | Eau             | Water               | ماء            | ![Image6][Img6]     |
+| 7                 | Afus                 | ⴰⴼⵓⵙ                 | Main            | Hand                | يد             | ![Image7][Img7]     |
+| 8                 | Aḍar                 | ⴰⴹⴰⵔ                 | Pied            | Foot                | قدم            | ![Image8][Img8]     |
+| 9                 | Asigna               | ⴰⵙⵉⴳⵏⴰ               | Nuage           | Cloud               | سحابة          | ![Image9][Img9]     |
+| 10                | Iṭij                 | ⵉⵟⵉⵊ                 | Soleil          | Sun                 | شمس            | ![Image10][Img10]   |
+| 11                | Tiziri               | ⵜⵉⵣⵉⵔⵉ               | Claire de lune  | Moonlight           | ضوء القمر      | ![Image11][Img11]   |
+| 12                | Axxam                | ⴰⵅⵅⴰⵎ                | Maison          | House               | منزل, بيت      | ![Image12][Img12]   |
+| 13                | Abrid                | ⴰⴱⵔⵉⴷ                | Chemin          | Path                | مسار, طريق     | ![Image13][Img13]   |
+| 14                | Asif                 | ⴰⵙⵉⴼ                 | Fleuve, Rivière | River               | نهر            | ![Image14][Img14]   |
+| 15                | Aqjun                | ⴰⵇⵊⵓⵏ                | Un chien        | A dog               | كلب            | ![Image15][Img15]   |
+| 16                | Da, Dagi, Dagini     | ⴷⴰ, ⴷⴰⴳⵉ, ⴷⴰⴳⵉⵏⵉ     | Là, ici         | Here                | هنا            | ![Image16][Img16]   |
+| 17                | Degger, Demmer       | ⴷⴻⴳⴳⴻⵔ, ⴷⴻⵎⵎⴻⵔ       | Pousser         | To push             | دفع            | ![Image17][Img17]   |
+| 18                | Tadukkli             | ⵜⴰⴷⵓⴽⴽⵍⵉ             | L'union         | The union           | الاتحاد        | ![Image18][Img18]   |
+| 19                | Anzaren              | ⴰⵏⵣⴰⵔⴻⵏ              | Nez             | Nose                | أنف            | ![Image19][Img19]   |
+| 20                | Ansuf yis-wen        | ⴰⵏⵚⵓⴼ ⵢⵉⵙ-ⵡⴻⵏ        | Bienvenue       | Welcome             | مرحبا بكم      | ![Image20][Img20]   |
+| 21                | Seksu                | ⵙⴻⴽⵙⵓ                | Couscous        | Couscous            | الكسكس         | ![Image21][Img21]   |
+| 22                | Zegger,Zger          | ⵣⴻⴳⴰⵔ, ⵣⴳⴻⵔ          | Traverser       | To cross            | عبر            | ![Image22][Img22]   |
+| 23                | Σeggeḍ               | ⵄⴻⴳⴳⴻⴹ               | Crier           | To scream           | صرخ            | ![Image23][Img23]   |
+| 24                | Asɣaṛ                | ⴰⵙⵖⴰⵕ                | Bois            | Wood                | خشب            | ![Image24][Img24]   |
+| 25                | Azger                | ⴰⵣⴳⴻⵔ                | Boeuf           | Ox                  | ثور            | ![Image25][Img25]   |
+| 26                | Azul                 | ⴰⵣⵓⵍ                 | Salut           | Hello               | سلام           | ![Image26][Img26]   |
+| 27                | Yemma                | ⵢⴻⵎⵎⴰ                | Maman           | Mom                 | أمي            | ![Image27][Img27]   |
+| 28                | Amellal, Acebḥan     | ⴰⵎⴻⵍⵍⴰⵍ, ⴰⵛⴻⴱⵃⴰⵏ     | Blanc           | White               | أبيض           | ![Image28][Img28]   |
+| 29                | Azeggwaɣ             | ⴰⵣⴻⴳⴳⵡⴰⵖ             | Rouge           | Red                 | أحمر           | ![Image29][Img29]   |
+| 30                | Azegzaw              | ⴰⵣⴻⴳⵣⴰⵡ              | Vert            | Green               | أخضر           | ![Image30][Img30]   |
+| 31                | Aberkan              | ⴰⴱⴰⵔⴽⴰⵏ              | Noir            | Black               | أسود           | ![Image31][Img31]   |
+| 32                | Azeggwaɣ             | ⴰⵣⴻⴳⴳⴰⵖ              | Bleu            | Blue                | أزرق           | ![Image32][Img32]   |
+| 33                | Imi, Aqemmuc         | ⵉⵎⵉ, ⴰⵇⴻⵎⵎⵓⵛ         | Bouche          | Mouth               | فم             | ![Image33][Img33]   |
+| 34                | Acenfir              | ⴰⵛⴻⵏⴼⵉⵔ              | Lèvre           | Lip                 | شفة            | ![Image34][Img34]   |
+| 35                | Ameẓẓuɣ              | ⴰⵎⴻⵥⵥⵓⵖ              | Oreille         | Ear                 | إذن            | ![Image35][Img35]   |
+| 36                | Argaz                | ⴰⵔⴳⴰⵣ                | Homme           | Man                 | رجل            | ![Image36][Img36]   |
+| 37                | Tameṭṭut             | ⵜⴰⵎⴻⵟⵟⵓⵜ             | Femme           | Woman               | امرأة          | ![Image37][Img37]   |
+| 38                | Taqcict, Taqṛuṛt     | ⵜⴰⵇⵛⵉⵛⵜ, ⵜⴰⵇⵕⵓⵕⵜ     | Fille           | Girl                | فتاة           | ![Image38][Img38]   |
+| 39                | Aqeṛṛu, Aqeṛṛuy      | ⴰⵇⴻⵕⵕⵓ, ⴰⵇⴻⵕⵕⵓⵢ      | Tête            | Head                | رأس            | ![Image39][Img39]   |
+| 40                | Tanemmirt            | ⵜⴰⵏⴻⵎⵎⵉⵔⵜ            | Merci           | Thanks, Thank you   | شكرا           | ![Image40][Img40]   |
+| 41                | Azekka               | ⴰⵣⴻⴽⴽⴰ               | Demain          | Tomorrow            | غدا            | ![Image41][Img41]   |
+| 42                | Iḍelli               | ⵉⴹⴻⵍⵍⵉ               | Hier            | Yesterday           | أمس, البارحة   | ![Image42][Img42]   |
+| 43                | Assa, Assagi         | ⴰⵙⵙⴰ, ⴰⵙⵙⴰⴳⵉ         | Aujourd'hui     | Today               | اليوم          | ![Image43][Img43]   |
+| 44                | Dduṛt, Smana         | ⴷⴷⵓⵕⵜ, ⵙⵎⴰⵏⴰ         | Semaine         | Week                | أسبوع          | ![Image44][Img44]   |
+| 45                | Aggur                | ⴰⴳⴳⵓⵔ                | Mois            | Month               | شهر            | ![Image45][Img45]   |
+| 46                | Asseggas             | ⴰⵙⴻⴳⴳⴰⵙ              | Année           | Year                | عام            | ![Image46][Img46]   |
+| 47                | Suṭṭeḍ               | ⵙⵓⵟⵟⴻⴹ               | Allaiter        | Suckle, Breast-feed | ترضع           | ![Image47][Img47]   |
+| 48                | Lzzayer              | ⵍⵣⵣⴰⵢⴻⵔ              | Algérie         | Algeria             | الجزائر        | ![Image48][Img48]   |
+| 49                | Fransa               | ⴼⵔⴰⵏⵙⴰ               | France          | France              | فرنسا          | ![Image49][Img49]   |
+| 50                | Marikan              | ⵎⴰⵔⵉⴽⴰⵏ              | Amérique        | America             | أمريكا         | ![Image50][Img50]   |
+| 51                | Taṛumit, Tafṛansist  | ⵜⴰⵕⵓⵎⵉⵜ, ⵜⴰⴼⵕⴰⵏⵙⵉⵙⵜ  | Le français     | The french language | اللغة الفرنسية | ![Image51][Img51]   |
+| 52                | Aṛumi                | ⴰⵕⵓⵎⵉ                | Un français     | A frenchman         | فرنسي          | ![Image52][Img52]   |
+| 53                | Aruy                 | ⴰⵔⵓⵢ                 | Porc-épic       | Porcupine           | النيص          | ![Image53][Img53]   |
+| 54                | Tafat                | ⵜⴰⴼⴰⵜ                | Lumière         | Light               | ضوء            | ![Image54][Img54]   |
+| 55                | Tafunast             | ⵜⴰⴼⵓⵏⴰⵙⵜ             | Vache           | Cow                 | بقرة           | ![Image55][Img55]   |
+| 56                | Iddew, Ibekki        | ⵉⴷⴷⴻⵡ, ⵉⴱⴻⴽⴽⵉ        | Singe           | Monkey              | قرد            | ![Image56][Img56]   |
+| 57                | Ayaziḍ               | ⴰⵢⴰⵣⵉⴹ               | Coq             | Rooster, Cock       | ديك            | ![Image57][Img57]   |
+| 58                | Tamellalt            | ⵜⴰⵎⴻⵍⵍⴰⵍⵜ            | Œuf             | Egg                 | بيضة           | ![Image58][Img58]   |
+| 59                | Tala                 | ⵜⴰⵍⴰ                 | Fontaine        | Fountain            | نافورة         | ![Image59][Img59]   |
+| 60                | Iɣil                 | ⵉⵖⵉⵍ                 | Bras            | Arm                 | ذراع           | ![Image60][Img60]   |
+| 61                | Awal                 | ⴰⵡⴰⵍ                 | Parole          | Talk                | كلام           | ![Image61][Img61]   |
+| 62                | Aɣṛum                | ⴰⵖⵕⵓⵎ                | Pain            | Bread               | خبز            | ![Image62][Img62]   |
+| 63                | Akal                 | ⴰⴽⴰⵍ                 | Sol, Terre      | Soil                | تراب           | ![Image63][Img63]   |
+| 64                | Anwa                 | ⴰⵏⵡⴰ                 | Qui, Lequel     | Who                 | من هو          | ![Image64][Img64]   |
+| 65                | Anta                 | ⴰⵏⵜⴰ                 | Qui, Laquelle   | Who                 | من هي          | ![Image65][Img65]   |
+| 66                | Taɣaṭ                | ⵜⴰⵖⴰⵟ                | Chèvre          | Goat                | ماعز           | ![Image66][Img66]   |
+| 67                | Awtul                | ⴰⵡⵜⵓⵍ                | Lapin           | Rabbit              | أرنب           | ![Image67][Img67]   |
+| 68                | Uccen                | ⵓⵛⵛⴻⵏ                | Chacal          | Jackal              | ابن آوى        | ![Image68][Img68]   |
+| 69                | Adfel                | ⴰⴷⴼⴻⵍ                | Neige           | Snow                | ثلج            | ![Image69][Img69]   |
+| 70                | Adrar                | ⴰⴷⵔⴰⵔ                | Montagne        | Mountain            | جبل            | ![Image70][Img70]   |
+| 71                | Tayri                | ⵜⴰⵢⵔⵉ                | Amour           | Love                | حب             |                     |
+| ![Image71][Img71] |                      |                      |                 |                     |                |                     |
+| 72                | Tameɣṛa              | ⵜⴰⵎⴻⵖⵕⴰ              | Fête            | Party               | حفلة           | ![Image72][Img72]   |
+| 73                | Tabburt, Tawwurt     | ⵜⴰⴱⴱⵓⵔⵜ, ⵜⴰⵡⵡⵓⵔⵜ     | Porte           | Door                | باب            | ![Image73][Img73]   |
+| 74                | Ssuden, Mmac         | ⵙⵙⵓⴷⴻⵏ, ⵎⵎⴰⵛ         | Embrasser       | To kiss             | قبل, باس       |                     |
+| ![Image74][Img74] |                      |                      |                 |                     |                |                     |
+| 75                | Aggur                | ⴰⴳⴳⵓⵔ                | Lune            | Moon                | قمر            | ![Image75][Img75]   |
+| 76                | Ṭṭaq                 | ⵟⵟⴰⵇ                 | Fenêtre         | Window              | نافذة          | ![Image76][Img76]   |
+| 77                | Times, Timest        | ⵜⵉⵎⴻⵙ, ⵜⵉⵎⴻⵙⵜ        | Feu             | Fire                | نار            | ![Image77][Img77]   |
+| 78                | Lemri                | ⵍⴻⵎⵔⵉ                | Miroir          | Mirror              | مرآة           | ![Image78][Img78]   |
+| 79                | Nekk, Nekkini        | ⵏⴻⴽⴽ, ⵏⴻⴽⴽⵉⵏⵉ        | Je, Moi         | I, Me               | أنا            | ![Image79][Img79]   |
+| 80                | Kečč, Keččini        | ⴽⴻⵛⵛ, ⴽⴻⵛⵛⵉⵏⵉ        | Toi (Masculine) | You (Male)          | أنت            | ![Image80][Img80]   |
+| 81                | Ageffur, Anẓaṛ       | ⴰⴳⴻⴼⴼⵓⵔ, ⴰⵏⵥⴰⵕ       | Pluie           | Rain                | مطر            | ![Image81][Img81]   |
+| 82                | Dadi, Dihin, Dihinna | ⴷⴰⴷⵉ, ⴷⵉⵀⵉⵏ, ⴷⵉⵀⵉⵏⵏⴰ | Là-bas          | There, Over there   | هناك           | ![Image82][Img82]   |
+| 83                | Llufan               | ⵍⵍⵓⴼⴰⵏ               | Bébé            | Baby                | طفل            | ![Image83][Img83]   |
+| 84                | Aru                  | ⴰⵔⵓ                  | Écrire          | To write            | كتب            | ![Image84][Img84]   |
+| 85                | Amzur                | ⴰⵎⵣⵓⵔ                | Cheveux longs   | Long hair           | شعر طويل       | ![Image85][Img85]   |
+| 86                | Iccer                | ⵉⵛⵛⴻⵔ                | Ongle           | Nail, Fingernail    | ظفر            | ![Image86][Img86]   |
+| 87                | Ečč                  | ⴻⵛⵛ                  | Manger          | To eat              | أكل            | ![Image87][Img87]   |
+| 88                | Tura                 | ⵜⵓⵔⴰ                 | Maintenant      | Now, Right now      | الآن           | ![Image88][Img88]   |
+| 89                | Azemmur              | ⴰⵣⴻⵎⵎⵓⵔ              | Olive           | Olive               | زيتون          | ![Image89][Img89]   |
+| 90                | Allen                | ⴰⵍⵍⴻⵏ                | Yeux            | Eyes                | عيون           | ![Image90][Img90]   |
+| 91                | Aqejjiṛ              | ⴰⵇⴻⵊⵊⵉⵕ              | Jambe           | Leg                 | ساق            | ![Image91][Img91]   |
+| 92                | Idmaren              | ⵉⴷⵎⴰⵔⴻⵏ              | Poitrine        | Chest               | صدر            | ![Image92][Img92]   |
+| 93                | Tabbuct              | ⵜⴰⴱⴱⵓⵛⵜ              | Sein            | Breast              | ثدي            | ![Image93][Img93]   |
+| 94                | Nnal                 | ⵏⵏⴰⵍ                 | Toucher         | Touch               | لمس            | ![Image94][Img94]   |
+| 95                | Tismin               | ⵜⵉⵙⵎⵉⵏ               | Jalousie        | Jealousy            | غيرة           | ![Image95][Img95]   |
+| 96                | Amddakwel            | ⴰⵎⴷⴷⴰⴽⵡⴻⵍ            | Un ami          | A friend            | صديق           | ![Image96][Img96]   |
+| 97                | Azagur, Aεrur        | ⴰⵣⴰⴳⵓⵔ, ⴰⵄⵔⵓⵔ        | Dos             | Back                | ظهر            | ![Image97][Img97]   |
+| 98                | Idammen              | ⵉⴷⴰⵎⵎⴻⵏ              | Sang            | Blood               | دم             | ![Image98][Img98]   |
+| 99                | Lmus                 | ⵍⵎⵓⵙ                 | Couteau         | Knife               | سكين           | ![Image99][Img99]   |
+| 100               | Zzit uzemmur         | ⵣⵣⵉⵜ ⵓⵣⴻⵎⵎⵓⵔ         | Huile d'olive   | Olive oil           | زيت الزيتون    | ![Image100][Img100] |
+
 
 
 
