@@ -62,3 +62,13 @@ Images de 201 à 300
 [Img218]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/218.png
 [Img219]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/219.png
 [Img220]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/220.png
+[Img221]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/221.png
+[Img222]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/222.png
+[Img223]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/223.png
+[Img224]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/224.png
+[Img225]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/225.png
+[Img226]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/226.png
+[Img227]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/227.png
+[Img228]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/228.png
+[Img229]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/229.png
+[Img230]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/230.png
