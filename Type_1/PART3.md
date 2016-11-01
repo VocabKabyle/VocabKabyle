@@ -16,6 +16,26 @@ Images de 201 à 300
 | 208 | zṛudiyya       | ⵣⵕⵓⴷⵉⵢⵢⴰ       | Carotte           | Carrot                       | جزر            | ![Image208][Img208] |
 | 209 | Aseklu         | ⴰⵙⴻⴽⵍⵓ          | Arbre             | Tree                         | شجرة           | ![Image209][Img209] |
 | 210 | Aḥeckul        | ⴰⵃⴻⵛⴽⵓⵍ         | Sortilège         | Magic spell                  | سحر            | ![Image210][Img210] |
+| 211 | xx        |          | xx         | xx                  |             | ![Image211][Img211] |
+| 212 | xx        |          | xx         | xx                  |             | ![Image212][Img212] |
+| 213 | xx        |          | xx         | xx                  |             | ![Image213][Img213] |
+| 214 | xx        |          | xx         | xx                  |             | ![Image214][Img214] |
+| 215 | xx        |          | xx         | xx                  |             | ![Image215][Img215] |
+| 216 | xx        |          | xx         | xx                  |             | ![Image216][Img216] |
+| 217 | xx        |          | xx         | xx                  |             | ![Image217][Img217] |
+| 218 | xx        |          | xx         | xx                  |             | ![Image218][Img218] |
+| 219 | xx        |          | xx         | xx                  |             | ![Image219][Img219] |
+| 220 | xx        |          | xx         | xx                  |             | ![Image220][Img220] |
+| 221 | xx        |          | xx         | xx                  |             | ![Image221][Img221] |
+| 222 | xx        |          | xx         | xx                  |             | ![Image222][Img222] |
+| 223 | xx        |          | xx         | xx                  |             | ![Image223][Img223] |
+| 224 | xx        |          | xx         | xx                  |             | ![Image224][Img224] |
+| 225 | xx        |          | xx         | xx                  |             | ![Image225][Img225] |
+| 226 | xx        |          | xx         | xx                  |             | ![Image226][Img226] |
+| 227 | xx        |          | xx         | xx                  |             | ![Image227][Img227] |
+| 228 | xx        |          | xx         | xx                  |             | ![Image228][Img228] |
+| 229 | xx        |          | xx         | xx                  |             | ![Image229][Img229] |
+| 230 | xx        |          | xx         | xx                  |             | ![Image230][Img230] |
 
 
 
@@ -32,3 +52,13 @@ Images de 201 à 300
 [Img208]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/208.png
 [Img209]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/209.png
 [Img210]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/210.png
+[Img211]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/211.png
+[Img212]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/212.png
+[Img213]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/213.png
+[Img214]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/214.png
+[Img215]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/215.png
+[Img216]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/216.png
+[Img217]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/217.png
+[Img218]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/218.png
+[Img219]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/219.png
+[Img220]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/220.png
