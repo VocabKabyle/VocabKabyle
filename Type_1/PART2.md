@@ -16,17 +16,17 @@ Images de 101 à 200
 | 108 | Tudert              | ⵜⵓⴷⴻⵔⵜ              | La vie              | The life                 | الحياة    | ![Image108][Img108] |
 | 109 | Itri                | ⵉⵜⵔⵉ                | Étoile              | Star                     | نجمة, نجم | ![Image109][Img109] |
 | 110 | Tagecrart           | ⵜⴰⴳⴻⵛⵔⴰⵔⵜ           | Genou               | Knee                     | ركبة      | ![Image110][Img110] |
-| 111 | Izi                 | ⵉⵣⵉ                 | Mouche              | Fly                      |           | ![Image111][Img111] |
-| 112 | Tiɣirdemt           | ⵜⵉⵖⵉⵔⴷⴻⵎⵜ           | Scorpion            | Scorpion                 |           | ![Image112][Img112] |
-| 113 | Afekrun, Ifker      | ⴰⴼⴻⴽⵔⵓⵏ, ⵉⴼⴽⴻⵔ      | Tortue              | Turtle                   |           | ![Image113][Img113] |
-| 114 | Bururu              | ⴱⵓⵔⵓⵔⵓ              | Hibou               | Owl                      |           | ![Image114][Img114] |
-| 115 | Tiferllest          | ⵜⵉⴼⴻⵔⵍⵍⴻⵙⵜ          | Hirondelle          | Swallow                  |           | ![Image115][Img115] |
-| 116 | Tamart              | ⵜⴰⵎⴰⵔⵜ              | Barbe               | Beard                    |           | ![Image116][Img116] |
-| 117 | Claɣem              | ⵛⵍⴰⵖⴻⵎ              | Moustache           | Moustache, Mustache      |           | ![Image117][Img117] |
-| 118 | Tilelli             | ⵜⵉⵍⴻⵍⵍⵉ             | Liberté             | Freedom                  |           | ![Image118][Img118] |
-| 119 | Aḍad                | ⴰⴹⴰⴷ                | Doigt               | Finger                   |           | ![Image119][Img119] |
-| 120 | Ilef                | ⵉⵍⴻⴼ                | Sanglier            | Wild boar                |           | ![Image120][Img120] |
-| 121 | Aqcic, Aqṛuṛ        | ⴰⵇⵛⵉⵛ, ⴰⵇⵕⵓⵕ        | Garçon              | Boy                      |           | ![Image121][Img121] |
+| 111 | Izi                 | ⵉⵣⵉ                 | Mouche              | Fly                      | ذبابة     | ![Image111][Img111] |
+| 112 | Tiɣirdemt           | ⵜⵉⵖⵉⵔⴷⴻⵎⵜ           | Scorpion            | Scorpion                 | عقرب      | ![Image112][Img112] |
+| 113 | Afekrun, Ifker      | ⴰⴼⴻⴽⵔⵓⵏ, ⵉⴼⴽⴻⵔ      | Tortue              | Turtle                   | سلحفاة    | ![Image113][Img113] |
+| 114 | Bururu              | ⴱⵓⵔⵓⵔⵓ              | Hibou               | Owl                      | بومة      | ![Image114][Img114] |
+| 115 | Tiferllest          | ⵜⵉⴼⴻⵔⵍⵍⴻⵙⵜ          | Hirondelle          | Swallow                  | سنونو     | ![Image115][Img115] |
+| 116 | Tamart              | ⵜⴰⵎⴰⵔⵜ              | Barbe               | Beard                    | لحية      | ![Image116][Img116] |
+| 117 | Claɣem              | ⵛⵍⴰⵖⴻⵎ              | Moustache           | Moustache, Mustache      | شارب     | ![Image117][Img117] |
+| 118 | Tilelli             | ⵜⵉⵍⴻⵍⵍⵉ             | Liberté             | Freedom                  | حرية      | ![Image118][Img118] |
+| 119 | Aḍad                | ⴰⴹⴰⴷ                | Doigt               | Finger                   | اصبع      | ![Image119][Img119] |
+| 120 | Ilef                | ⵉⵍⴻⴼ                | Sanglier            | Wild boar                | خنزير بري | ![Image120][Img120] |
+| 121 | Aqcic, Aqṛuṛ        | ⴰⵇⵛⵉⵛ, ⴰⵇⵕⵓⵕ        | Garçon             | Boy                     |           | ![Image121][Img121] |
 | 122 | Tifdentt            | ⵜⵉⴼⴷⴻⵏⵜⵜ            | Orteil              | Toe                      |           | ![Image122][Img122] |
 | 123 | Babaɣayu            | ⴱⴰⴱⴰⵖⴰⵢⵓ            | Perroquet           | Parrot                   |           | ![Image123][Img123] |
 | 124 | Anyir               | ⴰⵏⵢⵉⵔ               | Front               | Forehead                 |           | ![Image124][Img124] |
