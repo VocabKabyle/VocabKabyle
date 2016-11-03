@@ -6,14 +6,14 @@ Images de 201 à 300
 ## Liste
 | Id  | Kabyle         | Tifinagh       | Français          | Anglais                      | Arabe         | Image               |
 |-----|----------------|----------------|-------------------|------------------------------|---------------|---------------------|
-| 201 | Bibb           | ⴱⵉⴱⴱ           | Porter sur le dos | Carry on the back, Piggyback | حمل على الظهر | ![Image201][Img201] |
+| 201 | Bibb           | ⴱⵉⴱⴱ          | Porter sur le dos | Carry on the back, Piggyback | حمل على الظهر | ![Image201][Img201] |
 | 202 | Taεekkwazt     | ⵜⴰⵄⴻⴽⴽⵡⴰⵣⵜ     | Canne             | Cane                         | قصب           | ![Image202][Img202] |
 | 203 | Tiɣwmeṛt       | ⵜⵉⵖⵡⵎⴻⵕⵜ       | Coude             | Elbow                        | كوع           | ![Image203][Img203] |
-| 204 | Aɣeṛbaz        | ⴰⵖⴻⵕⴱⴰⵣ        | École             | School                       | مدرسة         | ![Image204][Img204] |
+| 204 | Aɣeṛbaz        | ⴰⵖⴻⵕⴱⴰⵣ       | École             | School                       | مدرسة         | ![Image204][Img204] |
 | 205 | Aqeggel        | ⴰⵇⴻⴳⴳⴻⵍ        | Sieste            | Siesta                       | قيلولة        | ![Image205][Img205] |
 | 206 | Tislit n unẓar | ⵜⵉⵙⵍⵉⵜ ⵏ ⵓⵏⵥⴰⵔ | Arc-en-ciel       | Rainbow                      | قوس قزح       | ![Image206][Img206] |
 | 207 | Aḍil           | ⵜⴹⵉⵍ           | Raisin            | Grape                        | عنب           | ![Image207][Img207] |
-| 208 | zṛudiyya       | ⵣⵕⵓⴷⵉⵢⵢⴰ       | Carotte           | Carrot                       | جزر           | ![Image208][Img208] |
+| 208 | zṛudiyya       | ⵣⵕⵓⴷⵉⵢⵢⴰ      | Carotte           | Carrot                       | جزر           | ![Image208][Img208] |
 | 209 | Aseklu         | ⴰⵙⴻⴽⵍⵓ         | Arbre             | Tree                         | شجرة          | ![Image209][Img209] |
 | 210 | Aḥeckul        | ⴰⵃⴻⵛⴽⵓⵍ        | Sortilège         | Magic spell                  | سحر           | ![Image210][Img210] |
 | 211 | Azzu           |                | Genêts            | Forsythia                    |               | ![Image211][Img211] |
