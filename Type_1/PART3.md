@@ -16,11 +16,11 @@ Images de 201 à 300
 | 208 | zṛudiyya       | ⵣⵕⵓⴷⵉⵢⵢⴰ      | Carotte           | Carrot                       | جزر           | ![Image208][Img208] |
 | 209 | Aseklu         | ⴰⵙⴻⴽⵍⵓ         | Arbre             | Tree                         | شجرة          | ![Image209][Img209] |
 | 210 | Aḥeckul        | ⴰⵃⴻⵛⴽⵓⵍ        | Sortilège         | Magic spell                  | سحر           | ![Image210][Img210] |
-| 211 | Azzu           |                | Genêts            | Forsythia                    |               | ![Image211][Img211] |
-| 212 | Zzeṛb          |                | Clôture           | Fence                        |               | ![Image212][Img212] |
-| 213 | S tadist       |                | Enceinte          | Pregnant                     |               | ![Image213][Img213] |
-| 214 | Tamart         |                | Menton            | Chin                         |               | ![Image214][Img214] |
-| 215 | Ɣli            |                | Tomber            | Fall, Fall down              |               | ![Image215][Img215] |
+| 211 | Azzu           | ⴰⵣⵣⵓ          | Genêts            | Forsythia                    | -             | ![Image211][Img211] |
+| 212 | Zzeṛb          | ⵣⵣⴻⵕⴱ        | Clôture           | Fence                        | سياج          | ![Image212][Img212] |
+| 213 | S tadist       | ⵙ ⵜⴰⴷⵉⵙⵜ      | Enceinte          | Pregnant                     | حامل          | ![Image213][Img213] |
+| 214 | Tamart         | ⵜⴰⵎⴰⵔⵜ         | Menton            | Chin                         | ذقن           | ![Image214][Img214] |
+| 215 | Ɣli            | ⵖⵍⵉ            | Tomber            | Fall, Fall down              | سقط           | ![Image215][Img215] |
 | 216 | xx        |          | xx         | xx                  |             | ![Image216][Img216] |
 | 217 | xx        |          | xx         | xx                  |             | ![Image217][Img217] |
 | 218 | xx        |          | xx         | xx                  |             | ![Image218][Img218] |
