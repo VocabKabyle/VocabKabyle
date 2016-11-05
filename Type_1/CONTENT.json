@@ -1,1404 +1,1724 @@
-{
-  "Content":[
-    {
-      "Id": 1,
-      "Kabyle": "Ul",
-      "Tifinagh": "ⵓⵍ",
-      "Français": "Coeur",
-      "Anglais": "Heart"
-    },
-    {
-      "Id": 2,
-      "Kabyle": "Ul-iw",
-      "Tifinagh": "ⵓⵍ-ⵉⵡ",
-      "Français": "Mon coeur",
-      "Anglais": "My heart"
-    },
-    {
-      "Id": 3,
-      "Kabyle": "Izem",
-      "Tifinagh": "ⵉⵣⴻⵎ",
-      "Français": "Lion",
-      "Anglais": "Lion"
-    },
-    {
-      "Id": 4,
-      "Kabyle": "Tasedda",
-      "Tifinagh": "ⵜⴰⵙⴻⴷⴷⴰ",
-      "Français": "Une lionne",
-      "Anglais": "A lioness"
-    },
-    {
-      "Id": 5,
-      "Kabyle": "Amcic",
-      "Tifinagh": "ⴰⵎⵛⵉⵛ",
-      "Français": "Un chat",
-      "Anglais": "A cat"
-    },
-    {
-      "Id": 6,
-      "Kabyle": "Aman",
-      "Tifinagh": "ⴰⵎⴰⵏ",
-      "Français": "Eau",
-      "Anglais": "Water"
-    },
-    {
-      "Id": 7,
-      "Kabyle": "Afus",
-      "Tifinagh": "ⴰⴼⵓⵙ",
-      "Français": "Main",
-      "Anglais": "Hand"
-    },
-    {
-      "Id": 8,
-      "Kabyle": "Aḍar",
-      "Tifinagh": "ⴰⴹⴰⵔ",
-      "Français": "Pied",
-      "Anglais": "Foot"
-    },
-    {
-      "Id": 9,
-      "Kabyle": "Asigna",
-      "Tifinagh": "ⴰⴱⴰⵔⴽⴰⵏ",
-      "Français": "Nuage",
-      "Anglais": "Cloud"
-    },
-    {
-      "Id": 10,
-      "Kabyle": "Iṭij",
-      "Tifinagh": "ⵉⵟⵉⵊ",
-      "Français": "Soleil",
-      "Anglais": "Sun"
-    },
-    {
-      "Id": 11,
-      "Kabyle": "Tiziri",
-      "Tifinagh": "ⴰⴱⴰⵔⴽⴰⵏ",
-      "Français": "Claire de lune",
-      "Anglais": "Moonlight"
-    },
-    {
-      "Id": 12,
-      "Kabyle": "Axxam",
-      "Tifinagh": "ⴰⵅⵅⴰⵎ",
-      "Français": "Maison",
-      "Anglais": "House"
-    },
-    {
-      "Id": 13,
-      "Kabyle": "Abrid",
-      "Tifinagh": "ⴰⴱⵔⵉⴷ",
-      "Français": "Chemin",
-      "Anglais": "Path"
-    },
-    {
-      "Id": 14,
-      "Kabyle": "Asif",
-      "Tifinagh": "ⴰⵙⵉⴼ",
-      "Français": "Fleuve, Rivière",
-      "Anglais": "River"
-    },
-    {
-      "Id": 15,
-      "Kabyle": "Aqjun",
-      "Tifinagh": "ⴰⵇⵊⵓⵏ",
-      "Français": "Un chien",
-      "Anglais": "A dog"
-    },
-    {
-      "Id": 16,
-      "Kabyle": "Da, Dagi, Dagini",
-      "Tifinagh": "ⴷⴰ, ⴷⴰⴳⵉ, ⴷⴰⴳⵉⵏⵉ",
-      "Français": "Là, ici",
-      "Anglais": "Here"
-    },
-    {
-      "Id": 17,
-      "Kabyle": "Degger, Demmer",
-      "Tifinagh": "ⴷⴻⴳⴳⴻⵔ, ⴷⴻⵎⵎⴻⵔ",
-      "Français": "Pousser",
-      "Anglais": "To push"
-    },
-    {
-      "Id": 18,
-      "Kabyle": "Tadulki",
-      "Tifinagh": "ⵜⴰⴷⵓⴽⵍⵉ",
-      "Français": "L'union",
-      "Anglais": "The union"
-    },
-    {
-      "Id": 19,
-      "Kabyle": "Anzaren",
-      "Tifinagh": "ⴰⵏⵣⴰⵔⴻⵏ",
-      "Français": "Nez",
-      "Anglais": "Nose"
-    },
-    {
-      "Id": 20,
-      "Kabyle": "Anṣuf yiswen",
-      "Tifinagh": "ⴰⵏⵚⵓⴼ ⵢⵉⵙⵡⴻⵏ",
-      "Français": "Bienvenue",
-      "Anglais": "Welcome"
-    },
-    {
-      "Id": 21,
-      "Kabyle": "Seksu",
-      "Tifinagh": "ⵙⴽⵙⵓ",
-      "Français": "Couscous",
-      "Anglais": "Couscous"
-    },
-    {
-      "Id": 22,
-      "Kabyle": "Zegger",
-      "Tifinagh": "ⵣⴻⴳⴰⵔ",
-      "Français": "Traverser",
-      "Anglais": "To cross"
-    },
-    {
-      "Id": 23,
-      "Kabyle": "Ɛeggeḍ",
-      "Tifinagh": "ⵙⴽⵙⵓ",
-      "Français": "Crier",
-      "Anglais": "To scream"
-    },
-    {
-      "Id": 24,
-      "Kabyle": "Asɣaṛ",
-      "Tifinagh": "ⴰⵙɣⴰⵕ",
-      "Français": "Bois",
-      "Anglais": "Wood"
-    },
-    {
-      "Id": 25,
-      "Kabyle": "Azger",
-      "Tifinagh": "ⴰⵣⴳⴰⵔ",
-      "Français": "Boeuf",
-      "Anglais": "Ox"
-    },
-    {
-      "Id": 26,
-      "Kabyle": "Azul",
-      "Tifinagh": "ⴰⵣⵓⵍ",
-      "Français": "Salut",
-      "Anglais": "Hello"
-    },
-    {
-      "Id": 27,
-      "Kabyle": "Yemma",
-      "Tifinagh": "ⵢⴻⵎⵎⴰ",
-      "Français": "Maman",
-      "Anglais": "Mom"
-    },
-    {
-      "Id": 28,
-      "Kabyle": "Amellal, Acebḥan",
-      "Tifinagh": "ⴰⵎⴻⵍⵍⴰⵍ, ⴰⵛⴻⴱⵃⴰⵏ",
-      "Français": "Blanc",
-      "Anglais": "White"
-    },
-    {
-      "Id": 29,
-      "Kabyle": "Azeggwaɣ",
-      "Tifinagh": "ⴰⵣⴻⴳⴳⵡⴰⵖ",
-      "Français": "Rouge",
-      "Anglais": "Red"
-    },
-    {
-      "Id": 30,
-      "Kabyle": "Azegzaw",
-      "Tifinagh": "ⴰⵣⴻⴳⵣⴰⵡ",
-      "Français": "Vert",
-      "Anglais": "Green"
-    },
-    {
-      "Id": 31,
-      "Kabyle": "Aberkan",
-      "Tifinagh": "ⴰⴱⴰⵔⴽⴰⵏ",
-      "Français": "Noir",
-      "Anglais": "Black"
-    },
-    {
-      "Id": 32,
-      "Kabyle": "Azegzaw",
-      "Tifinagh": "ⴰⵣⴻⴳⵣⴰⵡ",
-      "Français": "Bleu",
-      "Anglais": "Blue"
-    },
-    {
-      "Id": 33,
-      "Kabyle": "Imi, Aqemmuc",
-      "Tifinagh": "ⵉⵎⵉ, ⴰⵇⴻⵎⵎⵓⵛ",
-      "Français": "Bouche",
-      "Anglais": "Mouth"
-    },
-    {
-      "Id": 34,
-      "Kabyle": "Acenfir",
-      "Tifinagh": "ⴰⵛⴻⵏⴼⵉⵔ",
-      "Français": "Lèvre",
-      "Anglais": "Lip"
-    },
-    {
-      "Id": 35,
-      "Kabyle": "Ameẓẓuɣ",
-      "Tifinagh": "ⴰⵎⴻⵥⵥⵓⵖ",
-      "Français": "Oreille",
-      "Anglais": "Ear"
-    },
-    {
-      "Id": 36,
-      "Kabyle": "Argaz",
-      "Tifinagh": "ⴰⵔⴳⴰⵣ",
-      "Français": "Homme",
-      "Anglais": "Man"
-    },
-    {
-      "Id": 37,
-      "Kabyle": "Tameṭṭut",
-      "Tifinagh": "ⵜⴰⵎⴻⵟⵟⵓⵜ",
-      "Français": "Femme",
-      "Anglais": "Woman"
-    },
-    {
-      "Id": 38,
-      "Kabyle": "Taqcict, Taqṛuṛt",
-      "Tifinagh": "ⵜⴰⵇⵛⵉⵛⵜ, ⵜⴰⵇⵕⵓⵕⵜ",
-      "Français": "Fille",
-      "Anglais": "Girl"
-    },
-    {
-      "Id": 39,
-      "Kabyle": "Aqeṛṛu",
-      "Tifinagh": "ⴰⵇⴻⵕⵕⵓ",
-      "Français": "Tête",
-      "Anglais": "Head"
-    },
-    {
-      "Id": 40,
-      "Kabyle": "Tanemmirt",
-      "Tifinagh": "ⵜⴰⵏⴻⵎⵎⵉⵔⵜ",
-      "Français": "Merci",
-      "Anglais": "Thanks, Thank you"
-    },
-    {
-      "Id": 41,
-      "Kabyle": "Azekka",
-      "Tifinagh": "ⴰⵣⴻⴽⴽⴰ",
-      "Français": "Demain",
-      "Anglais": "Tomorrow"
-    },
-    {
-      "Id": 42,
-      "Kabyle": "Iḍelli",
-      "Tifinagh": "ⵉⴹⴻⵍⵍⵉ",
-      "Français": "Hier",
-      "Anglais": "Yesterday"
-    },
-    {
-      "Id": 43,
-      "Kabyle": "Assa, Assagi",
-      "Tifinagh": "ⴰⵙⵙⴰ, ⴰⵙⵙⴰⴳⵉ",
-      "Français": "Aujoud'hui",
-      "Anglais": "Today"
-    },
-    {
-      "Id": 44,
-      "Kabyle": "Dduṛt, Smana",
-      "Tifinagh": "ⴷⴷⵓⵕⵜ, ⵙⵎⴰⵏⴰ",
-      "Français": "Semaine",
-      "Anglais": "Week"
-    },
-    {
-      "Id": 45,
-      "Kabyle": "Aggur",
-      "Tifinagh": "ⴰⴳⴳⵓⵔ",
-      "Français": "Mois",
-      "Anglais": "Month"
-    },
-    {
-      "Id": 46,
-      "Kabyle": "Assegwas",
-      "Tifinagh": "ⴰⵙⵙⴻⴳⵡⴰⵙ",
-      "Français": "Année",
-      "Anglais": "Year"
-    },
-    {
-      "Id": 47,
-      "Kabyle": "Suṭṭeḍ",
-      "Tifinagh": "ⵙⵓⵟⵟⴻⴹ",
-      "Français": "Allaiter",
-      "Anglais": "Suckle, Breast-feed"
-    },
-    {
-      "Id": 48,
-      "Kabyle": "Lzzayer",
-      "Tifinagh": "ⵍⵣⵣⴰⵢⴻⵔ",
-      "Français": "Algérie",
-      "Anglais": "Algeria"
-    },
-    {
-      "Id": 49,
-      "Kabyle": "Fransa",
-      "Tifinagh": "ⴼⵔⴰⵏⵙⴰ",
-      "Français": "France",
-      "Anglais": "France"
-    },
-    {
-      "Id": 50,
-      "Kabyle": "Marikan",
-      "Tifinagh": "ⵎⴰⵔⵉⴽⴰⵏ",
-      "Français": "Amérique",
-      "Anglais": "America"
-    },
-    {
-      "Id": 51,
-      "Kabyle": "Taṛumit, Tafṛansist",
-      "Tifinagh": "ⵜⴰⵕⵓⵎⵉⵜ, ⵜⴰⴼⵕⴰⵏⵙⵉⵙⵜ",
-      "Français": "Le français",
-      "Anglais": "The french language"
-    },
-    {
-      "Id": 52,
-      "Kabyle": "Aṛumi",
-      "Tifinagh": "ⴰⵕⵓⵎⵉ",
-      "Français": "Un français",
-      "Anglais": "A frenchman"
-    },
-    {
-      "Id": 53,
-      "Kabyle": "Aruy",
-      "Tifinagh": "ⴰⵔⵓⵢ",
-      "Français": "Porc-épic",
-      "Anglais": "Porcupine"
-    },
-    {
-      "Id": 54,
-      "Kabyle": "Tafat",
-      "Tifinagh": "ⵜⴰⴼⴰⵜ",
-      "Français": "Lumière",
-      "Anglais": "Light"
-    },
-    {
-      "Id": 55,
-      "Kabyle": "Tafunast",
-      "Tifinagh": "ⵜⴰⴼⵓⵏⴰⵙⵜ",
-      "Français": "Vache",
-      "Anglais": "Cow"
-    },
-    {
-      "Id": 56,
-      "Kabyle": "Iddew, Ibekki",
-      "Tifinagh": "ⵉⴷⴷⴻⵡ, ⵉⴱⴻⴽⴽⵉ",
-      "Français": "Singe",
-      "Anglais": "Monkey"
-    },
-    {
-      "Id": 57,
-      "Kabyle": "Ayaziḍ",
-      "Tifinagh": "ⴰⵢⴰⵣⵉⴹ",
-      "Français": "Coq",
-      "Anglais": "Rooster, Cock"
-    },
-    {
-      "Id": 58,
-      "Kabyle": "Tamellalt",
-      "Tifinagh": "ⵜⴰⵎⴻⵍⵍⴰⵍⵜ",
-      "Français": "Œuf",
-      "Anglais": "Egg"
-    },
-    {
-      "Id": 59,
-      "Kabyle": "Tala",
-      "Tifinagh": "ⵜⴰⵍⴰ",
-      "Français": "Fontaine",
-      "Anglais": "Fountain"
-    },
-    {
-      "Id": 60,
-      "Kabyle": "Iɣil",
-      "Tifinagh": "ⵉⵖⵉⵍ",
-      "Français": "Bras",
-      "Anglais": "Arm"
-    },
-    {
-      "Id": 61,
-      "Kabyle": "Awal",
-      "Tifinagh": "ⴰⵡⴰⵍ",
-      "Français": "Parole",
-      "Anglais": "Talk"
-    },
-    {
-      "Id": 62,
-      "Kabyle": "Aɣṛum",
-      "Tifinagh": "ⴰⵖⵕⵓⵎ",
-      "Français": "Pain",
-      "Anglais": "Bread"
-    },
-    {
-      "Id": 63,
-      "Kabyle": "Akal",
-      "Tifinagh": "ⴰⴽⴰⵍ",
-      "Français": "Sol, Terre",
-      "Anglais": "Soil"
-    },
-    {
-      "Id": 64,
-      "Kabyle": "Anwa",
-      "Tifinagh": "ⴰⵏⵡⴰ",
-      "Français": "Qui, Lequel",
-      "Anglais": "Who"
-    },
-    {
-      "Id": 65,
-      "Kabyle": "Anta",
-      "Tifinagh": "ⴰⵏⵜⴰ",
-      "Français": "Qui, Laquelle",
-      "Anglais": "Who"
-    },
-    {
-      "Id": 66,
-      "Kabyle": "Taɣaṭ",
-      "Tifinagh": "ⵜⴰⵖⴰⵟ",
-      "Français": "Chèvre",
-      "Anglais": "Goat"
-    },
-    {
-      "Id": 67,
-      "Kabyle": "Awtul",
-      "Tifinagh": "ⴰⵡⵜⵓⵍ",
-      "Français": "Lapin",
-      "Anglais": "Rabbit"
-    },
-    {
-      "Id": 68,
-      "Kabyle": "Uccen",
-      "Tifinagh": "ⵓⵛⵛⴻⵏ",
-      "Français": "Chacal",
-      "Anglais": "Jackal"
-    },
-    {
-      "Id": 69,
-      "Kabyle": "Adfel",
-      "Tifinagh": "ⴰⴷⴼⴻⵍ",
-      "Français": "Neige",
-      "Anglais": "Snow"
-    },
-    {
-      "Id": 70,
-      "Kabyle": "Adrar",
-      "Tifinagh": "ⴰⴷⵔⴰⵔ",
-      "Français": "Montagne",
-      "Anglais": "Mountain"
-    },
-    {
-      "Id": 71,
-      "Kabyle": "Tayri",
-      "Tifinagh": "ⵜⴰⵢⵔⵉ",
-      "Français": "Amour",
-      "Anglais": "Love"
-    },
-    {
-      "Id": 72,
-      "Kabyle": "Tameɣṛa",
-      "Tifinagh": "ⵜⴰⵎⴻⵖⵕⴰ",
-      "Français": "Fête",
-      "Anglais": "Party"
-    },
-    {
-      "Id": 73,
-      "Kabyle": "Tabburt, Tawwurt",
-      "Tifinagh": "ⵜⴰⴱⴱⵓⵔⵜ, ⵜⴰⵡⵡⵓⵔⵜ",
-      "Français": "Porte",
-      "Anglais": "Door"
-    },
-    {
-      "Id": 74,
-      "Kabyle": "Ssuden, Mmac",
-      "Tifinagh": "ⵙⵙⵓⴷⴻⵏ, ⵎⵎⴰⵛ",
-      "Français": "Embrasser",
-      "Anglais": "To kiss"
-    },
-    {
-      "Id": 75,
-      "Kabyle": "Aggur",
-      "Tifinagh": "ⴰⴳⴳⵓⵔ",
-      "Français": "Lune",
-      "Anglais": "Moon"
-    },
-    {
-      "Id": 76,
-      "Kabyle": "Ṭṭaq",
-      "Tifinagh": "ⵟⵟⴰⵇ",
-      "Français": "Fenêtre",
-      "Anglais": "Window"
-    },
-    {
-      "Id": 77,
-      "Kabyle": "Times, Timest",
-      "Tifinagh": "ⵜⵉⵎⴻⵙ, ⵜⵉⵎⴻⵙⵜ",
-      "Français": "Feu",
-      "Anglais": "Fire"
-    },
-    {
-      "Id": 78,
-      "Kabyle": "Lemri",
-      "Tifinagh": "ⵍⴻⵎⵔⵉ",
-      "Français": "Miroir",
-      "Anglais": "Mirror"
-    },
-    {
-      "Id": 79,
-      "Kabyle": "Nekk, Nekkini",
-      "Tifinagh": "ⵏⴻⴽⴽ, ⵏⴻⴽⴽⵉⵏⵉ",
-      "Français": "Je, Moi",
-      "Anglais": "I, Me"
-    },
-    {
-      "Id": 80,
-      "Kabyle": "Kečč, Keččini",
-      "Tifinagh": "ⴽⴻⵛⵛ, ⴽⴻⵛⵛⵉⵏⵉ",
-      "Français": "Toi (Masculine)",
-      "Anglais": "You (Male)"
-    },
-    {
-      "Id": 81,
-      "Kabyle": "Ageffur, Anẓaṛ",
-      "Tifinagh": "ⴰⴳⴻⴼⴼⵓⵔ, ⴰⵏⵥⴰⵕ",
-      "Français": "Pluie",
-      "Anglais": "Rain"
-    },
-    {
-      "Id": 82,
-      "Kabyle": "Dadi, Dihin, Dihinna",
-      "Tifinagh": "ⴷⴰⴷⵉ, ⴷⵉⵀⵉⵏ, ⴷⵉⵀⵉⵏⵏⴰ",
-      "Français": "Là-bas",
-      "Anglais": "There, Over there"
-    },
-    {
-      "Id": 83,
-      "Kabyle": "Llufan",
-      "Tifinagh": "ⵍⵍⵓⴼⴰⵏ",
-      "Français": "Bébé",
-      "Anglais": "Baby"
-    },
-    {
-      "Id": 84,
-      "Kabyle": "Aru",
-      "Tifinagh": "ⴰⵔⵓ",
-      "Français": "Écrire",
-      "Anglais": "To write"
-    },
-    {
-      "Id": 85,
-      "Kabyle": "Amzur",
-      "Tifinagh": "ⴰⵎⵣⵓⵔ",
-      "Français": "Cheveux longs",
-      "Anglais": "Long hair"
-    },
-    {
-      "Id": 86,
-      "Kabyle": "Iccer",
-      "Tifinagh": "ⵉⵛⵛⴻⵔ",
-      "Français": "Ongle",
-      "Anglais": "Nail, Fingernail"
-    },
-    {
-      "Id": 87,
-      "Kabyle": "Ečč",
-      "Tifinagh": "ⴻⵛⵛ",
-      "Français": "Manger",
-      "Anglais": "To eat"
-    },
-    {
-      "Id": 88,
-      "Kabyle": "Tura",
-      "Tifinagh": "ⵜⵓⵔⴰ",
-      "Français": "Maintenant",
-      "Anglais": "Now, Right now"
-    },
-    {
-      "Id": 89,
-      "Kabyle": "Azemmur",
-      "Tifinagh": "ⴰⵣⴻⵎⵎⵓⵔ",
-      "Français": "Olive",
-      "Anglais": "Olive"
-    },
-    {
-      "Id": 90,
-      "Kabyle": "Allen",
-      "Tifinagh": "ⴰⵍⵍⴻⵏ",
-      "Français": "Yeux",
-      "Anglais": "Eyes"
-    },
-    {
-      "Id": 91,
-      "Kabyle": "Aqejjiṛ",
-      "Tifinagh": "ⴰⵇⴻⵊⵊⵉⵕ",
-      "Français": "Jambe",
-      "Anglais": "Leg"
-    },
-    {
-      "Id": 92,
-      "Kabyle": "Idmaren",
-      "Tifinagh": "ⵉⴷⵎⴰⵔⴻⵏ",
-      "Français": "Poitrine",
-      "Anglais": "Chest"
-    },
-    {
-      "Id": 93,
-      "Kabyle": "Tabbuct",
-      "Tifinagh": "ⵜⴰⴱⴱⵓⵛⵜ",
-      "Français": "Sein",
-      "Anglais": "Breast"
-    },
-    {
-      "Id": 94,
-      "Kabyle": "Nnal",
-      "Tifinagh": "ⵏⵏⴰⵍ",
-      "Français": "Toucher",
-      "Anglais": "Touch"
-    },
-    {
-      "Id": 95,
-      "Kabyle": "Tismin",
-      "Tifinagh": "ⵜⵉⵙⵎⵉⵏ",
-      "Français": "Jalousie",
-      "Anglais": "Jealousy"
-    },
-    {
-      "Id": 96,
-      "Kabyle": "Amddakwel",
-      "Tifinagh": "ⴰⵎⴷⴷⴰⴽⵡⴻⵍ",
-      "Français": "Un ami",
-      "Anglais": "A friend"
-    },
-    {
-      "Id": 97,
-      "Kabyle": "Azagur, Aεrur",
-      "Tifinagh": "ⴰⵣⴰⴳⵓⵔ, ⴰⵄⵔⵓⵔ",
-      "Français": "Dos",
-      "Anglais": "Back"
-    },
-    {
-      "Id": 98,
-      "Kabyle": "Idammen",
-      "Tifinagh": "ⵉⴷⴰⵎⵎⴻⵏ",
-      "Français": "Sang",
-      "Anglais": "Blood"
-    },
-    {
-      "Id": 99,
-      "Kabyle": "Lmus",
-      "Tifinagh": "ⵍⵎⵓⵙ",
-      "Français": "Couteau",
-      "Anglais": "Knife"
-    },
-    {
-      "Id": 100,
-      "Kabyle": "Zzit uzemmur",
-      "Tifinagh": "ⵣⵣⵉⵜ ⵓⵣⴻⵎⵎⵓⵔ",
-      "Français": "Huile d'olive",
-      "Anglais": "Olive oil"
-    },
-     {
-    "Id": 101,
-    "Kabyle": "Iles",
-    "Tifinagh": "ⵉⵍⴻⵙ",
-    "Français": "Langue",
-    "Anglais": "Tongue"
-    },
-    {
-      "Id": 102,
-      "Kabyle": "Tizizwitt",
-      "Tifinagh": "ⵜⵉⵣⵉⵣⵡⵉⵜⵜ",
-      "Français": "Abeille",
-      "Anglais": "Bee"
-    },
-    {
-      "Id": 103,
-      "Kabyle": "Tixsi",
-      "Tifinagh": "ⵜⵉⵅⵙⵉ",
-      "Français": "Brebis",
-      "Anglais": "Sheep"
-    },
-    {
-      "Id": 104,
-      "Kabyle": "Aɣyul",
-      "Tifinagh": "ⴰⵖⵢⵓⵍ",
-      "Français": "Âne",
-      "Anglais": "Donkey"
-    },
-    {
-      "Id": 105,
-      "Kabyle": "Wa, Wagi",
-      "Tifinagh": "ⵡⴰ, ⵡⴰⴳⵉ",
-      "Français": "Ça, Celui-ci",
-      "Anglais": "This, This one"
-    },
-    {
-      "Id": 106,
-      "Kabyle": "Tugwdi",
-      "Tifinagh": "ⵜⵓⴳⵡⴷⵉ",
-      "Français": "La peur",
-      "Anglais": "The fear"
-    },
-    {
-      "Id": 107,
-      "Kabyle": "Igenni",
-      "Tifinagh": "ⵉⴳⴻⵏⵏⵉ",
-      "Français": "Ciel",
-      "Anglais": "Sky"
-    },
-    {
-      "Id": 108,
-      "Kabyle": "Tudert",
-      "Tifinagh": "ⵜⵓⴷⴻⵔⵜ",
-      "Français": "La vie",
-      "Anglais": "The life"
-    },
-    {
-      "Id": 109,
-      "Kabyle": "Itri",
-      "Tifinagh": "ⵉⵜⵔⵉ",
-      "Français": "Etoile",
-      "Anglais": "Star"
-    },
-    {
-      "Id": 110,
-      "Kabyle": "Tagecrart",
-      "Tifinagh": "ⵜⴰⴳⴻⵛⵔⴰⵔⵜ",
-      "Français": "Genou",
-      "Anglais": "Knee"
-    },
-    {
-      "Id": 111,
-      "Kabyle": "Izi",
-      "Tifinagh": "ⵉⵣⵉ",
-      "Français": "Mouche",
-      "Anglais": "Fly"
-    },
-    {
-      "Id": 112,
-      "Kabyle": "Tiɣirdemt",
-      "Tifinagh": "ⵜⵉⵖⵉⵔⴷⴻⵎⵜ",
-      "Français": "Scorpion",
-      "Anglais": "Scorpion"
-    },
-    {
-      "Id": 113,
-      "Kabyle": "Afekrun, Ifker",
-      "Tifinagh": "ⴰⴼⴻⴽⵔⵓⵏ, ⵉⴼⴽⴻⵔ",
-      "Français": "Tortue",
-      "Anglais": "Turtle"
-    },
-    {
-      "Id": 114,
-      "Kabyle": "Bururu",
-      "Tifinagh": "ⴱⵓⵔⵓⵔⵓ",
-      "Français": "Hibou",
-      "Anglais": "Owl"
-    },
-    {
-      "Id": 115,
-      "Kabyle": "Tiferllest",
-      "Tifinagh": "ⵜⵉⴼⴻⵔⵍⵍⴻⵙⵜ",
-      "Français": "Hirondelle",
-      "Anglais": "Swallow"
-    },
-    {
-      "Id": 116,
-      "Kabyle": "Tamart",
-      "Tifinagh": "ⵜⴰⵎⴰⵔⵜ",
-      "Français": "Barbe",
-      "Anglais": "Beard"
-    },
-    {
-      "Id": 117,
-      "Kabyle": "Claɣem",
-      "Tifinagh": "ⵛⵍⴰⵖⴻⵎ",
-      "Français": "Moustache",
-      "Anglais": "Moustache, Mustache"
-    },
-    {
-      "Id": 118,
-      "Kabyle": "Tilelli",
-      "Tifinagh": "ⵜⵉⵍⴻⵍⵍⵉ",
-      "Français": "Liberté",
-      "Anglais": "Freedom"
-    },
-    {
-      "Id": 119,
-      "Kabyle": "Aḍad",
-      "Tifinagh": "ⴰⴹⴰⴷ",
-      "Français": "Doigt",
-      "Anglais": "Finger"
-    },
-    {
-      "Id": 120,
-      "Kabyle": "Ilef",
-      "Tifinagh": "ⵉⵍⴻⴼ",
-      "Français": "Sanglier",
-      "Anglais": "Wild boar"
-    },
-    {
-      "Id": 121,
-      "Kabyle": "Aqcic, Aqṛuṛ",
-      "Tifinagh": "ⴰⵇⵛⵉⵛ, ⴰⵇⵕⵓⵕ",
-      "Français": "Garçon",
-      "Anglais": "Boy"
-    },
-    {
-      "Id": 122,
-      "Kabyle": "Tifdentt",
-      "Tifinagh": "ⵜⵉⴼⴷⴻⵏⵜⵜ",
-      "Français": "Orteil",
-      "Anglais": "Toe"
-    },
-    {
-      "Id": 123,
-      "Kabyle": "Babaɣayu",
-      "Tifinagh": "ⴱⴰⴱⴰⵖⴰⵢⵓ",
-      "Français": "Perroquet",
-      "Anglais": "Parrot"
-    },
-    {
-      "Id": 124,
-      "Kabyle": "Anyir",
-      "Tifinagh": "ⴰⵏⵢⵉⵔ",
-      "Français": "Front",
-      "Anglais": "Forehead"
-    },
-    {
-      "Id": 125,
-      "Kabyle": "Tawacult",
-      "Tifinagh": "ⵜⴰⵡⴰⵛⵓⵍⵜ",
-      "Français": "Famille",
-      "Anglais": "Family"
-    },
-    {
-      "Id": 126,
-      "Kabyle": "Timiṭ",
-      "Tifinagh": "ⵜⵉⵎⵉⵟ",
-      "Français": "Nombril",
-      "Anglais": "Navel"
-    },
-    {
-      "Id": 127,
-      "Kabyle": "Allaɣ",
-      "Tifinagh": "ⴰⵍⵍⴰⵖ",
-      "Français": "Cerveau",
-      "Anglais": "Brain"
-    },
-    {
-      "Id": 128,
-      "Kabyle": "Lbunya",
-      "Tifinagh": "ⵍⴱⵓⵏⵢⴰ",
-      "Français": "Poing",
-      "Anglais": "Fist"
-    },
-    {
-      "Id": 129,
-      "Kabyle": "Tamgeṛt",
-      "Tifinagh": "ⵜⴰⵎⴳⴻⵕⵜ",
-      "Français": "Cou",
-      "Anglais": "Neck"
-    },
-    {
-      "Id": 130,
-      "Kabyle": "Anebdu, Azɣal",
-      "Tifinagh": "ⴰⵏⴻⴱⴷⵓ, ⴰⵣⵖⴰⵍ",
-      "Français": "Été",
-      "Anglais": "Summber"
-    },
-    {
-      "Id": 131,
-      "Kabyle": "Lexrif",
-      "Tifinagh": "ⵍⴻⵅⵔⵉⴼ",
-      "Français": "Automne",
-      "Anglais": "Autumn"
-    },
-    {
-      "Id": 132,
-      "Kabyle": "Tarewela",
-      "Tifinagh": "ⵜⴰⵔⴻⵡⴻⵍⴰ",
-      "Français": "Fuite",
-      "Anglais": "Flight, Escape, Run away"
-    },
-    {
-      "Id": 133,
-      "Kabyle": "Imeṭṭawen",
-      "Tifinagh": "ⵉⵎⴻⵟⵟⴰⵡⴻⵏ",
-      "Français": "Larmes",
-      "Anglais": "Tears"
-    },
-    {
-      "Id": 134,
-      "Kabyle": "Anezgum",
-      "Tifinagh": "ⴰⵏⴻⵣⴳⵓⵎ",
-      "Français": "Tristesse",
-      "Anglais": "Sadness"
-    },
-    {
-      "Id": 135,
-      "Kabyle": "Tuɣmest",
-      "Tifinagh": "ⵜⵓⵖⵎⴻⵙⵜ",
-      "Français": "Dent",
-      "Anglais": "Tooth"
-    },
-    {
-      "Id": 136,
-      "Kabyle": "Tafsut",
-      "Tifinagh": "ⵜⴰⴼⵙⵓⵜ",
-      "Français": "Printemps",
-      "Anglais": "Spring"
-    },
-    {
-      "Id": 137,
-      "Kabyle": "Kemm, Kemmini",
-      "Tifinagh": "ⴽⴻⵎⵎ, ⴽⴻⵎⵎⵉⵏⵉ",
-      "Français": "Toi (Féminin)",
-      "Anglais": "You (Female)"
-    },
-    {
-      "Id": 138,
-      "Kabyle": "Tagrest",
-      "Tifinagh": "ⵜⴰⴳⵔⴻⵙⵜ",
-      "Français": "Hiver",
-      "Anglais": "Winter"
-    },
-    {
-      "Id": 139,
-      "Kabyle": "Tayett",
-      "Tifinagh": "ⵜⴰⵢⴻⵜⵜ",
-      "Français": "Épaule",
-      "Anglais": "Shoulder"
-    },
-    {
-      "Id": 140,
-      "Kabyle": "Tigzirt",
-      "Tifinagh": "ⵜⵉⴳⵣⵉⵔⵜ",
-      "Français": "Île",
-      "Anglais": "Island"
-    },
-    {
-      "Id": 141,
-      "Kabyle": "Aεebbuḍ",
-      "Tifinagh": "ⴰⵄⴻⴱⴱⵓⴹ",
-      "Français": "Ventre",
-      "Anglais": "Stomach"
-    },
-    {
-      "Id": 142,
-      "Kabyle": "Tiṭ, Taṭṭuct",
-      "Tifinagh": "ⵜⵉⵟ, ⵜⴰⵟⵟⵓⵛⵜ",
-      "Français": "Oeil",
-      "Anglais": "Eye"
-    },
-    {
-      "Id": 143,
-      "Kabyle": "Tiweṭzit",
-      "Tifinagh": "ⵜⵉⵡⴻⵟⵣⵉⵜ",
-      "Français": "Cheville",
-      "Anglais": "Ankle"
-    },
-    {
-      "Id": 144,
-      "Kabyle": "Acebbub, Acekkuḥ",
-      "Tifinagh": "ⴰⵛⴻⴱⴱⵓⴱ, ⴰⵛⴻⴽⴽⵓⵃ",
-      "Français": "Cheveux",
-      "Anglais": "Hair"
-    },
-    {
-      "Id": 145,
-      "Kabyle": "Udem, Aqadum",
-      "Tifinagh": "ⵓⴷⴻⵎ, ⴰⵇⴰⴷⵓⵎ",
-      "Français": "Visage",
-      "Anglais": "Face"
-    },
-    {
-      "Id": 146,
-      "Kabyle": "Adebbuz",
-      "Tifinagh": "ⴰⴷⴻⴱⴱⵓⵣ",
-      "Français": "Pouce",
-      "Anglais": "Thumb"
-    },
-    {
-      "Id": 147,
-      "Kabyle": "Taddart",
-      "Tifinagh": "ⵜⴰⴷⴷⴰⵔⵜ",
-      "Français": "Village",
-      "Anglais": "Village"
-    },
-    {
-      "Id": 148,
-      "Kabyle": "Takaṛṛust, Ṭumubil",
-      "Tifinagh": "ⵜⴰⴽⴰⵕⵕⵓⵙⵜ, ⵟⵓⵎⵓⴱⵉⵍ",
-      "Français": "Voiture",
-      "Anglais": "Car"
-    },
-    {
-      "Id": 149,
-      "Kabyle": "Tissist",
-      "Tifinagh": "ⵜⵉⵙⵙⵉⵙⵜ",
-      "Français": "Araignée",
-      "Anglais": "Spider"
-    },
-    {
-      "Id": 150,
-      "Kabyle": "Ameksa",
-      "Tifinagh": "ⴰⵎⴻⴽⵙⴰ",
-      "Français": "Un berger",
-      "Anglais": "A shepherd"
-    },
-    {
-      "Id": 151,
-      "Kabyle": "Aseṛɣu",
-      "Tifinagh": "ⴰⵙⴻⵕⵖⵓ",
-      "Français": "Bois de chauffage",
-      "Anglais": "Firewood"
-    },
-    {
-      "Id": 152,
-      "Kabyle": "Aḍu",
-      "Tifinagh": "ⴰⴹⵓ",
-      "Français": "Vent",
-      "Anglais": "Wind"
-    },
-    {
-      "Id": 153,
-      "Kabyle": "Tabexsist",
-      "Tifinagh": "ⵜⴰⴱⴻⵅⵙⵉⵙⵜ",
-      "Français": "Une figue",
-      "Anglais": "A fig fruit"
-    },
-    {
-      "Id": 154,
-      "Kabyle": "Baṭaṭa",
-      "Tifinagh": "ⴱⴰⵟⴰⵟⴰ",
-      "Français": "Pomme de terre",
-      "Anglais": "Potato"
-    },
-    {
-      "Id": 155,
-      "Kabyle": "Aεawdiw",
-      "Tifinagh": "ⴰⵄⴰⵡⴷⵉⵡ",
-      "Français": "Cheval",
-      "Anglais": "Horse"
-    },
-    {
-      "Id": 156,
-      "Kabyle": "Tiqenṭaṛt",
-      "Tifinagh": "ⵜⵉⵇⴻⵏⵟⴰⵕⵜ",
-      "Français": "Pont",
-      "Anglais": "Bridge"
-    },
-    {
-      "Id": 157,
-      "Kabyle": "Tilizṛi",
-      "Tifinagh": "ⵜⵉⵍⵉⵣⵕⵉ",
-      "Français": "Télévision",
-      "Anglais": "Television, TV"
-    },
-    {
-      "Id": 158,
-      "Kabyle": "Neggez, Jelleb",
-      "Tifinagh": "ⵏⴻⴳⴳⴻⵣ, ⵊⴻⵍⵍⴻⴱ",
-      "Français": "Sauter",
-      "Anglais": "To jump"
-    },
-    {
-      "Id": 159,
-      "Kabyle": "Iḍ",
-      "Tifinagh": "ⵉⴹ",
-      "Français": "Nuit",
-      "Anglais": "Night"
-    },
-    {
-      "Id": 160,
-      "Kabyle": "Ččina",
-      "Tifinagh": "ⵛⵛⵉⵏⴰ",
-      "Français": "Orange",
-      "Anglais": "Orange"
-    },
-    {
-      "Id": 161,
-      "Kabyle": "Isli",
-      "Tifinagh": "ⵉⵙⵍⵉ",
-      "Français": "Le marié",
-      "Anglais": "Bridegroom, Groom"
-    },
-    {
-      "Id": 162,
-      "Kabyle": "Tislit",
-      "Tifinagh": "ⵜⵉⵙⵍⵉⵜ",
-      "Français": "La mariée",
-      "Anglais": "The bride"
-    },
-    {
-      "Id": 163,
-      "Kabyle": "Aferṭeṭṭu",
-      "Tifinagh": "ⴰⴼⴻⵔⵟⴻⵟⵟⵓ",
-      "Français": "Papillon",
-      "Anglais": "Butterfly"
-    },
-    {
-      "Id": 164,
-      "Kabyle": "Izrem",
-      "Tifinagh": "ⴰⵣⵔⴻⵎ",
-      "Français": "Serpent",
-      "Anglais": "Serpent"
-    },
-    {
-      "Id": 165,
-      "Kabyle": "Ṭubba",
-      "Tifinagh": "ⵟⵓⴱⴱⴰ",
-      "Français": "Rat",
-      "Anglais": "Rat"
-    },
-    {
-      "Id": 166,
-      "Kabyle": "Aɣeṛda",
-      "Tifinagh": "ⴰⵖⴻⵕⴷⴰ",
-      "Français": "Souris",
-      "Anglais": "Mouse"
-    },
-    {
-      "Id": 167,
-      "Kabyle": "Enɣ",
-      "Tifinagh": "ⴻⵏⵖ",
-      "Français": "Tuer",
-      "Anglais": "To kill"
-    },
-    {
-      "Id": 168,
-      "Kabyle": "Aɣenjuṛ",
-      "Tifinagh": "ⴰⵖⴻⵏⵊⵓⵕ",
-      "Français": "Nez aquilin",
-      "Anglais": "Roman nose"
-    },
-    {
-      "Id": 169,
-      "Kabyle": "Timesrifegt",
-      "Tifinagh": "ⵜⵉⵎⴻⵙⵔⵉⴼⴻⴳⵜ",
-      "Français": "Avion",
-      "Anglais": "Airplane, Plane"
-    },
-    {
-      "Id": 170,
-      "Kabyle": "Baba",
-      "Tifinagh": "ⴱⴰⴱⴰ",
-      "Français": "Papa",
-      "Anglais": "Dad, Daddy"
-    },
-    {
-      "Id": 171,
-      "Kabyle": "Settut",
-      "Tifinagh": "ⵙⴻⵜⵜⵓⵜ",
-      "Français": "Sorcière",
-      "Anglais": "Witch"
-    },
-    {
-      "Id": 172,
-      "Kabyle": "Ṭṭes, Gen",
-      "Tifinagh": "ⵟⵟⴻⵙ, ⴳⴻⵏ",
-      "Français": "Dormir",
-      "Anglais": "To sleep"
-    },
-    {
-      "Id": 173,
-      "Kabyle": "Latay",
-      "Tifinagh": "ⵍⴰⵜⴰⵢ",
-      "Français": "Thé",
-      "Anglais": "Tea"
-    },
-    {
-      "Id": 174,
-      "Kabyle": "Akli",
-      "Tifinagh": "ⴰⴽⵍⵉ",
-      "Français": "Esclave",
-      "Anglais": "Slave"
-    },
-    {
-      "Id": 175,
-      "Kabyle": "Taneqwlett",
-      "Tifinagh": "ⵜⴰⵏⴻⵇⵡⵍⴻⵜⵜ",
-      "Français": "Figuier",
-      "Anglais": "Fig tree"
-    },
-    {
-      "Id": 176,
-      "Kabyle": "Tazemmurt",
-      "Tifinagh": "ⵜⴰⵣⴻⵎⵎⵓⵔⵜ",
-      "Français": "Olivier",
-      "Anglais": "Olive tree"
-    },
-    {
-      "Id": 177,
-      "Kabyle": "Tafrara",
-      "Tifinagh": "ⵜⴰⴼⵔⴰⵔⴰ",
-      "Français": "Aube, Lever du jour",
-      "Anglais": "Daybreak, Sunrise"
-    },
-    {
-      "Id": 178,
-      "Kabyle": "Tagut",
-      "Tifinagh": "ⵜⴰⴳⵓⵜ",
-      "Français": "Brouillard",
-      "Anglais": "Fog"
-    },
-    {
-      "Id": 179,
-      "Kabyle": "Sew",
-      "Tifinagh": "ⵙⴻⵡ",
-      "Français": "Boire",
-      "Anglais": "To drink"
-    },
-    {
-      "Id": 180,
-      "Kabyle": "Skweṛ",
-      "Tifinagh": "ⵙⴽⵡⴻⵕ",
-      "Français": "Sucre",
-      "Anglais": "Sugar"
-    },
-    {
-      "Id": 181,
-      "Kabyle": "Ta, Tagi",
-      "Tifinagh": "ⵜⴰ, ⵜⴰⴳⵉ",
-      "Français": "Ça, Celle-ci",
-      "Anglais": "This, This one"
-    },
-    {
-      "Id": 182,
-      "Kabyle": "Aḍebsi",
-      "Tifinagh": "ⴰⴹⴻⴱⵙⵉ",
-      "Français": "Assiette",
-      "Anglais": "Plate"
-    },
-    {
-      "Id": 183,
-      "Kabyle": "Tili",
-      "Tifinagh": "ⵜⵉⵍⵉ",
-      "Français": "Ombre",
-      "Anglais": "Shadow"
-    },
-    {
-      "Id": 184,
-      "Kabyle": "Azzel",
-      "Tifinagh": "ⴰⵣⵣⴻⵍ",
-      "Français": "Courir",
-      "Anglais": "To run"
-    },
-    {
-      "Id": 185,
-      "Kabyle": "Tiflewt, Taɣwenjawt",
-      "Tifinagh": "ⵜⵉⴼⵍⴻⵡⵜ, ⵜⴰⵖⵡⴻⵏⵊⴰⵡⵜ",
-      "Français": "Cuillère",
-      "Anglais": "Spoon"
-    },
-    {
-      "Id": 186,
-      "Kabyle": "Iɣes",
-      "Tifinagh": "ⵉⵖⴻⵙ",
-      "Français": "Os",
-      "Anglais": "Bone"
-    },
-    {
-      "Id": 187,
-      "Kabyle": "Tamessaṭ",
-      "Tifinagh": "ⵜⴰⵎⴻⵙⵙⴰⵟ",
-      "Français": "Cuisse",
-      "Anglais": "Thigh"
-    },
-    {
-      "Id": 188,
-      "Kabyle": "Imawlan",
-      "Tifinagh": "ⵉⵎⴰⵡⵍⴰⵏ",
-      "Français": "Les parents",
-      "Anglais": "The parents"
-    },
-    {
-      "Id": 189,
-      "Kabyle": "Aḥelluf",
-      "Tifinagh": "ⴰⵃⴻⵍⵍⵓⴼ",
-      "Français": "Cochon, Porc",
-      "Anglais": "Pig, Pork"
-    },
-    {
-      "Id": 190,
-      "Kabyle": "Atmaten",
-      "Tifinagh": "ⴰⵜⵎⴰⵜⴻⵏ",
-      "Français": "Frères et sœurs",
-      "Anglais": "Siblings"
-    },
-    {
-      "Id": 191,
-      "Kabyle": "Ṣṣabun",
-      "Tifinagh": "ⵚⵚⴰⴱⵓⵏ",
-      "Français": "Savon",
-      "Anglais": "Soap"
-    },
-    {
-      "Id": 192,
-      "Kabyle": "Amqweṛqweṛ",
-      "Tifinagh": "ⴰⵎⵇⵡⴻⵕⵇⵡⴻⵕ",
-      "Français": "Crapaud",
-      "Anglais": "Toad"
-    },
-    {
-      "Id": 193,
-      "Kabyle": "Tifirest",
-      "Tifinagh": "ⵜⵉⴼⵉⵔⴻⵙⵜ",
-      "Français": "Une poire",
-      "Anglais": "A pear"
-    },
-    {
-      "Id": 194,
-      "Kabyle": "Tasarutt",
-      "Tifinagh": "ⵜⴰⵙⴰⵔⵓⵜⵜ",
-      "Français": "Clef, Clé",
-      "Anglais": "Key"
-    },
-    {
-      "Id": 195,
-      "Kabyle": "Tagwerselt",
-      "Tifinagh": "ⵜⴰⴳⵡⴻⵔⵙⴻⵍⵜ",
-      "Français": "Champignon",
-      "Anglais": "Mushroom"
-    },
-    {
-      "Id": 196,
-      "Kabyle": "Taxxamt",
-      "Tifinagh": "ⵜⴰⵅⵅⴰⵎⵜ",
-      "Français": "Chambre",
-      "Anglais": "Room"
-    },
-    {
-      "Id": 197,
-      "Kabyle": "Tayaziḍt",
-      "Tifinagh": "ⵜⴰⵢⴰⵣⵉⴹⵜ",
-      "Français": "Poule",
-      "Anglais": "Chicken"
-    },
-    {
-      "Id": 198,
-      "Kabyle": "Taxxamt n tguni",
-      "Tifinagh": "ⵜⴰⵅⵅⴰⵎⵜ ⵏ ⵜⴳⵓⵏⵉ",
-      "Français": "Chambre à coucher",
-      "Anglais": "Bedroom"
-    },
-    {
-      "Id": 199,
-      "Kabyle": "Inisi",
-      "Tifinagh": "ⵉⵏⵉⵙⵉ",
-      "Français": "Hérisson",
-      "Anglais": "Hedgehog"
-    },
-    {
-      "Id": 200,
-      "Kabyle": "Ifelfel",
-      "Tifinagh": "ⵉⴼⴻⵍⴼⴻⵍ",
-      "Français": "Piment",
-      "Anglais": "Chilli pepper"
-    }
-  ]
+{  
+   "Content":[  
+      {  
+         "Id":1,
+         "Kabyle":"Ul",
+         "Tifinagh":"ⵓⵍ",
+         "Français":"Coeur",
+         "Anglais":"Heart",
+         "Arabe":"قلب"
+      },
+      {  
+         "Id":2,
+         "Kabyle":"Ul-iw",
+         "Tifinagh":"ⵓⵍ-ⵉⵡ",
+         "Français":"Mon coeur",
+         "Anglais":"My heart",
+         "Arabe":"قلبي"
+      },
+      {  
+         "Id":3,
+         "Kabyle":"Izem",
+         "Tifinagh":"ⵉⵣⴻⵎ",
+         "Français":"Lion",
+         "Anglais":"Lion",
+         "Arabe":"أسد"
+      },
+      {  
+         "Id":4,
+         "Kabyle":"Tasedda",
+         "Tifinagh":"ⵜⴰⵙⴻⴷⴷⴰ",
+         "Français":"Une lionne",
+         "Anglais":"A lioness",
+         "Arabe":"لبؤة"
+      },
+      {  
+         "Id":5,
+         "Kabyle":"Amcic",
+         "Tifinagh":"ⴰⵎⵛⵉⵛ",
+         "Français":"Un chat",
+         "Anglais":"A cat",
+         "Arabe":"قط, هر"
+      },
+      {  
+         "Id":6,
+         "Kabyle":"Aman",
+         "Tifinagh":"ⴰⵎⴰⵏ",
+         "Français":"Eau",
+         "Anglais":"Water",
+         "Arabe":"ماء"
+      },
+      {  
+         "Id":7,
+         "Kabyle":"Afus",
+         "Tifinagh":"ⴰⴼⵓⵙ",
+         "Français":"Main",
+         "Anglais":"Hand",
+         "Arabe":"يد"
+      },
+      {  
+         "Id":8,
+         "Kabyle":"Aḍar",
+         "Tifinagh":"ⴰⴹⴰⵔ",
+         "Français":"Pied",
+         "Anglais":"Foot",
+         "Arabe":"قدم"
+      },
+      {  
+         "Id":9,
+         "Kabyle":"Asigna",
+         "Tifinagh":"ⴰⵙⵉⴳⵏⴰ",
+         "Français":"Nuage",
+         "Anglais":"Cloud",
+         "Arabe":"سحابة"
+      },
+      {  
+         "Id":10,
+         "Kabyle":"Iṭij",
+         "Tifinagh":"ⵉⵟⵉⵊ",
+         "Français":"Soleil",
+         "Anglais":"Sun",
+         "Arabe":"شمس"
+      },
+      {  
+         "Id":11,
+         "Kabyle":"Tiziri",
+         "Tifinagh":"ⵜⵉⵣⵉⵔⵉ",
+         "Français":"Claire de lune",
+         "Anglais":"Moonlight",
+         "Arabe":"ضوء القمر"
+      },
+      {  
+         "Id":12,
+         "Kabyle":"Axxam",
+         "Tifinagh":"ⴰⵅⵅⴰⵎ",
+         "Français":"Maison",
+         "Anglais":"House",
+         "Arabe":"منزل, بيت"
+      },
+      {  
+         "Id":13,
+         "Kabyle":"Abrid",
+         "Tifinagh":"ⴰⴱⵔⵉⴷ",
+         "Français":"Chemin",
+         "Anglais":"Path",
+         "Arabe":"مسار, طريق"
+      },
+      {  
+         "Id":14,
+         "Kabyle":"Asif",
+         "Tifinagh":"ⴰⵙⵉⴼ",
+         "Français":"Fleuve, Rivière",
+         "Anglais":"River",
+         "Arabe":"نهر"
+      },
+      {  
+         "Id":15,
+         "Kabyle":"Aqjun",
+         "Tifinagh":"ⴰⵇⵊⵓⵏ",
+         "Français":"Un chien",
+         "Anglais":"A dog",
+         "Arabe":"كلب"
+      },
+      {  
+         "Id":16,
+         "Kabyle":"Da, Dagi, Dagini",
+         "Tifinagh":"ⴷⴰ, ⴷⴰⴳⵉ, ⴷⴰⴳⵉⵏⵉ",
+         "Français":"Là, ici",
+         "Anglais":"Here",
+         "Arabe":"هنا"
+      },
+      {  
+         "Id":17,
+         "Kabyle":"Degger, Demmer",
+         "Tifinagh":"ⴷⴻⴳⴳⴻⵔ, ⴷⴻⵎⵎⴻⵔ",
+         "Français":"Pousser",
+         "Anglais":"To push",
+         "Arabe":"دفع"
+      },
+      {  
+         "Id":18,
+         "Kabyle":"Tadukkli",
+         "Tifinagh":"ⵜⴰⴷⵓⴽⴽⵍⵉ",
+         "Français":"L'union",
+         "Anglais":"The union",
+         "Arabe":"الاتحاد"
+      },
+      {  
+         "Id":19,
+         "Kabyle":"Anzaren",
+         "Tifinagh":"ⴰⵏⵣⴰⵔⴻⵏ",
+         "Français":"Nez",
+         "Anglais":"Nose",
+         "Arabe":"أنف"
+      },
+      {  
+         "Id":20,
+         "Kabyle":"Ansuf yis-wen",
+         "Tifinagh":"ⴰⵏⵚⵓⴼ ⵢⵉⵙ-ⵡⴻⵏ",
+         "Français":"Bienvenue",
+         "Anglais":"Welcome",
+         "Arabe":"مرحبا بكم"
+      },
+      {  
+         "Id":21,
+         "Kabyle":"Seksu",
+         "Tifinagh":"ⵙⴻⴽⵙⵓ",
+         "Français":"Couscous",
+         "Anglais":"Couscous",
+         "Arabe":"الكسكس"
+      },
+      {  
+         "Id":22,
+         "Kabyle":"Zegger,Zger",
+         "Tifinagh":"ⵣⴻⴳⴰⵔ, ⵣⴳⴻⵔ",
+         "Français":"Traverser",
+         "Anglais":"To cross",
+         "Arabe":"عبر"
+      },
+      {  
+         "Id":23,
+         "Kabyle":"Σeggeḍ",
+         "Tifinagh":"ⵄⴻⴳⴳⴻⴹ",
+         "Français":"Crier",
+         "Anglais":"To scream",
+         "Arabe":"صرخ"
+      },
+      {  
+         "Id":24,
+         "Kabyle":"Asɣaṛ",
+         "Tifinagh":"ⴰⵙⵖⴰⵕ",
+         "Français":"Bois",
+         "Anglais":"Wood",
+         "Arabe":"خشب"
+      },
+      {  
+         "Id":25,
+         "Kabyle":"Azger",
+         "Tifinagh":"ⴰⵣⴳⴻⵔ",
+         "Français":"Boeuf",
+         "Anglais":"Ox",
+         "Arabe":"ثور"
+      },
+      {  
+         "Id":26,
+         "Kabyle":"Azul",
+         "Tifinagh":"ⴰⵣⵓⵍ",
+         "Français":"Salut",
+         "Anglais":"Hello",
+         "Arabe":"سلام"
+      },
+      {  
+         "Id":27,
+         "Kabyle":"Yemma",
+         "Tifinagh":"ⵢⴻⵎⵎⴰ",
+         "Français":"Maman",
+         "Anglais":"Mom",
+         "Arabe":"أمي"
+      },
+      {  
+         "Id":28,
+         "Kabyle":"Amellal, Acebḥan",
+         "Tifinagh":"ⴰⵎⴻⵍⵍⴰⵍ, ⴰⵛⴻⴱⵃⴰⵏ",
+         "Français":"Blanc",
+         "Anglais":"White",
+         "Arabe":"أبيض"
+      },
+      {  
+         "Id":29,
+         "Kabyle":"Azeggwaɣ",
+         "Tifinagh":"ⴰⵣⴻⴳⴳⵡⴰⵖ",
+         "Français":"Rouge",
+         "Anglais":"Red",
+         "Arabe":"أحمر"
+      },
+      {  
+         "Id":30,
+         "Kabyle":"Azegzaw",
+         "Tifinagh":"ⴰⵣⴻⴳⵣⴰⵡ",
+         "Français":"Vert",
+         "Anglais":"Green",
+         "Arabe":"أخضر"
+      },
+      {  
+         "Id":31,
+         "Kabyle":"Aberkan",
+         "Tifinagh":"ⴰⴱⴰⵔⴽⴰⵏ",
+         "Français":"Noir",
+         "Anglais":"Black",
+         "Arabe":"أسود"
+      },
+      {  
+         "Id":32,
+         "Kabyle":"Azeggwaɣ",
+         "Tifinagh":"ⴰⵣⴻⴳⴳⴰⵖ",
+         "Français":"Bleu",
+         "Anglais":"Blue",
+         "Arabe":"أزرق"
+      },
+      {  
+         "Id":33,
+         "Kabyle":"Imi, Aqemmuc",
+         "Tifinagh":"ⵉⵎⵉ, ⴰⵇⴻⵎⵎⵓⵛ",
+         "Français":"Bouche",
+         "Anglais":"Mouth",
+         "Arabe":"فم"
+      },
+      {  
+         "Id":34,
+         "Kabyle":"Acenfir",
+         "Tifinagh":"ⴰⵛⴻⵏⴼⵉⵔ",
+         "Français":"Lèvre",
+         "Anglais":"Lip",
+         "Arabe":"شفة"
+      },
+      {  
+         "Id":35,
+         "Kabyle":"Ameẓẓuɣ",
+         "Tifinagh":"ⴰⵎⴻⵥⵥⵓⵖ",
+         "Français":"Oreille",
+         "Anglais":"Ear",
+         "Arabe":"إذن"
+      },
+      {  
+         "Id":36,
+         "Kabyle":"Argaz",
+         "Tifinagh":"ⴰⵔⴳⴰⵣ",
+         "Français":"Homme",
+         "Anglais":"Man",
+         "Arabe":"رجل"
+      },
+      {  
+         "Id":37,
+         "Kabyle":"Tameṭṭut",
+         "Tifinagh":"ⵜⴰⵎⴻⵟⵟⵓⵜ",
+         "Français":"Femme",
+         "Anglais":"Woman",
+         "Arabe":"امرأة"
+      },
+      {  
+         "Id":38,
+         "Kabyle":"Taqcict, Taqṛuṛt",
+         "Tifinagh":"ⵜⴰⵇⵛⵉⵛⵜ, ⵜⴰⵇⵕⵓⵕⵜ",
+         "Français":"Fille",
+         "Anglais":"Girl",
+         "Arabe":"فتاة"
+      },
+      {  
+         "Id":39,
+         "Kabyle":"Aqeṛṛu, Aqeṛṛuy",
+         "Tifinagh":"ⴰⵇⴻⵕⵕⵓ, ⴰⵇⴻⵕⵕⵓⵢ",
+         "Français":"Tête",
+         "Anglais":"Head",
+         "Arabe":"رأس"
+      },
+      {  
+         "Id":40,
+         "Kabyle":"Tanemmirt",
+         "Tifinagh":"ⵜⴰⵏⴻⵎⵎⵉⵔⵜ",
+         "Français":"Merci",
+         "Anglais":"Thanks, Thank you",
+         "Arabe":"شكرا"
+      },
+      {  
+         "Id":41,
+         "Kabyle":"Azekka",
+         "Tifinagh":"ⴰⵣⴻⴽⴽⴰ",
+         "Français":"Demain",
+         "Anglais":"Tomorrow",
+         "Arabe":"غدا"
+      },
+      {  
+         "Id":42,
+         "Kabyle":"Iḍelli",
+         "Tifinagh":"ⵉⴹⴻⵍⵍⵉ",
+         "Français":"Hier",
+         "Anglais":"Yesterday",
+         "Arabe":"أمس, البارحة"
+      },
+      {  
+         "Id":43,
+         "Kabyle":"Assa, Assagi",
+         "Tifinagh":"ⴰⵙⵙⴰ, ⴰⵙⵙⴰⴳⵉ",
+         "Français":"Aujourd'hui",
+         "Anglais":"Today",
+         "Arabe":"اليوم"
+      },
+      {  
+         "Id":44,
+         "Kabyle":"Dduṛt, Smana",
+         "Tifinagh":"ⴷⴷⵓⵕⵜ, ⵙⵎⴰⵏⴰ",
+         "Français":"Semaine",
+         "Anglais":"Week",
+         "Arabe":"أسبوع"
+      },
+      {  
+         "Id":45,
+         "Kabyle":"Aggur",
+         "Tifinagh":"ⴰⴳⴳⵓⵔ",
+         "Français":"Mois",
+         "Anglais":"Month",
+         "Arabe":"شهر"
+      },
+      {  
+         "Id":46,
+         "Kabyle":"Asseggas",
+         "Tifinagh":"ⴰⵙⴻⴳⴳⴰⵙ",
+         "Français":"Année",
+         "Anglais":"Year",
+         "Arabe":"عام"
+      },
+      {  
+         "Id":47,
+         "Kabyle":"Suṭṭeḍ",
+         "Tifinagh":"ⵙⵓⵟⵟⴻⴹ",
+         "Français":"Allaiter",
+         "Anglais":"Suckle, Breast-feed",
+         "Arabe":"ترضع"
+      },
+      {  
+         "Id":48,
+         "Kabyle":"Lzzayer",
+         "Tifinagh":"ⵍⵣⵣⴰⵢⴻⵔ",
+         "Français":"Algérie",
+         "Anglais":"Algeria",
+         "Arabe":"الجزائر"
+      },
+      {  
+         "Id":49,
+         "Kabyle":"Fransa",
+         "Tifinagh":"ⴼⵔⴰⵏⵙⴰ",
+         "Français":"France",
+         "Anglais":"France",
+         "Arabe":"فرنسا"
+      },
+      {  
+         "Id":50,
+         "Kabyle":"Marikan",
+         "Tifinagh":"ⵎⴰⵔⵉⴽⴰⵏ",
+         "Français":"Amérique",
+         "Anglais":"America",
+         "Arabe":"أمريكا"
+      },
+      {  
+         "Id":51,
+         "Kabyle":"Taṛumit, Tafṛansist",
+         "Tifinagh":"ⵜⴰⵕⵓⵎⵉⵜ, ⵜⴰⴼⵕⴰⵏⵙⵉⵙⵜ",
+         "Français":"Le français",
+         "Anglais":"The french language",
+         "Arabe":"اللغة الفرنسية"
+      },
+      {  
+         "Id":52,
+         "Kabyle":"Aṛumi",
+         "Tifinagh":"ⴰⵕⵓⵎⵉ",
+         "Français":"Un français",
+         "Anglais":"A frenchman",
+         "Arabe":"فرنسي"
+      },
+      {  
+         "Id":53,
+         "Kabyle":"Aruy",
+         "Tifinagh":"ⴰⵔⵓⵢ",
+         "Français":"Porc-épic",
+         "Anglais":"Porcupine",
+         "Arabe":"النيص"
+      },
+      {  
+         "Id":54,
+         "Kabyle":"Tafat",
+         "Tifinagh":"ⵜⴰⴼⴰⵜ",
+         "Français":"Lumière",
+         "Anglais":"Light",
+         "Arabe":"ضوء"
+      },
+      {  
+         "Id":55,
+         "Kabyle":"Tafunast",
+         "Tifinagh":"ⵜⴰⴼⵓⵏⴰⵙⵜ",
+         "Français":"Vache",
+         "Anglais":"Cow",
+         "Arabe":"بقرة"
+      },
+      {  
+         "Id":56,
+         "Kabyle":"Iddew, Ibekki",
+         "Tifinagh":"ⵉⴷⴷⴻⵡ, ⵉⴱⴻⴽⴽⵉ",
+         "Français":"Singe",
+         "Anglais":"Monkey",
+         "Arabe":"قرد"
+      },
+      {  
+         "Id":57,
+         "Kabyle":"Ayaziḍ",
+         "Tifinagh":"ⴰⵢⴰⵣⵉⴹ",
+         "Français":"Coq",
+         "Anglais":"Rooster, Cock",
+         "Arabe":"ديك"
+      },
+      {  
+         "Id":58,
+         "Kabyle":"Tamellalt",
+         "Tifinagh":"ⵜⴰⵎⴻⵍⵍⴰⵍⵜ",
+         "Français":"Œuf",
+         "Anglais":"Egg",
+         "Arabe":"بيضة"
+      },
+      {  
+         "Id":59,
+         "Kabyle":"Tala",
+         "Tifinagh":"ⵜⴰⵍⴰ",
+         "Français":"Fontaine",
+         "Anglais":"Fountain",
+         "Arabe":"نافورة"
+      },
+      {  
+         "Id":60,
+         "Kabyle":"Iɣil",
+         "Tifinagh":"ⵉⵖⵉⵍ",
+         "Français":"Bras",
+         "Anglais":"Arm",
+         "Arabe":"ذراع"
+      },
+      {  
+         "Id":61,
+         "Kabyle":"Awal",
+         "Tifinagh":"ⴰⵡⴰⵍ",
+         "Français":"Parole",
+         "Anglais":"Talk",
+         "Arabe":"كلام"
+      },
+      {  
+         "Id":62,
+         "Kabyle":"Aɣṛum",
+         "Tifinagh":"ⴰⵖⵕⵓⵎ",
+         "Français":"Pain",
+         "Anglais":"Bread",
+         "Arabe":"خبز"
+      },
+      {  
+         "Id":63,
+         "Kabyle":"Akal",
+         "Tifinagh":"ⴰⴽⴰⵍ",
+         "Français":"Sol, Terre",
+         "Anglais":"Soil",
+         "Arabe":"تراب"
+      },
+      {  
+         "Id":64,
+         "Kabyle":"Anwa",
+         "Tifinagh":"ⴰⵏⵡⴰ",
+         "Français":"Qui, Lequel",
+         "Anglais":"Who",
+         "Arabe":"من هو"
+      },
+      {  
+         "Id":65,
+         "Kabyle":"Anta",
+         "Tifinagh":"ⴰⵏⵜⴰ",
+         "Français":"Qui, Laquelle",
+         "Anglais":"Who",
+         "Arabe":"من هي"
+      },
+      {  
+         "Id":66,
+         "Kabyle":"Taɣaṭ",
+         "Tifinagh":"ⵜⴰⵖⴰⵟ",
+         "Français":"Chèvre",
+         "Anglais":"Goat",
+         "Arabe":"ماعز"
+      },
+      {  
+         "Id":67,
+         "Kabyle":"Awtul",
+         "Tifinagh":"ⴰⵡⵜⵓⵍ",
+         "Français":"Lapin",
+         "Anglais":"Rabbit",
+         "Arabe":"أرنب"
+      },
+      {  
+         "Id":68,
+         "Kabyle":"Uccen",
+         "Tifinagh":"ⵓⵛⵛⴻⵏ",
+         "Français":"Chacal",
+         "Anglais":"Jackal",
+         "Arabe":"ابن آوى"
+      },
+      {  
+         "Id":69,
+         "Kabyle":"Adfel",
+         "Tifinagh":"ⴰⴷⴼⴻⵍ",
+         "Français":"Neige",
+         "Anglais":"Snow",
+         "Arabe":"ثلج"
+      },
+      {  
+         "Id":70,
+         "Kabyle":"Adrar",
+         "Tifinagh":"ⴰⴷⵔⴰⵔ",
+         "Français":"Montagne",
+         "Anglais":"Mountain",
+         "Arabe":"جبل"
+      },
+      {  
+         "Id":71,
+         "Kabyle":"Tayri",
+         "Tifinagh":"ⵜⴰⵢⵔⵉ",
+         "Français":"Amour",
+         "Anglais":"Love",
+         "Arabe":"حب"
+      },
+      {  
+         "Id":72,
+         "Kabyle":"Tameɣṛa",
+         "Tifinagh":"ⵜⴰⵎⴻⵖⵕⴰ",
+         "Français":"Fête",
+         "Anglais":"Party",
+         "Arabe":"حفلة"
+      },
+      {  
+         "Id":73,
+         "Kabyle":"Tabburt, Tawwurt",
+         "Tifinagh":"ⵜⴰⴱⴱⵓⵔⵜ, ⵜⴰⵡⵡⵓⵔⵜ",
+         "Français":"Porte",
+         "Anglais":"Door",
+         "Arabe":"باب"
+      },
+      {  
+         "Id":74,
+         "Kabyle":"Ssuden, Mmac",
+         "Tifinagh":"ⵙⵙⵓⴷⴻⵏ, ⵎⵎⴰⵛ",
+         "Français":"Embrasser",
+         "Anglais":"To kiss",
+         "Arabe":"قبل, باس"
+      },
+      {  
+         "Id":75,
+         "Kabyle":"Aggur",
+         "Tifinagh":"ⴰⴳⴳⵓⵔ",
+         "Français":"Lune",
+         "Anglais":"Moon",
+         "Arabe":"قمر"
+      },
+      {  
+         "Id":76,
+         "Kabyle":"Ṭṭaq",
+         "Tifinagh":"ⵟⵟⴰⵇ",
+         "Français":"Fenêtre",
+         "Anglais":"Window",
+         "Arabe":"نافذة"
+      },
+      {  
+         "Id":77,
+         "Kabyle":"Times, Timest",
+         "Tifinagh":"ⵜⵉⵎⴻⵙ, ⵜⵉⵎⴻⵙⵜ",
+         "Français":"Feu",
+         "Anglais":"Fire",
+         "Arabe":"نار"
+      },
+      {  
+         "Id":78,
+         "Kabyle":"Lemri",
+         "Tifinagh":"ⵍⴻⵎⵔⵉ",
+         "Français":"Miroir",
+         "Anglais":"Mirror",
+         "Arabe":"مرآة"
+      },
+      {  
+         "Id":79,
+         "Kabyle":"Nekk, Nekkini",
+         "Tifinagh":"ⵏⴻⴽⴽ, ⵏⴻⴽⴽⵉⵏⵉ",
+         "Français":"Je, Moi",
+         "Anglais":"I, Me",
+         "Arabe":"أنا"
+      },
+      {  
+         "Id":80,
+         "Kabyle":"Kečč, Keččini",
+         "Tifinagh":"ⴽⴻⵛⵛ, ⴽⴻⵛⵛⵉⵏⵉ",
+         "Français":"Toi (Masculine)",
+         "Anglais":"You (Male)",
+         "Arabe":"أنت"
+      },
+      {  
+         "Id":81,
+         "Kabyle":"Ageffur, Anẓaṛ",
+         "Tifinagh":"ⴰⴳⴻⴼⴼⵓⵔ, ⴰⵏⵥⴰⵕ",
+         "Français":"Pluie",
+         "Anglais":"Rain",
+         "Arabe":"مطر"
+      },
+      {  
+         "Id":82,
+         "Kabyle":"Dadi, Dihin, Dihinna",
+         "Tifinagh":"ⴷⴰⴷⵉ, ⴷⵉⵀⵉⵏ, ⴷⵉⵀⵉⵏⵏⴰ",
+         "Français":"Là-bas",
+         "Anglais":"There, Over there",
+         "Arabe":"هناك"
+      },
+      {  
+         "Id":83,
+         "Kabyle":"Llufan",
+         "Tifinagh":"ⵍⵍⵓⴼⴰⵏ",
+         "Français":"Bébé",
+         "Anglais":"Baby",
+         "Arabe":"طفل"
+      },
+      {  
+         "Id":84,
+         "Kabyle":"Aru",
+         "Tifinagh":"ⴰⵔⵓ",
+         "Français":"Écrire",
+         "Anglais":"To write",
+         "Arabe":"كتب"
+      },
+      {  
+         "Id":85,
+         "Kabyle":"Amzur",
+         "Tifinagh":"ⴰⵎⵣⵓⵔ",
+         "Français":"Cheveux longs",
+         "Anglais":"Long hair",
+         "Arabe":"شعر طويل"
+      },
+      {  
+         "Id":86,
+         "Kabyle":"Iccer",
+         "Tifinagh":"ⵉⵛⵛⴻⵔ",
+         "Français":"Ongle",
+         "Anglais":"Nail, Fingernail",
+         "Arabe":"ظفر"
+      },
+      {  
+         "Id":87,
+         "Kabyle":"Ečč",
+         "Tifinagh":"ⴻⵛⵛ",
+         "Français":"Manger",
+         "Anglais":"To eat",
+         "Arabe":"أكل"
+      },
+      {  
+         "Id":88,
+         "Kabyle":"Tura",
+         "Tifinagh":"ⵜⵓⵔⴰ",
+         "Français":"Maintenant",
+         "Anglais":"Now, Right now",
+         "Arabe":"الآن"
+      },
+      {  
+         "Id":89,
+         "Kabyle":"Azemmur",
+         "Tifinagh":"ⴰⵣⴻⵎⵎⵓⵔ",
+         "Français":"Olive",
+         "Anglais":"Olive",
+         "Arabe":"زيتون"
+      },
+      {  
+         "Id":90,
+         "Kabyle":"Allen",
+         "Tifinagh":"ⴰⵍⵍⴻⵏ",
+         "Français":"Yeux",
+         "Anglais":"Eyes",
+         "Arabe":"عيون"
+      },
+      {  
+         "Id":91,
+         "Kabyle":"Aqejjiṛ",
+         "Tifinagh":"ⴰⵇⴻⵊⵊⵉⵕ",
+         "Français":"Jambe",
+         "Anglais":"Leg",
+         "Arabe":"ساق"
+      },
+      {  
+         "Id":92,
+         "Kabyle":"Idmaren",
+         "Tifinagh":"ⵉⴷⵎⴰⵔⴻⵏ",
+         "Français":"Poitrine",
+         "Anglais":"Chest",
+         "Arabe":"صدر"
+      },
+      {  
+         "Id":93,
+         "Kabyle":"Tabbuct",
+         "Tifinagh":"ⵜⴰⴱⴱⵓⵛⵜ",
+         "Français":"Sein",
+         "Anglais":"Breast",
+         "Arabe":"ثدي"
+      },
+      {  
+         "Id":94,
+         "Kabyle":"Nnal",
+         "Tifinagh":"ⵏⵏⴰⵍ",
+         "Français":"Toucher",
+         "Anglais":"Touch",
+         "Arabe":"لمس"
+      },
+      {  
+         "Id":95,
+         "Kabyle":"Tismin",
+         "Tifinagh":"ⵜⵉⵙⵎⵉⵏ",
+         "Français":"Jalousie",
+         "Anglais":"Jealousy",
+         "Arabe":"غيرة"
+      },
+      {  
+         "Id":96,
+         "Kabyle":"Amddakwel",
+         "Tifinagh":"ⴰⵎⴷⴷⴰⴽⵡⴻⵍ",
+         "Français":"Un ami",
+         "Anglais":"A friend",
+         "Arabe":"صديق"
+      },
+      {  
+         "Id":97,
+         "Kabyle":"Azagur, Aεrur",
+         "Tifinagh":"ⴰⵣⴰⴳⵓⵔ, ⴰⵄⵔⵓⵔ",
+         "Français":"Dos",
+         "Anglais":"Back",
+         "Arabe":"ظهر"
+      },
+      {  
+         "Id":98,
+         "Kabyle":"Idammen",
+         "Tifinagh":"ⵉⴷⴰⵎⵎⴻⵏ",
+         "Français":"Sang",
+         "Anglais":"Blood",
+         "Arabe":"دم"
+      },
+      {  
+         "Id":99,
+         "Kabyle":"Lmus",
+         "Tifinagh":"ⵍⵎⵓⵙ",
+         "Français":"Couteau",
+         "Anglais":"Knife",
+         "Arabe":"سكين"
+      },
+      {  
+         "Id":100,
+         "Kabyle":"Zzit uzemmur",
+         "Tifinagh":"ⵣⵣⵉⵜ ⵓⵣⴻⵎⵎⵓⵔ",
+         "Français":"Huile d'olive",
+         "Anglais":"Olive oil",
+         "Arabe":"زيت الزيتون"
+      },
+      {  
+         "Id":101,
+         "Kabyle":"Iles",
+         "Tifinagh":"ⵉⵍⴻⵙ",
+         "Français":"Langue",
+         "Anglais":"Tongue",
+         "Arabe":"لسان"
+      },
+      {  
+         "Id":102,
+         "Kabyle":"Tizizwitt",
+         "Tifinagh":"ⵜⵉⵣⵉⵣⵡⵉⵜⵜ",
+         "Français":"Abeille",
+         "Anglais":"Bee",
+         "Arabe":"نحلة"
+      },
+      {  
+         "Id":103,
+         "Kabyle":"Tixsi",
+         "Tifinagh":"ⵜⵉⵅⵙⵉ",
+         "Français":"Brebis",
+         "Anglais":"Sheep",
+         "Arabe":"نعجة"
+      },
+      {  
+         "Id":104,
+         "Kabyle":"Aɣyul",
+         "Tifinagh":"ⴰⵖⵢⵓⵍ",
+         "Français":"Âne",
+         "Anglais":"Donkey",
+         "Arabe":"حمار"
+      },
+      {  
+         "Id":105,
+         "Kabyle":"Wa, Wagi",
+         "Tifinagh":"ⵡⴰ, ⵡⴰⴳⵉ",
+         "Français":"Ça, Celui-ci",
+         "Anglais":"This, This one",
+         "Arabe":"هذا"
+      },
+      {  
+         "Id":106,
+         "Kabyle":"Tugwdi",
+         "Tifinagh":"ⵜⵓⴳⵡⴷⵉ",
+         "Français":"La peur",
+         "Anglais":"The fear",
+         "Arabe":"الخوف"
+      },
+      {  
+         "Id":107,
+         "Kabyle":"Igenni",
+         "Tifinagh":"ⵉⴳⴻⵏⵏⵉ",
+         "Français":"Ciel",
+         "Anglais":"Sky",
+         "Arabe":"السماء"
+      },
+      {  
+         "Id":108,
+         "Kabyle":"Tudert",
+         "Tifinagh":"ⵜⵓⴷⴻⵔⵜ",
+         "Français":"La vie",
+         "Anglais":"The life",
+         "Arabe":"الحياة"
+      },
+      {  
+         "Id":109,
+         "Kabyle":"Itri",
+         "Tifinagh":"ⵉⵜⵔⵉ",
+         "Français":"Étoile",
+         "Anglais":"Star",
+         "Arabe":"نجمة, نجم"
+      },
+      {  
+         "Id":110,
+         "Kabyle":"Tagecrart",
+         "Tifinagh":"ⵜⴰⴳⴻⵛⵔⴰⵔⵜ",
+         "Français":"Genou",
+         "Anglais":"Knee",
+         "Arabe":"ركبة"
+      },
+      {  
+         "Id":111,
+         "Kabyle":"Izi",
+         "Tifinagh":"ⵉⵣⵉ",
+         "Français":"Mouche",
+         "Anglais":"Fly",
+         "Arabe":"ذبابة"
+      },
+      {  
+         "Id":112,
+         "Kabyle":"Tiɣirdemt",
+         "Tifinagh":"ⵜⵉⵖⵉⵔⴷⴻⵎⵜ",
+         "Français":"Scorpion",
+         "Anglais":"Scorpion",
+         "Arabe":"عقرب"
+      },
+      {  
+         "Id":113,
+         "Kabyle":"Afekrun, Ifker",
+         "Tifinagh":"ⴰⴼⴻⴽⵔⵓⵏ, ⵉⴼⴽⴻⵔ",
+         "Français":"Tortue",
+         "Anglais":"Turtle",
+         "Arabe":"سلحفاة"
+      },
+      {  
+         "Id":114,
+         "Kabyle":"Bururu",
+         "Tifinagh":"ⴱⵓⵔⵓⵔⵓ",
+         "Français":"Hibou",
+         "Anglais":"Owl",
+         "Arabe":"بومة"
+      },
+      {  
+         "Id":115,
+         "Kabyle":"Tiferllest",
+         "Tifinagh":"ⵜⵉⴼⴻⵔⵍⵍⴻⵙⵜ",
+         "Français":"Hirondelle",
+         "Anglais":"Swallow",
+         "Arabe":"سنونو"
+      },
+      {  
+         "Id":116,
+         "Kabyle":"Tamart",
+         "Tifinagh":"ⵜⴰⵎⴰⵔⵜ",
+         "Français":"Barbe",
+         "Anglais":"Beard",
+         "Arabe":"لحية"
+      },
+      {  
+         "Id":117,
+         "Kabyle":"Claɣem",
+         "Tifinagh":"ⵛⵍⴰⵖⴻⵎ",
+         "Français":"Moustache",
+         "Anglais":"Moustache, Mustache",
+         "Arabe":"شارب"
+      },
+      {  
+         "Id":118,
+         "Kabyle":"Tilelli",
+         "Tifinagh":"ⵜⵉⵍⴻⵍⵍⵉ",
+         "Français":"Liberté",
+         "Anglais":"Freedom",
+         "Arabe":"حرية"
+      },
+      {  
+         "Id":119,
+         "Kabyle":"Aḍad",
+         "Tifinagh":"ⴰⴹⴰⴷ",
+         "Français":"Doigt",
+         "Anglais":"Finger",
+         "Arabe":"اصبع"
+      },
+      {  
+         "Id":120,
+         "Kabyle":"Ilef",
+         "Tifinagh":"ⵉⵍⴻⴼ",
+         "Français":"Sanglier",
+         "Anglais":"Wild boar",
+         "Arabe":"خنزير بري"
+      },
+      {  
+         "Id":121,
+         "Kabyle":"Aqcic, Aqṛuṛ",
+         "Tifinagh":"ⴰⵇⵛⵉⵛ, ⴰⵇⵕⵓⵕ",
+         "Français":"Garçon",
+         "Anglais":"Boy",
+         "Arabe":"صبي"
+      },
+      {  
+         "Id":122,
+         "Kabyle":"Tifdentt",
+         "Tifinagh":"ⵜⵉⴼⴷⴻⵏⵜⵜ",
+         "Français":"Orteil",
+         "Anglais":"Toe",
+         "Arabe":"اصبع القدم"
+      },
+      {  
+         "Id":123,
+         "Kabyle":"Babaɣayu",
+         "Tifinagh":"ⴱⴰⴱⴰⵖⴰⵢⵓ",
+         "Français":"Perroquet",
+         "Anglais":"Parrot",
+         "Arabe":"ببغاء"
+      },
+      {  
+         "Id":124,
+         "Kabyle":"Anyir",
+         "Tifinagh":"ⴰⵏⵢⵉⵔ",
+         "Français":"Front",
+         "Anglais":"Forehead",
+         "Arabe":"جبهة"
+      },
+      {  
+         "Id":125,
+         "Kabyle":"Tawacult",
+         "Tifinagh":"ⵜⴰⵡⴰⵛⵓⵍⵜ",
+         "Français":"Famille",
+         "Anglais":"Family",
+         "Arabe":"عائلة, أسرة"
+      },
+      {  
+         "Id":126,
+         "Kabyle":"Timiṭ",
+         "Tifinagh":"ⵜⵉⵎⵉⵟ",
+         "Français":"Nombril",
+         "Anglais":"Navel",
+         "Arabe":"سرة"
+      },
+      {  
+         "Id":127,
+         "Kabyle":"Allaɣ",
+         "Tifinagh":"ⴰⵍⵍⴰⵖ",
+         "Français":"Cerveau",
+         "Anglais":"Brain",
+         "Arabe":"دماغ"
+      },
+      {  
+         "Id":128,
+         "Kabyle":"Lbunya",
+         "Tifinagh":"ⵍⴱⵓⵏⵢⴰ",
+         "Français":"Poing",
+         "Anglais":"Fist",
+         "Arabe":"قبضة"
+      },
+      {  
+         "Id":129,
+         "Kabyle":"Tamgeṛt",
+         "Tifinagh":"ⵜⴰⵎⴳⴻⵕⵜ",
+         "Français":"Cou",
+         "Anglais":"Neck",
+         "Arabe":"عنق"
+      },
+      {  
+         "Id":130,
+         "Kabyle":"Anebdu, Azɣal",
+         "Tifinagh":"ⴰⵏⴻⴱⴷⵓ, ⴰⵣⵖⴰⵍ",
+         "Français":"Été",
+         "Anglais":"Summer",
+         "Arabe":"الصيف"
+      },
+      {  
+         "Id":131,
+         "Kabyle":"Lexrif",
+         "Tifinagh":"ⵍⴻⵅⵔⵉⴼ",
+         "Français":"Automne",
+         "Anglais":"Autumn",
+         "Arabe":"خريف"
+      },
+      {  
+         "Id":132,
+         "Kabyle":"Tarewela",
+         "Tifinagh":"ⵜⴰⵔⴻⵡⴻⵍⴰ",
+         "Français":"Fuite",
+         "Anglais":"Flight, Escape, Run away",
+         "Arabe":"فرار"
+      },
+      {  
+         "Id":133,
+         "Kabyle":"Imeṭṭawen",
+         "Tifinagh":"ⵉⵎⴻⵟⵟⴰⵡⴻⵏ",
+         "Français":"Larmes",
+         "Anglais":"Tears",
+         "Arabe":"دموع"
+      },
+      {  
+         "Id":134,
+         "Kabyle":"Anezgum",
+         "Tifinagh":"ⴰⵏⴻⵣⴳⵓⵎ",
+         "Français":"Tristesse",
+         "Anglais":"Sadness",
+         "Arabe":"حزن"
+      },
+      {  
+         "Id":135,
+         "Kabyle":"Tuɣmest",
+         "Tifinagh":"ⵜⵓⵖⵎⴻⵙⵜ",
+         "Français":"Dent",
+         "Anglais":"Tooth",
+         "Arabe":"سن"
+      },
+      {  
+         "Id":136,
+         "Kabyle":"Tafsut",
+         "Tifinagh":"ⵜⴰⴼⵙⵓⵜ",
+         "Français":"Printemps",
+         "Anglais":"Spring",
+         "Arabe":"ربيع"
+      },
+      {  
+         "Id":137,
+         "Kabyle":"Kemm, Kemmini",
+         "Tifinagh":"ⴽⴻⵎⵎ, ⴽⴻⵎⵎⵉⵏⵉ",
+         "Français":"Toi (Féminin)",
+         "Anglais":"You (Female)",
+         "Arabe":"أنت"
+      },
+      {  
+         "Id":138,
+         "Kabyle":"Tagrest",
+         "Tifinagh":"ⵜⴰⴳⵔⴻⵙⵜ",
+         "Français":"Hiver",
+         "Anglais":"Winter",
+         "Arabe":"شتاء"
+      },
+      {  
+         "Id":139,
+         "Kabyle":"Tayett",
+         "Tifinagh":"ⵜⴰⵢⴻⵜⵜ",
+         "Français":"Épaule",
+         "Anglais":"Shoulder",
+         "Arabe":"كتف"
+      },
+      {  
+         "Id":140,
+         "Kabyle":"Tigzirt",
+         "Tifinagh":"ⵜⵉⴳⵣⵉⵔⵜ",
+         "Français":"Île",
+         "Anglais":"Island",
+         "Arabe":"جزيرة"
+      },
+      {  
+         "Id":141,
+         "Kabyle":"Aεebbuḍ",
+         "Tifinagh":"ⴰⵄⴻⴱⴱⵓⴹ",
+         "Français":"Ventre",
+         "Anglais":"Stomach",
+         "Arabe":"بطن"
+      },
+      {  
+         "Id":142,
+         "Kabyle":"Tiṭ, Taṭṭuct",
+         "Tifinagh":"ⵜⵉⵟ, ⵜⴰⵟⵟⵓⵛⵜ",
+         "Français":"Oeil",
+         "Anglais":"Eye",
+         "Arabe":"عين"
+      },
+      {  
+         "Id":143,
+         "Kabyle":"Tiweṭzit",
+         "Tifinagh":"ⵜⵉⵡⴻⵟⵣⵉⵜ",
+         "Français":"Cheville",
+         "Anglais":"Ankle",
+         "Arabe":"الكاحل"
+      },
+      {  
+         "Id":144,
+         "Kabyle":"Acebbub, Acekkuḥ",
+         "Tifinagh":"ⴰⵛⴻⴱⴱⵓⴱ, ⴰⵛⴻⴽⴽⵓⵃ",
+         "Français":"Cheveux",
+         "Anglais":"Hair",
+         "Arabe":"شعر"
+      },
+      {  
+         "Id":145,
+         "Kabyle":"Udem, Aqadum",
+         "Tifinagh":"ⵓⴷⴻⵎ, ⴰⵇⴰⴷⵓⵎ",
+         "Français":"Visage",
+         "Anglais":"Face",
+         "Arabe":"وجه"
+      },
+      {  
+         "Id":146,
+         "Kabyle":"Adebbuz",
+         "Tifinagh":"ⴰⴷⴻⴱⴱⵓⵣ",
+         "Français":"Pouce",
+         "Anglais":"Thumb",
+         "Arabe":"إبهام اليد"
+      },
+      {  
+         "Id":147,
+         "Kabyle":"Taddart",
+         "Tifinagh":"ⵜⴰⴷⴷⴰⵔⵜ",
+         "Français":"Village",
+         "Anglais":"Village",
+         "Arabe":"قرية"
+      },
+      {  
+         "Id":148,
+         "Kabyle":"Takaṛṛust, Ṭumubil",
+         "Tifinagh":"ⵜⴰⴽⴰⵕⵕⵓⵙⵜ, ⵟⵓⵎⵓⴱⵉⵍ",
+         "Français":"Voiture",
+         "Anglais":"Car",
+         "Arabe":"سيارة"
+      },
+      {  
+         "Id":149,
+         "Kabyle":"Tissist",
+         "Tifinagh":"ⵜⵉⵙⵙⵉⵙⵜ",
+         "Français":"Araignée",
+         "Anglais":"Spider",
+         "Arabe":"عنكبوت"
+      },
+      {  
+         "Id":150,
+         "Kabyle":"Ameksa",
+         "Tifinagh":"ⴰⵎⴻⴽⵙⴰ",
+         "Français":"Un berger",
+         "Anglais":"A shepherd",
+         "Arabe":"الراعي"
+      },
+      {  
+         "Id":151,
+         "Kabyle":"Aseṛɣu",
+         "Tifinagh":"ⴰⵙⴻⵕⵖⵓ",
+         "Français":"Bois de chauffage",
+         "Anglais":"Firewood",
+         "Arabe":"حطب"
+      },
+      {  
+         "Id":152,
+         "Kabyle":"Aḍu",
+         "Tifinagh":"ⴰⴹⵓ",
+         "Français":"Vent",
+         "Anglais":"Wind",
+         "Arabe":"ريح"
+      },
+      {  
+         "Id":153,
+         "Kabyle":"Tabexsist",
+         "Tifinagh":"ⵜⴰⴱⴻⵅⵙⵉⵙⵜ",
+         "Français":"Une figue",
+         "Anglais":"A fig fruit",
+         "Arabe":"التين"
+      },
+      {  
+         "Id":154,
+         "Kabyle":"Baṭaṭa",
+         "Tifinagh":"ⴱⴰⵟⴰⵟⴰ",
+         "Français":"Pomme de terre",
+         "Anglais":"Potato",
+         "Arabe":"بطاطا"
+      },
+      {  
+         "Id":155,
+         "Kabyle":"Aεawdiw",
+         "Tifinagh":"ⴰⵄⴰⵡⴷⵉⵡ",
+         "Français":"Cheval",
+         "Anglais":"Horse",
+         "Arabe":"حصان"
+      },
+      {  
+         "Id":156,
+         "Kabyle":"Tiqenṭaṛt",
+         "Tifinagh":"ⵜⵉⵇⴻⵏⵟⴰⵕⵜ",
+         "Français":"Pont",
+         "Anglais":"Bridge",
+         "Arabe":"جسر"
+      },
+      {  
+         "Id":157,
+         "Kabyle":"Tilizṛi",
+         "Tifinagh":"ⵜⵉⵍⵉⵣⵕⵉ",
+         "Français":"Télévision",
+         "Anglais":"Television, TV",
+         "Arabe":"تلفزيون"
+      },
+      {  
+         "Id":158,
+         "Kabyle":"Neggez, Jelleb",
+         "Tifinagh":"ⵏⴻⴳⴳⴻⵣ, ⵊⴻⵍⵍⴻⴱ",
+         "Français":"Sauter",
+         "Anglais":"To jump",
+         "Arabe":"قفز"
+      },
+      {  
+         "Id":159,
+         "Kabyle":"Iḍ",
+         "Tifinagh":"ⵉⴹ",
+         "Français":"Nuit",
+         "Anglais":"Night",
+         "Arabe":"ليل"
+      },
+      {  
+         "Id":160,
+         "Kabyle":"Ččina",
+         "Tifinagh":"ⵛⵛⵉⵏⴰ",
+         "Français":"Orange",
+         "Anglais":"Orange",
+         "Arabe":"برتقال"
+      },
+      {  
+         "Id":161,
+         "Kabyle":"Isli",
+         "Tifinagh":"ⵉⵙⵍⵉ",
+         "Français":"Le marié",
+         "Anglais":"Bridegroom, Groom",
+         "Arabe":"العريس"
+      },
+      {  
+         "Id":162,
+         "Kabyle":"Tislit",
+         "Tifinagh":"ⵜⵉⵙⵍⵉⵜ",
+         "Français":"La mariée",
+         "Anglais":"The bride",
+         "Arabe":"العروسة"
+      },
+      {  
+         "Id":163,
+         "Kabyle":"Aferṭeṭṭu",
+         "Tifinagh":"ⴰⴼⴻⵔⵟⴻⵟⵟⵓ",
+         "Français":"Papillon",
+         "Anglais":"Butterfly",
+         "Arabe":"فراشة"
+      },
+      {  
+         "Id":164,
+         "Kabyle":"Izrem",
+         "Tifinagh":"ⴰⵣⵔⴻⵎ",
+         "Français":"Serpent",
+         "Anglais":"Serpent",
+         "Arabe":"ثعبان"
+      },
+      {  
+         "Id":165,
+         "Kabyle":"Ṭubba",
+         "Tifinagh":"ⵟⵓⴱⴱⴰ",
+         "Français":"Rat",
+         "Anglais":"Rat",
+         "Arabe":"جرذ"
+      },
+      {  
+         "Id":166,
+         "Kabyle":"Aɣeṛda",
+         "Tifinagh":"ⴰⵖⴻⵕⴷⴰ",
+         "Français":"Souris",
+         "Anglais":"Mouse",
+         "Arabe":"فأر"
+      },
+      {  
+         "Id":167,
+         "Kabyle":"Enɣ",
+         "Tifinagh":"ⴻⵏⵖ",
+         "Français":"Tuer",
+         "Anglais":"To kill",
+         "Arabe":"قتل"
+      },
+      {  
+         "Id":168,
+         "Kabyle":"Aɣenjuṛ",
+         "Tifinagh":"ⴰⵖⴻⵏⵊⵓⵕ",
+         "Français":"Nez aquilin",
+         "Anglais":"Roman nose",
+         "Arabe":"معقوف الأنف"
+      },
+      {  
+         "Id":169,
+         "Kabyle":"Timesrifegt",
+         "Tifinagh":"ⵜⵉⵎⴻⵙⵔⵉⴼⴻⴳⵜ",
+         "Français":"Avion",
+         "Anglais":"Airplane, Plane",
+         "Arabe":"طائرة"
+      },
+      {  
+         "Id":170,
+         "Kabyle":"Baba",
+         "Tifinagh":"ⴱⴰⴱⴰ",
+         "Français":"Papa",
+         "Anglais":"Dad, Daddy",
+         "Arabe":"بابا"
+      },
+      {  
+         "Id":171,
+         "Kabyle":"Settut",
+         "Tifinagh":"ⵙⴻⵜⵜⵓⵜ",
+         "Français":"Sorcière",
+         "Anglais":"Witch",
+         "Arabe":"ساحرة"
+      },
+      {  
+         "Id":172,
+         "Kabyle":"Ṭṭes, Gen",
+         "Tifinagh":"ⵟⵟⴻⵙ, ⴳⴻⵏ",
+         "Français":"Dormir",
+         "Anglais":"To sleep",
+         "Arabe":"نام"
+      },
+      {  
+         "Id":173,
+         "Kabyle":"Latay",
+         "Tifinagh":"ⵍⴰⵜⴰⵢ",
+         "Français":"Thé",
+         "Anglais":"Tea",
+         "Arabe":"شاي"
+      },
+      {  
+         "Id":174,
+         "Kabyle":"Akli",
+         "Tifinagh":"ⴰⴽⵍⵉ",
+         "Français":"Esclave",
+         "Anglais":"Slave",
+         "Arabe":"عبد"
+      },
+      {  
+         "Id":175,
+         "Kabyle":"Taneqwlett",
+         "Tifinagh":"ⵜⴰⵏⴻⵇⵡⵍⴻⵜⵜ",
+         "Français":"Figuier",
+         "Anglais":"Fig tree",
+         "Arabe":"شجرة التين"
+      },
+      {  
+         "Id":176,
+         "Kabyle":"Tazemmurt",
+         "Tifinagh":"ⵜⴰⵣⴻⵎⵎⵓⵔⵜ",
+         "Français":"Olivier",
+         "Anglais":"Olive tree",
+         "Arabe":"شجرة الزيتون"
+      },
+      {  
+         "Id":177,
+         "Kabyle":"Tafrara",
+         "Tifinagh":"ⵜⴰⴼⵔⴰⵔⴰ",
+         "Français":"Aube, Lever du jour",
+         "Anglais":"Daybreak, Sunrise",
+         "Arabe":"الفجر"
+      },
+      {  
+         "Id":178,
+         "Kabyle":"Tagut",
+         "Tifinagh":"ⵜⴰⴳⵓⵜ",
+         "Français":"Brouillard",
+         "Anglais":"Fog",
+         "Arabe":"ضباب"
+      },
+      {  
+         "Id":179,
+         "Kabyle":"Sew",
+         "Tifinagh":"ⵙⴻⵡ",
+         "Français":"Boire",
+         "Anglais":"To drink",
+         "Arabe":"شرب"
+      },
+      {  
+         "Id":180,
+         "Kabyle":"Skweṛ",
+         "Tifinagh":"ⵙⴽⵡⴻⵕ",
+         "Français":"Sucre",
+         "Anglais":"Sugar",
+         "Arabe":"سكر"
+      },
+      {  
+         "Id":181,
+         "Kabyle":"Ta, Tagi",
+         "Tifinagh":"ⵜⴰ, ⵜⴰⴳⵉ",
+         "Français":"Ça, Celle-ci",
+         "Anglais":"This, This one",
+         "Arabe":"هذه"
+      },
+      {  
+         "Id":182,
+         "Kabyle":"Aḍebsi",
+         "Tifinagh":"ⴰⴹⴻⴱⵙⵉ",
+         "Français":"Assiette",
+         "Anglais":"Plate",
+         "Arabe":"طبق"
+      },
+      {  
+         "Id":183,
+         "Kabyle":"Tili",
+         "Tifinagh":"ⵜⵉⵍⵉ",
+         "Français":"Ombre",
+         "Anglais":"Shadow",
+         "Arabe":"الظل"
+      },
+      {  
+         "Id":184,
+         "Kabyle":"Azzel",
+         "Tifinagh":"ⴰⵣⵣⴻⵍ",
+         "Français":"Courir",
+         "Anglais":"To run",
+         "Arabe":"جري"
+      },
+      {  
+         "Id":185,
+         "Kabyle":"Tiflewt, Taɣwenjawt",
+         "Tifinagh":"ⵜⵉⴼⵍⴻⵡⵜ, ⵜⴰⵖⵡⴻⵏⵊⴰⵡⵜ",
+         "Français":"Cuillère",
+         "Anglais":"Spoon",
+         "Arabe":"ملعقة"
+      },
+      {  
+         "Id":186,
+         "Kabyle":"Iɣes",
+         "Tifinagh":"ⵉⵖⴻⵙ",
+         "Français":"Os",
+         "Anglais":"Bone",
+         "Arabe":"عظم"
+      },
+      {  
+         "Id":187,
+         "Kabyle":"Tamessaṭ",
+         "Tifinagh":"ⵜⴰⵎⴻⵙⵙⴰⵟ",
+         "Français":"Cuisse",
+         "Anglais":"Thigh",
+         "Arabe":"فخذ"
+      },
+      {  
+         "Id":188,
+         "Kabyle":"Imawlan",
+         "Tifinagh":"ⵉⵎⴰⵡⵍⴰⵏ",
+         "Français":"Les parents",
+         "Anglais":"The parents",
+         "Arabe":"الوالدين"
+      },
+      {  
+         "Id":189,
+         "Kabyle":"Aḥelluf",
+         "Tifinagh":"ⴰⵃⴻⵍⵍⵓⴼ",
+         "Français":"Cochon, Porc",
+         "Anglais":"Pig, Pork",
+         "Arabe":"خنزير, لحم الخنزير"
+      },
+      {  
+         "Id":190,
+         "Kabyle":"Atmaten",
+         "Tifinagh":"ⴰⵜⵎⴰⵜⴻⵏ",
+         "Français":"Frères et sœurs",
+         "Anglais":"Siblings",
+         "Arabe":"الأخوة والأخوات"
+      },
+      {  
+         "Id":191,
+         "Kabyle":"Ṣṣabun",
+         "Tifinagh":"ⵚⵚⴰⴱⵓⵏ",
+         "Français":"Savon",
+         "Anglais":"Soap",
+         "Arabe":"صابون"
+      },
+      {  
+         "Id":192,
+         "Kabyle":"Amqweṛqweṛ",
+         "Tifinagh":"ⴰⵎⵇⵡⴻⵕⵇⵡⴻⵕ",
+         "Français":"Crapaud",
+         "Anglais":"Toad",
+         "Arabe":"علجوم"
+      },
+      {  
+         "Id":193,
+         "Kabyle":"Tifirest",
+         "Tifinagh":"ⵜⵉⴼⵉⵔⴻⵙⵜ",
+         "Français":"Une poire",
+         "Anglais":"A pear",
+         "Arabe":"الكمثرى"
+      },
+      {  
+         "Id":194,
+         "Kabyle":"Tasarutt",
+         "Tifinagh":"ⵜⴰⵙⴰⵔⵓⵜⵜ",
+         "Français":"Clef, Clé",
+         "Anglais":"Key",
+         "Arabe":"مفتاح"
+      },
+      {  
+         "Id":195,
+         "Kabyle":"Tagwerselt",
+         "Tifinagh":"ⵜⴰⴳⵡⴻⵔⵙⴻⵍⵜ",
+         "Français":"Champignon",
+         "Anglais":"Mushroom",
+         "Arabe":"فطر"
+      },
+      {  
+         "Id":196,
+         "Kabyle":"Taxxamt",
+         "Tifinagh":"ⵜⴰⵅⵅⴰⵎⵜ",
+         "Français":"Chambre",
+         "Anglais":"Room",
+         "Arabe":"غرفة"
+      },
+      {  
+         "Id":197,
+         "Kabyle":"Tayaziḍt",
+         "Tifinagh":"ⵜⴰⵢⴰⵣⵉⴹⵜ",
+         "Français":"Poule",
+         "Anglais":"Chicken",
+         "Arabe":"دجاجة"
+      },
+      {  
+         "Id":198,
+         "Kabyle":"Taxxamt n tguni",
+         "Tifinagh":"ⵜⴰⵅⵅⴰⵎⵜ ⵏ ⵜⴳⵓⵏⵉ",
+         "Français":"Chambre à coucher",
+         "Anglais":"Bedroom",
+         "Arabe":"غرفةالنوم"
+      },
+      {  
+         "Id":199,
+         "Kabyle":"Inisi",
+         "Tifinagh":"ⵉⵏⵉⵙⵉ",
+         "Français":"Hérisson",
+         "Anglais":"Hedgehog",
+         "Arabe":"قنفذ"
+      },
+      {  
+         "Id":200,
+         "Kabyle":"Ifelfel",
+         "Tifinagh":"ⵉⴼⴻⵍⴼⴻⵍ",
+         "Français":"Piment",
+         "Anglais":"Chilli pepper",
+         "Arabe":"فلفل"
+      },
+      {  
+         "Id":201,
+         "Kabyle":"Bibb",
+         "Tifinagh":"ⴱⵉⴱⴱ",
+         "Français":"Porter sur le dos",
+         "Anglais":"Carry on the back, Piggyback",
+         "Arabe":"حمل على الظهر"
+      },
+      {  
+         "Id":202,
+         "Kabyle":"Taεekkwazt",
+         "Tifinagh":"ⵜⴰⵄⴻⴽⴽⵡⴰⵣⵜ",
+         "Français":"Canne",
+         "Anglais":"Cane",
+         "Arabe":"قصب"
+      },
+      {  
+         "Id":203,
+         "Kabyle":"Tiɣwmeṛt",
+         "Tifinagh":"ⵜⵉⵖⵡⵎⴻⵕⵜ",
+         "Français":"Coude",
+         "Anglais":"Elbow",
+         "Arabe":"كوع"
+      },
+      {  
+         "Id":204,
+         "Kabyle":"Aɣeṛbaz",
+         "Tifinagh":"ⴰⵖⴻⵕⴱⴰⵣ",
+         "Français":"École",
+         "Anglais":"School",
+         "Arabe":"مدرسة"
+      },
+      {  
+         "Id":205,
+         "Kabyle":"Aqeggel",
+         "Tifinagh":"ⴰⵇⴻⴳⴳⴻⵍ",
+         "Français":"Sieste",
+         "Anglais":"Siesta",
+         "Arabe":"قيلولة"
+      },
+      {  
+         "Id":206,
+         "Kabyle":"Tislit n unẓar",
+         "Tifinagh":"ⵜⵉⵙⵍⵉⵜ ⵏ ⵓⵏⵥⴰⵔ",
+         "Français":"Arc-en-ciel",
+         "Anglais":"Rainbow",
+         "Arabe":"قوس قزح"
+      },
+      {  
+         "Id":207,
+         "Kabyle":"Aḍil",
+         "Tifinagh":"ⵜⴹⵉⵍ",
+         "Français":"Raisin",
+         "Anglais":"Grape",
+         "Arabe":"عنب"
+      },
+      {  
+         "Id":208,
+         "Kabyle":"zṛudiyya",
+         "Tifinagh":"ⵣⵕⵓⴷⵉⵢⵢⴰ",
+         "Français":"Carotte",
+         "Anglais":"Carrot",
+         "Arabe":"جزر"
+      },
+      {  
+         "Id":209,
+         "Kabyle":"Aseklu",
+         "Tifinagh":"ⴰⵙⴻⴽⵍⵓ",
+         "Français":"Arbre",
+         "Anglais":"Tree",
+         "Arabe":"شجرة"
+      },
+      {  
+         "Id":210,
+         "Kabyle":"Aḥeckul",
+         "Tifinagh":"ⴰⵃⴻⵛⴽⵓⵍ",
+         "Français":"Sortilège",
+         "Anglais":"Magic spell",
+         "Arabe":"سحر"
+      },
+      {  
+         "Id":211,
+         "Kabyle":"Azzu",
+         "Tifinagh":"ⴰⵣⵣⵓ",
+         "Français":"Genêts",
+         "Anglais":"Forsythia",
+         "Arabe":"-"
+      },
+      {  
+         "Id":212,
+         "Kabyle":"Zzeṛb",
+         "Tifinagh":"ⵣⵣⴻⵕⴱ",
+         "Français":"Clôture",
+         "Anglais":"Fence",
+         "Arabe":"سياج"
+      },
+      {  
+         "Id":213,
+         "Kabyle":"S tadist",
+         "Tifinagh":"ⵙ ⵜⴰⴷⵉⵙⵜ",
+         "Français":"Enceinte",
+         "Anglais":"Pregnant",
+         "Arabe":"حامل"
+      },
+      {  
+         "Id":214,
+         "Kabyle":"Tamart",
+         "Tifinagh":"ⵜⴰⵎⴰⵔⵜ",
+         "Français":"Menton",
+         "Anglais":"Chin",
+         "Arabe":"ذقن"
+      },
+      {  
+         "Id":215,
+         "Kabyle":"Ɣli",
+         "Tifinagh":"ⵖⵍⵉ",
+         "Français":"Tomber",
+         "Anglais":"Fall, Fall down",
+         "Arabe":"سقط"
+      }
+   ]
 }
