@@ -11,7 +11,7 @@ Images de 201 à 300
 | 203 | Tiɣwmeṛt       | ⵜⵉⵖⵡⵎⴻⵕⵜ       | Coude             | Elbow                        | كوع           | ![Image203][Img203] |
 | 204 | Aɣeṛbaz        | ⴰⵖⴻⵕⴱⴰⵣ       | École             | School                       | مدرسة         | ![Image204][Img204] |
 | 205 | Aqeggel        | ⴰⵇⴻⴳⴳⴻⵍ        | Sieste            | Siesta                       | قيلولة        | ![Image205][Img205] |
-| 206 | Tislit n unẓar | ⵜⵉⵙⵍⵉⵜ ⵏ ⵓⵏⵥⴰⵔ | Arc-en-ciel       | Rainbow                      | قوس قزح       | ![Image206][Img206] |
+| 206 | Tislit n unẓar | ⵜⵉⵙⵍⵉⵜ ⵏ ⵓⵏⵥⴰⵔ  | Arc-en-ciel       | Rainbow                      | قوس قزح       | ![Image206][Img206] |
 | 207 | Aḍil           | ⵜⴹⵉⵍ           | Raisin            | Grape                        | عنب           | ![Image207][Img207] |
 | 208 | zṛudiyya       | ⵣⵕⵓⴷⵉⵢⵢⴰ      | Carotte           | Carrot                       | جزر           | ![Image208][Img208] |
 | 209 | Aseklu         | ⴰⵙⴻⴽⵍⵓ         | Arbre             | Tree                         | شجرة          | ![Image209][Img209] |
@@ -21,31 +21,31 @@ Images de 201 à 300
 | 213 | S tadist       | ⵙ ⵜⴰⴷⵉⵙⵜ      | Enceinte          | Pregnant                     | حامل          | ![Image213][Img213] |
 | 214 | Tamart         | ⵜⴰⵎⴰⵔⵜ         | Menton            | Chin                         | ذقن           | ![Image214][Img214] |
 | 215 | Ɣli            | ⵖⵍⵉ            | Tomber            | Fall, Fall down              | سقط           | ![Image215][Img215] |
-| 216 | xx        |          | xx         | xx                  |             | ![Image216][Img216] |
-| 217 | xx        |          | xx         | xx                  |             | ![Image217][Img217] |
-| 218 | xx        |          | xx         | xx                  |             | ![Image218][Img218] |
-| 219 | xx        |          | xx         | xx                  |             | ![Image219][Img219] |
-| 220 | xx        |          | xx         | xx                  |             | ![Image220][Img220] |
-| 221 | xx        |          | xx         | xx                  |             | ![Image221][Img221] |
-| 222 | xx        |          | xx         | xx                  |             | ![Image222][Img222] |
-| 223 | xx        |          | xx         | xx                  |             | ![Image223][Img223] |
-| 224 | xx        |          | xx         | xx                  |             | ![Image224][Img224] |
-| 225 | xx        |          | xx         | xx                  |             | ![Image225][Img225] |
-| 226 | xx        |          | xx         | xx                  |             | ![Image226][Img226] |
-| 227 | xx        |          | xx         | xx                  |             | ![Image227][Img227] |
-| 228 | xx        |          | xx         | xx                  |             | ![Image228][Img228] |
-| 229 | xx        |          | xx         | xx                  |             | ![Image229][Img229] |
-| 230 | xx        |          | xx         | xx                  |             | ![Image230][Img230] |
-| 231 | xx        |          | xx         | xx                  |             | ![Image231][Img231] |
-| 232 | xx        |          | xx         | xx                  |             | ![Image232][Img232] |
-| 233 | xx        |          | xx         | xx                  |             | ![Image233][Img233] |
-| 234 | xx        |          | xx         | xx                  |             | ![Image234][Img234] |
-| 235 | xx        |          | xx         | xx                  |             | ![Image235][Img235] |
-| 236 | xx        |          | xx         | xx                  |             | ![Image236][Img236] |
-| 237 | xx        |          | xx         | xx                  |             | ![Image237][Img237] |
-| 238 | xx        |          | xx         | xx                  |             | ![Image238][Img238] |
-| 239 | xx        |          | xx         | xx                  |             | ![Image239][Img239] |
-| 240 | xx        |          | xx         | xx                  |             | ![Image240][Img240] |
+| 216 | Afenǧal        |                | Tasse             | Cup                          |               | ![Image216][Img216] |
+| 217 | Wwet afus      |                | Applaudir         | Applaud, Clap                |               | ![Image217][Img217] |
+| 218 | Ɣeṛ            |                | Lire              | Read                         |               | ![Image218][Img218] |
+| 219 | Adlis          |                | Livre             | Book                         |               | ![Image219][Img219] |
+| 220 | Ddu, Lḥu       |                | Marcher           | To walk                      |               | ![Image220][Img220] |
+| 221 | Eḍs            |                | Rire              | To laugh                     |               | ![Image221][Img221] |
+| 222 | Ticraḍ         |                | Tatouage          | Tattoo                       |               | ![Image222][Img222] |
+| 223 | Ṭumaṭic        |                | Tomate            | Tomato                       |               | ![Image223][Img223] |
+| 224 | Lkaɣeḍ         |                | Papier            | Paper                        |               | ![Image224][Img224] |
+| 225 | Tasa           |                | Amour parental    | Parental love                |               | ![Image225][Img225] |
+| 226 | Tisegnit       |                | Aiguille          | Needle                       |               | ![Image226][Img226] |
+| 227 | Itbir          |                | Pigeon            | Pigeon                       |               | ![Image227][Img227] |
+| 228 | Tajeǧǧigt      |                | Fleur             | Flower                       |               | ![Image228][Img228] |
+| 229 | Lqaṛes         |                | Citron            | Lemon                        |               | ![Image229][Img229] |
+| 230 | Cnu            |                | Chanter           | To sing                      |               | ![Image230][Img230] |
+| 231 | Snitra         |                | Guitare           | Guitar                       |               | ![Image231][Img231] |
+| 232 | Amrar          |                | Corde             | Rope                         |               | ![Image232][Img232] |
+| 233 | Ajenwi         |                | Poignard          | Dagger                       |               | ![Image233][Img233] |
+| 234 | Ifri           |                | Grotte, Caverne   | Cave                         |               | ![Image234][Img234] |
+| 235 | Gzem           |                | Couper            | To cut                       |               | ![Image235][Img235] |
+| 236 | Tagerfa        |                | Corbeau           | Crow                         |               | ![Image236][Img236] |
+| 237 | Lubyan         |                | Haricot           | Bean                         |               | ![Image237][Img237] |
+| 238 | Ibawen         |                | Fèves             | Broad bean                   |               | ![Image238][Img238] |
+| 239 | Aẓṛu           |                | Pierre            | Stone                        |               | ![Image239][Img239] |
+| 240 | Qqim           |                | S'asseoir         | To sit down                  |               | ![Image240][Img240] |
 
 
 
