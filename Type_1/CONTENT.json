@@ -1719,6 +1719,206 @@
          "Français":"Tomber",
          "Anglais":"Fall, Fall down",
          "Arabe":"سقط"
+      },
+      {  
+         "Id":216,
+         "Kabyle":"Afenǧal",
+         "Tifinagh":"ⴰⴼⴻⵏⴵⴰⵍ",
+         "Français":"Tasse",
+         "Anglais":"Cup",
+         "Arabe":"كوب"
+      },
+      {  
+         "Id":217,
+         "Kabyle":"Wwet afus",
+         "Tifinagh":"ⵡⵡⴻⵜ ⴰⴼⵓⵙ",
+         "Français":"Applaudir",
+         "Anglais":"Applaud, Clap",
+         "Arabe":"صفق"
+      },
+      {  
+         "Id":218,
+         "Kabyle":"Ɣeṛ",
+         "Tifinagh":"ⵖⴻⵕ",
+         "Français":"Lire",
+         "Anglais":"Read",
+         "Arabe":"قرأ"
+      },
+      {  
+         "Id":219,
+         "Kabyle":"Adlis",
+         "Tifinagh":"ⴰⴷⵍⵉⵙ",
+         "Français":"Livre",
+         "Anglais":"Book",
+         "Arabe":"كتاب"
+      },
+      {  
+         "Id":220,
+         "Kabyle":"Ddu, Lḥu",
+         "Tifinagh":"ⴷⴷⵓ, ⵍⵃⵓ",
+         "Français":"Marcher",
+         "Anglais":"To walk",
+         "Arabe":"سير"
+      },
+      {  
+         "Id":221,
+         "Kabyle":"Eḍs",
+         "Tifinagh":"ⴷⴹⵙ",
+         "Français":"Rire",
+         "Anglais":"To laugh",
+         "Arabe":"ضحك"
+      },
+      {  
+         "Id":222,
+         "Kabyle":"Ticraḍ",
+         "Tifinagh":"ⵜⵉⵛⵔⴰⴹ",
+         "Français":"Tatouage",
+         "Anglais":"Tattoo",
+         "Arabe":"وشم"
+      },
+      {  
+         "Id":223,
+         "Kabyle":"Ṭumaṭic",
+         "Tifinagh":"ⵟⵓⵎⴰⵟⵉⵛ",
+         "Français":"Tomate",
+         "Anglais":"Tomato",
+         "Arabe":"طماطم"
+      },
+      {  
+         "Id":224,
+         "Kabyle":"Lkaɣeḍ",
+         "Tifinagh":"ⵍⴽⴰⵖⴻⴹ",
+         "Français":"Papier",
+         "Anglais":"Paper",
+         "Arabe":"ورق"
+      },
+      {  
+         "Id":225,
+         "Kabyle":"Tasa",
+         "Tifinagh":"ⵜⴰⵙⴰ",
+         "Français":"Amour parental",
+         "Anglais":"Parental love",
+         "Arabe":"حب الأبوي"
+      },
+      {  
+         "Id":226,
+         "Kabyle":"Tisegnit",
+         "Tifinagh":"ⵜⵉⵙⴻⴳⵏⵉⵜ",
+         "Français":"Aiguille",
+         "Anglais":"Needle",
+         "Arabe":"إبرة"
+      },
+      {  
+         "Id":227,
+         "Kabyle":"Itbir",
+         "Tifinagh":"ⵉⵜⴱⵉⵔ",
+         "Français":"Pigeon",
+         "Anglais":"Pigeon",
+         "Arabe":"حمامة"
+      },
+      {  
+         "Id":228,
+         "Kabyle":"Tajeǧǧigt",
+         "Tifinagh":"ⵜⴰⵊⴻⴵⴵⵉⴳⵜ",
+         "Français":"Fleur",
+         "Anglais":"Flower",
+         "Arabe":"زهرة"
+      },
+      {  
+         "Id":229,
+         "Kabyle":"Lqaṛes",
+         "Tifinagh":"ⵍⵇⴰⵕⴻⵙ",
+         "Français":"Citron",
+         "Anglais":"Lemon",
+         "Arabe":"ليمون"
+      },
+      {  
+         "Id":230,
+         "Kabyle":"Cnu",
+         "Tifinagh":"ⵛⵏⵓ",
+         "Français":"Chanter",
+         "Anglais":"To sing",
+         "Arabe":"غنى"
+      },
+      {  
+         "Id":231,
+         "Kabyle":"Snitra",
+         "Tifinagh":"ⵙⵏⵉⵜⵔⴰ",
+         "Français":"Guitare",
+         "Anglais":"Guitar",
+         "Arabe":"غيتار"
+      },
+      {  
+         "Id":232,
+         "Kabyle":"Amrar",
+         "Tifinagh":"ⴰⵎⵔⴰⵔ",
+         "Français":"Corde",
+         "Anglais":"Rope",
+         "Arabe":"حبل"
+      },
+      {  
+         "Id":233,
+         "Kabyle":"Ajenwi",
+         "Tifinagh":"ⴰⵊⴻⵏⵡⵉ",
+         "Français":"Poignard",
+         "Anglais":"Dagger",
+         "Arabe":"خنجر"
+      },
+      {  
+         "Id":234,
+         "Kabyle":"Ifri",
+         "Tifinagh":"ⵉⴼⵔⵉ",
+         "Français":"Grotte, Caverne",
+         "Anglais":"Cave",
+         "Arabe":"كهف, غار"
+      },
+      {  
+         "Id":235,
+         "Kabyle":"Gzem",
+         "Tifinagh":"ⴳⵣⴻⵎ",
+         "Français":"Couper",
+         "Anglais":"To cut",
+         "Arabe":"قطع"
+      },
+      {  
+         "Id":236,
+         "Kabyle":"Tagerfa",
+         "Tifinagh":"ⵜⴰⴳⴻⵔⴼⴰ",
+         "Français":"Corbeau",
+         "Anglais":"Crow",
+         "Arabe":"غراب"
+      },
+      {  
+         "Id":237,
+         "Kabyle":"Lubyan",
+         "Tifinagh":"ⵍⵓⴱⵢⴰⵏ",
+         "Français":"Haricot",
+         "Anglais":"Bean",
+         "Arabe":"فاصوليا"
+      },
+      {  
+         "Id":238,
+         "Kabyle":"Ibawen",
+         "Tifinagh":"ⵉⴱⴰⵡⴻⵏ",
+         "Français":"Fèves",
+         "Anglais":"Broad bean",
+         "Arabe":"فول"
+      },
+      {  
+         "Id":239,
+         "Kabyle":"Aẓṛu",
+         "Tifinagh":"ⴰⵥⵕⵓ",
+         "Français":"Pierre",
+         "Anglais":"Stone",
+         "Arabe":"حجر"
+      },
+      {  
+         "Id":240,
+         "Kabyle":"Qqim",
+         "Tifinagh":"ⵇⵇⵉⵎ",
+         "Français":"S'asseoir",
+         "Anglais":"To sit down",
+         "Arabe":"جلس"
       }
    ]
 }
