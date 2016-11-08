@@ -22,30 +22,40 @@ Images de 201 à 300
 | 214 | Tamart         | ⵜⴰⵎⴰⵔⵜ         | Menton            | Chin                         | ذقن           | ![Image214][Img214] |
 | 215 | Ɣli            | ⵖⵍⵉ            | Tomber            | Fall, Fall down              | سقط           | ![Image215][Img215] |
 | 216 | Afenǧal        | ⴰⴼⴻⵏⴵⴰⵍ        | Tasse             | Cup                          |               | ![Image216][Img216] |
-| 217 | Wwet afus      | ⵡⵡⴻⵜ ⴰⴼⵓⵙ    | Applaudir         | Applaud, Clap                |               | ![Image217][Img217] |
+| 217 | Wwet afus      | ⵡⵡⴻⵜ ⴰⴼⵓⵙ     | Applaudir         | Applaud, Clap                |               | ![Image217][Img217] |
 | 218 | Ɣeṛ            | ⵖⴻⵕ           | Lire              | Read                         |               | ![Image218][Img218] |
 | 219 | Adlis          | ⴰⴷⵍⵉⵙ         | Livre             | Book                         |               | ![Image219][Img219] |
 | 220 | Ddu, Lḥu       | ⴷⴷⵓ, ⵍⵃⵓ      | Marcher           | To walk                      |               | ![Image220][Img220] |
 | 221 | Eḍs            | ⴷⴹⵙ           | Rire              | To laugh                     |               | ![Image221][Img221] |
 | 222 | Ticraḍ         | ⵜⵉⵛⵔⴰⴹ        | Tatouage          | Tattoo                       |               | ![Image222][Img222] |
-| 223 | Ṭumaṭic        | ⵟⵓⵎⴰⵟⵉⵛ        | Tomate            | Tomato                       |               | ![Image223][Img223] |
+| 223 | Ṭumaṭic        | ⵟⵓⵎⴰⵟⵉⵛ       | Tomate            | Tomato                       |               | ![Image223][Img223] |
 | 224 | Lkaɣeḍ         | ⵍⴽⴰⵖⴻⴹ        | Papier            | Paper                        |               | ![Image224][Img224] |
 | 225 | Tasa           | ⵜⴰⵙⴰ          | Amour parental    | Parental love                |               | ![Image225][Img225] |
 | 226 | Tisegnit       | ⵜⵉⵙⴻⴳⵏⵉⵜ      | Aiguille          | Needle                       |               | ![Image226][Img226] |
-| 227 | Itbir          | ⵉⵜⴱⵉⵔ         | Pigeon            | Pigeon                       |               | ![Image227][Img227] |
+| 227 | Itbir          | ⵉⵜⴱⵉⵔ        | Pigeon            | Pigeon                       |               | ![Image227][Img227] |
 | 228 | Tajeǧǧigt      | ⵜⴰⵊⴻⴵⴵⵉⴳⵜ     | Fleur             | Flower                       |               | ![Image228][Img228] |
 | 229 | Lqaṛes         | ⵍⵇⴰⵕⴻⵙ       | Citron            | Lemon                        |               | ![Image229][Img229] |
-| 230 | Cnu            | ⵛⵏⵓ            | Chanter           | To sing                      |               | ![Image230][Img230] |
+| 230 | Cnu            | ⵛⵏⵓ           | Chanter           | To sing                      |               | ![Image230][Img230] |
 | 231 | Snitra         | ⵙⵏⵉⵜⵔⴰ        | Guitare           | Guitar                       |               | ![Image231][Img231] |
 | 232 | Amrar          | ⴰⵎⵔⴰⵔ         | Corde             | Rope                         |               | ![Image232][Img232] |
 | 233 | Ajenwi         | ⴰⵊⴻⵏⵡⵉ         | Poignard          | Dagger                       |               | ![Image233][Img233] |
-| 234 | Ifri           | ⵉⴼⵔⵉ          | Grotte, Caverne   | Cave                         |               | ![Image234][Img234] |
-| 235 | Gzem           | ⴳⵣⴻⵎ          | Couper            | To cut                       |               | ![Image235][Img235] |
+| 234 | Ifri           | ⵉⴼⵔⵉ         | Grotte, Caverne   | Cave                         |               | ![Image234][Img234] |
+| 235 | Gzem           | ⴳⵣⴻⵎ         | Couper            | To cut                       |               | ![Image235][Img235] |
 | 236 | Tagerfa        | ⵜⴰⴳⴻⵔⴼⴰ      | Corbeau           | Crow                         |               | ![Image236][Img236] |
-| 237 | Lubyan         | ⵍⵓⴱⵢⴰⵏ        | Haricot           | Bean                         |               | ![Image237][Img237] |
+| 237 | Lubyan         | ⵍⵓⴱⵢⴰⵏ         | Haricot           | Bean                         |               | ![Image237][Img237] |
 | 238 | Ibawen         | ⵉⴱⴰⵡⴻⵏ        | Fèves             | Broad bean                   |               | ![Image238][Img238] |
 | 239 | Aẓṛu           | ⴰⵥⵕⵓ          | Pierre            | Stone                        |               | ![Image239][Img239] |
-| 240 | Qqim           | ⵇⵇⵉⵎ           | S'asseoir         | To sit down                  |               | ![Image240][Img240] |
+| 240 | Qqim           | ⵇⵇⵉⵎ          | S'asseoir         | To sit down                  |               | ![Image240][Img240] |
+| 241 | xx             | xx            | xx                | xx                            |               | ![Image241][Img241] |
+| 242 | xx             | xx            | xx                | xx                            |               | ![Image242][Img242] |
+| 243 | xx             | xx            | xx                | xx                            |               | ![Image243][Img243] |
+| 244 | xx             | xx            | xx                | xx                            |               | ![Image244][Img244] |
+| 245 | xx             | xx            | xx                | xx                            |               | ![Image245][Img245] |
+| 246 | xx             | xx            | xx                | xx                            |               | ![Image246][Img246] |
+| 247 | xx             | xx            | xx                | xx                            |               | ![Image247][Img247] |
+| 248 | xx             | xx            | xx                | xx                            |               | ![Image248][Img248] |
+| 249 | xx             | xx            | xx                | xx                            |               | ![Image249][Img249] |
+| 250 | xx             | xx            | xx                | xx                            |               | ![Image250][Img250] |
 
 
 
@@ -92,3 +102,13 @@ Images de 201 à 300
 [Img238]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/238.png
 [Img239]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/239.png
 [Img240]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/240.png
+[Img241]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/241.png
+[Img242]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/242.png
+[Img243]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/243.png
+[Img244]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/244.png
+[Img245]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/245.png
+[Img246]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/246.png
+[Img247]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/247.png
+[Img248]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/248.png
+[Img249]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/249.png
+[Img250]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/250.png
