@@ -21,31 +21,31 @@ Images de 201 à 300
 | 213 | S tadist       | ⵙ ⵜⴰⴷⵉⵙⵜ      | Enceinte          | Pregnant                     | حامل          | ![Image213][Img213] |
 | 214 | Tamart         | ⵜⴰⵎⴰⵔⵜ         | Menton            | Chin                         | ذقن           | ![Image214][Img214] |
 | 215 | Ɣli            | ⵖⵍⵉ            | Tomber            | Fall, Fall down              | سقط           | ![Image215][Img215] |
-| 216 | Afenǧal        |                | Tasse             | Cup                          |               | ![Image216][Img216] |
-| 217 | Wwet afus      |                | Applaudir         | Applaud, Clap                |               | ![Image217][Img217] |
-| 218 | Ɣeṛ            |                | Lire              | Read                         |               | ![Image218][Img218] |
-| 219 | Adlis          |                | Livre             | Book                         |               | ![Image219][Img219] |
-| 220 | Ddu, Lḥu       |                | Marcher           | To walk                      |               | ![Image220][Img220] |
-| 221 | Eḍs            |                | Rire              | To laugh                     |               | ![Image221][Img221] |
-| 222 | Ticraḍ         |                | Tatouage          | Tattoo                       |               | ![Image222][Img222] |
-| 223 | Ṭumaṭic        |                | Tomate            | Tomato                       |               | ![Image223][Img223] |
-| 224 | Lkaɣeḍ         |                | Papier            | Paper                        |               | ![Image224][Img224] |
-| 225 | Tasa           |                | Amour parental    | Parental love                |               | ![Image225][Img225] |
-| 226 | Tisegnit       |                | Aiguille          | Needle                       |               | ![Image226][Img226] |
-| 227 | Itbir          |                | Pigeon            | Pigeon                       |               | ![Image227][Img227] |
-| 228 | Tajeǧǧigt      |                | Fleur             | Flower                       |               | ![Image228][Img228] |
-| 229 | Lqaṛes         |                | Citron            | Lemon                        |               | ![Image229][Img229] |
-| 230 | Cnu            |                | Chanter           | To sing                      |               | ![Image230][Img230] |
-| 231 | Snitra         |                | Guitare           | Guitar                       |               | ![Image231][Img231] |
-| 232 | Amrar          |                | Corde             | Rope                         |               | ![Image232][Img232] |
-| 233 | Ajenwi         |                | Poignard          | Dagger                       |               | ![Image233][Img233] |
-| 234 | Ifri           |                | Grotte, Caverne   | Cave                         |               | ![Image234][Img234] |
-| 235 | Gzem           |                | Couper            | To cut                       |               | ![Image235][Img235] |
-| 236 | Tagerfa        |                | Corbeau           | Crow                         |               | ![Image236][Img236] |
-| 237 | Lubyan         |                | Haricot           | Bean                         |               | ![Image237][Img237] |
-| 238 | Ibawen         |                | Fèves             | Broad bean                   |               | ![Image238][Img238] |
-| 239 | Aẓṛu           |                | Pierre            | Stone                        |               | ![Image239][Img239] |
-| 240 | Qqim           |                | S'asseoir         | To sit down                  |               | ![Image240][Img240] |
+| 216 | Afenǧal        | ⴰⴼⴻⵏⴵⴰⵍ        | Tasse             | Cup                          |               | ![Image216][Img216] |
+| 217 | Wwet afus      | ⵡⵡⴻⵜ ⴰⴼⵓⵙ    | Applaudir         | Applaud, Clap                |               | ![Image217][Img217] |
+| 218 | Ɣeṛ            | ⵖⴻⵕ           | Lire              | Read                         |               | ![Image218][Img218] |
+| 219 | Adlis          | ⴰⴷⵍⵉⵙ         | Livre             | Book                         |               | ![Image219][Img219] |
+| 220 | Ddu, Lḥu       | ⴷⴷⵓ, ⵍⵃⵓ      | Marcher           | To walk                      |               | ![Image220][Img220] |
+| 221 | Eḍs            | ⴷⴹⵙ           | Rire              | To laugh                     |               | ![Image221][Img221] |
+| 222 | Ticraḍ         | ⵜⵉⵛⵔⴰⴹ        | Tatouage          | Tattoo                       |               | ![Image222][Img222] |
+| 223 | Ṭumaṭic        | ⵟⵓⵎⴰⵟⵉⵛ        | Tomate            | Tomato                       |               | ![Image223][Img223] |
+| 224 | Lkaɣeḍ         | ⵍⴽⴰⵖⴻⴹ        | Papier            | Paper                        |               | ![Image224][Img224] |
+| 225 | Tasa           | ⵜⴰⵙⴰ          | Amour parental    | Parental love                |               | ![Image225][Img225] |
+| 226 | Tisegnit       | ⵜⵉⵙⴻⴳⵏⵉⵜ      | Aiguille          | Needle                       |               | ![Image226][Img226] |
+| 227 | Itbir          | ⵉⵜⴱⵉⵔ         | Pigeon            | Pigeon                       |               | ![Image227][Img227] |
+| 228 | Tajeǧǧigt      | ⵜⴰⵊⴻⴵⴵⵉⴳⵜ     | Fleur             | Flower                       |               | ![Image228][Img228] |
+| 229 | Lqaṛes         | ⵍⵇⴰⵕⴻⵙ       | Citron            | Lemon                        |               | ![Image229][Img229] |
+| 230 | Cnu            | ⵛⵏⵓ            | Chanter           | To sing                      |               | ![Image230][Img230] |
+| 231 | Snitra         | ⵙⵏⵉⵜⵔⴰ        | Guitare           | Guitar                       |               | ![Image231][Img231] |
+| 232 | Amrar          | ⴰⵎⵔⴰⵔ         | Corde             | Rope                         |               | ![Image232][Img232] |
+| 233 | Ajenwi         | ⴰⵊⴻⵏⵡⵉ         | Poignard          | Dagger                       |               | ![Image233][Img233] |
+| 234 | Ifri           | ⵉⴼⵔⵉ          | Grotte, Caverne   | Cave                         |               | ![Image234][Img234] |
+| 235 | Gzem           | ⴳⵣⴻⵎ          | Couper            | To cut                       |               | ![Image235][Img235] |
+| 236 | Tagerfa        | ⵜⴰⴳⴻⵔⴼⴰ      | Corbeau           | Crow                         |               | ![Image236][Img236] |
+| 237 | Lubyan         | ⵍⵓⴱⵢⴰⵏ        | Haricot           | Bean                         |               | ![Image237][Img237] |
+| 238 | Ibawen         | ⵉⴱⴰⵡⴻⵏ        | Fèves             | Broad bean                   |               | ![Image238][Img238] |
+| 239 | Aẓṛu           | ⴰⵥⵕⵓ          | Pierre            | Stone                        |               | ![Image239][Img239] |
+| 240 | Qqim           | ⵇⵇⵉⵎ           | S'asseoir         | To sit down                  |               | ![Image240][Img240] |
 
 
 
