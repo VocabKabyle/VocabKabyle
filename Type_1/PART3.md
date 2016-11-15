@@ -56,7 +56,6 @@ Images de 201 à 300
 | 248 | Axuxi          | xx             | Rose                          | Pink                         |               | ![Image248][Img248] |
 | 249 | Tazeqqa        | xx             | Maison traditionnelle Amazigh | Traditional Amazigh house    |               | ![Image249][Img249] |
 | 250 | Igider         | xx             | Aigle royal                   | Golden eagle                 |               | ![Image250][Img250] |
-| 250 | xx             | xx             | xx                            | xx                           |               | ![Image250][Img250] |
 | 251 | xx             | xx             | xx                            | xx                           |               | ![Image251][Img251] |
 | 252 | xx             | xx             | xx                            | xx                           |               | ![Image252][Img252] |
 | 253 | xx             | xx             | xx                            | xx                           |               | ![Image253][Img253] |
