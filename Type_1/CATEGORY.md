@@ -1,6 +1,8 @@
 # VocabKabyle
 ## Description
 
+<*__Projet en cours de construction__*>
+
 Catégorisation des images vocabulaire
 
 ## Liste
