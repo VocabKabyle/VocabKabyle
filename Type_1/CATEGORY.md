@@ -4,5 +4,6 @@
 Catégorisation des images vocabulaire
 
 ## Liste
-| Id                | Français        | Anglais             | Liste des images      |
-|-------------------|-----------------|---------------------|-----------------------|
+| Id catégorie               | Français        | Anglais             | Liste des images      |
+|----------------------------|-----------------|---------------------|-----------------------|
+| 1                          | Corps humain    | Human body          | 1,7,8,19,60 ...       |
