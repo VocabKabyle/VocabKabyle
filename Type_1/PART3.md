@@ -56,6 +56,17 @@ Images de 201 à 300
 | 248 | Axuxi          | xx             | Rose                          | Pink                         |               | ![Image248][Img248] |
 | 249 | Tazeqqa        | xx             | Maison traditionnelle Amazigh | Traditional Amazigh house    |               | ![Image249][Img249] |
 | 250 | Igider         | xx             | Aigle royal                   | Golden eagle                 |               | ![Image250][Img250] |
+| 250 | xx             | xx             | xx                            | xx                           |               | ![Image250][Img250] |
+| 251 | xx             | xx             | xx                            | xx                           |               | ![Image251][Img251] |
+| 252 | xx             | xx             | xx                            | xx                           |               | ![Image252][Img252] |
+| 253 | xx             | xx             | xx                            | xx                           |               | ![Image253][Img253] |
+| 254 | xx             | xx             | xx                            | xx                           |               | ![Image254][Img254] |
+| 255 | xx             | xx             | xx                            | xx                           |               | ![Image255][Img255] |
+| 256 | xx             | xx             | xx                            | xx                           |               | ![Image256][Img256] |
+| 257 | xx             | xx             | xx                            | xx                           |               | ![Image257][Img257] |
+| 258 | xx             | xx             | xx                            | xx                           |               | ![Image258][Img258] |
+| 259 | xx             | xx             | xx                            | xx                           |               | ![Image259][Img259] |
+| 260 | xx             | xx             | xx                            | xx                           |               | ![Image260][Img260] |
 
 
 
@@ -113,3 +124,13 @@ Images de 201 à 300
 [Img248]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/248.png
 [Img249]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/249.png
 [Img250]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/250.png
+[Img251]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/251.png
+[Img252]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/252.png
+[Img253]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/253.png
+[Img254]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/254.png
+[Img255]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/255.png
+[Img256]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/256.png
+[Img257]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/257.png
+[Img258]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/258.png
+[Img259]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/259.png
+[Img260]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/260.png
