@@ -56,16 +56,16 @@ Images de 201 à 300
 | 248 | Axuxi          | xx             | Rose                          | Pink                         |               | ![Image248][Img248] |
 | 249 | Tazeqqa        | xx             | Maison traditionnelle Amazigh | Traditional Amazigh house    |               | ![Image249][Img249] |
 | 250 | Igider         | xx             | Aigle royal                   | Golden eagle                 |               | ![Image250][Img250] |
-| 251 | xx             | xx             | xx                            | xx                           |               | ![Image251][Img251] |
-| 252 | xx             | xx             | xx                            | xx                           |               | ![Image252][Img252] |
-| 253 | xx             | xx             | xx                            | xx                           |               | ![Image253][Img253] |
-| 254 | xx             | xx             | xx                            | xx                           |               | ![Image254][Img254] |
-| 255 | xx             | xx             | xx                            | xx                           |               | ![Image255][Img255] |
-| 256 | xx             | xx             | xx                            | xx                           |               | ![Image256][Img256] |
-| 257 | xx             | xx             | xx                            | xx                           |               | ![Image257][Img257] |
-| 258 | xx             | xx             | xx                            | xx                           |               | ![Image258][Img258] |
-| 259 | xx             | xx             | xx                            | xx                           |               | ![Image259][Img259] |
-| 260 | xx             | xx             | xx                            | xx                           |               | ![Image260][Img260] |
+| 251 | Kmez           | xx             | Gratter                       | To scratch                   |               | ![Image251][Img251] |
+| 252 | Akwer          | xx             | Voler                         | To steal                     |               | ![Image252][Img252] |
+| 253 | Afeg           | xx             | Voler                         | To fly                       |               | ![Image253][Img253] |
+| 254 | Igellil, Aẓawali | xx             | Pauvre                        | Poor                         |               | ![Image254][Img254] |
+| 255 | Self           | xx             | Caresser                      | To stroke                    |               | ![Image255][Img255] |
+| 256 | Iqaciṛen       | xx             | Chaussettes                   | Socks                        |               | ![Image256][Img256] |
+| 257 | Nnaɣ           | xx             | Se disputer                   | To quarrel, To argue         |               | ![Image257][Img257] |
+| 258 | Adrim, Asuṛdi  | xx             | Argent                        | Money                        |               | ![Image258][Img258] |
+| 259 | Zenz           | xx             | Vendre                        | To sell                      |               | ![Image259][Img259] |
+| 260 | Takeṛmust      | xx             | Figue de Barbarie             | Prickly pear                 |               | ![Image260][Img260] |
 
 
 
