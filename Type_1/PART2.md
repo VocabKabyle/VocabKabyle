@@ -10,8 +10,8 @@ Images de 101 à 200
 | 102 | Tizizwitt           | ⵜⵉⵣⵉⵣⵡⵉⵜⵜ           | Abeille             | Bee                      | نحلة        | ![Image102][Img102] |
 | 103 | Tixsi               | ⵜⵉⵅⵙⵉ               | Brebis              | Sheep                    | نعجة        | ![Image103][Img103] |
 | 104 | Aɣyul               | ⴰⵖⵢⵓⵍ               | Âne                 | Donkey                   | حمار        | ![Image104][Img104] |
-| 105 | Wa, Wagi            | ⵡⴰ, ⵡⴰⴳⵉ            | Ça, Celui-ci        | This, This one           | هذا         | ![Image105][Img105] |
-| 106 | Tugwdi              | ⵜⵓⴳⵡⴷⵉ              | La peur             | The fear                 | الخوف       | ![Image106][Img106] |
+| 105 | Wa, Wagi            | ⵡⴰ, ⵡⴰⴳⵉ           | Ça, Celui-ci        | This, This one           | هذا         | ![Image105][Img105] |
+| 106 | Tugdi               | ⵜⵓⴳⴷⵉ              | La peur             | The fear                 | الخوف       | ![Image106][Img106] |
 | 107 | Igenni              | ⵉⴳⴻⵏⵏⵉ              | Ciel                | Sky                      | السماء      | ![Image107][Img107] |
 | 108 | Tudert              | ⵜⵓⴷⴻⵔⵜ              | La vie              | The life                 | الحياة      | ![Image108][Img108] |
 | 109 | Itri                | ⵉⵜⵔⵉ                | Étoile              | Star                     | نجمة, نجم   | ![Image109][Img109] |
@@ -20,7 +20,7 @@ Images de 101 à 200
 | 112 | Tiɣirdemt           | ⵜⵉⵖⵉⵔⴷⴻⵎⵜ           | Scorpion            | Scorpion                 | عقرب        | ![Image112][Img112] |
 | 113 | Afekrun, Ifker      | ⴰⴼⴻⴽⵔⵓⵏ, ⵉⴼⴽⴻⵔ      | Tortue              | Turtle                   | سلحفاة      | ![Image113][Img113] |
 | 114 | Bururu              | ⴱⵓⵔⵓⵔⵓ              | Hibou               | Owl                      | بومة        | ![Image114][Img114] |
-| 115 | Tiferllest          | ⵜⵉⴼⴻⵔⵍⵍⴻⵙⵜ          | Hirondelle          | Swallow                  | سنونو       | ![Image115][Img115] |
+| 115 | Tiferellest         | ⵜⵉⴼⴻⵔⵍⵍⴻⵙⵜ          | Hirondelle          | Swallow                  | سنونو       | ![Image115][Img115] |
 | 116 | Tamart              | ⵜⴰⵎⴰⵔⵜ              | Barbe               | Beard                    | لحية        | ![Image116][Img116] |
 | 117 | Claɣem              | ⵛⵍⴰⵖⴻⵎ              | Moustache           | Moustache, Mustache      | شارب        | ![Image117][Img117] |
 | 118 | Tilelli             | ⵜⵉⵍⴻⵍⵍⵉ             | Liberté             | Freedom                  | حرية        | ![Image118][Img118] |
@@ -75,12 +75,12 @@ Images de 101 à 200
 | 167 | Enɣ                 | ⴻⵏⵖ                 | Tuer                | To kill                  | قتل            | ![Image167][Img167] |
 | 168 | Aɣenjuṛ             | ⴰⵖⴻⵏⵊⵓⵕ             | Nez aquilin         | Roman nose               | معقوف الأنف       | ![Image168][Img168] |
 | 169 | Timesrifegt         | ⵜⵉⵎⴻⵙⵔⵉⴼⴻⴳⵜ         | Avion               | Airplane, Plane          | طائرة            | ![Image169][Img169] |
-| 170 | Baba                | ⴱⴰⴱⴰ                | Papa                | Dad, Daddy               | بابا            | ![Image170][Img170] |
+| 170 | Baba (vava)         | ⴱⴰⴱⴰ                | Papa                | Dad, Daddy               | بابا            | ![Image170][Img170] |
 | 171 | Settut              | ⵙⴻⵜⵜⵓⵜ              | Sorcière            | Witch                    | ساحرة            | ![Image171][Img171] |
 | 172 | Ṭṭes, Gen           | ⵟⵟⴻⵙ, ⴳⴻⵏ           | Dormir              | To sleep                 | نام            | ![Image172][Img172] |
 | 173 | Latay               | ⵍⴰⵜⴰⵢ               | Thé                 | Tea                      | شاي            | ![Image173][Img173] |
 | 174 | Akli                | ⴰⴽⵍⵉ                | Esclave             | Slave                    | عبد            | ![Image174][Img174] |
-| 175 | Taneqwlett          | ⵜⴰⵏⴻⵇⵡⵍⴻⵜⵜ          | Figuier             | Fig tree                 | شجرة التين            | ![Image175][Img175] |
+| 175 | Tanqelt             | ⵜⴰⵏⵇⴻⵍⵜ              | Figuier             | Fig tree                 | شجرة التين            | ![Image175][Img175] |
 | 176 | Tazemmurt           | ⵜⴰⵣⴻⵎⵎⵓⵔⵜ           | Olivier             | Olive tree               | شجرة الزيتون     | ![Image176][Img176] |
 | 177 | Tafrara             | ⵜⴰⴼⵔⴰⵔⴰ             | Aube, Lever du jour | Daybreak, Sunrise        | الفجر            | ![Image177][Img177] |
 | 178 | Tagut               | ⵜⴰⴳⵓⵜ               | Brouillard          | Fog                      | ضباب            | ![Image178][Img178] |
@@ -90,17 +90,17 @@ Images de 101 à 200
 | 182 | Aḍebsi              | ⴰⴹⴻⴱⵙⵉ              | Assiette            | Plate                    | طبق             | ![Image182][Img182] |
 | 183 | Tili                | ⵜⵉⵍⵉ                | Ombre               | Shadow                   | الظل            | ![Image183][Img183] |
 | 184 | Azzel               | ⴰⵣⵣⴻⵍ               | Courir              | To run                   | جري            | ![Image184][Img184] |
-| 185 | Tiflewt, Taɣwenjawt | ⵜⵉⴼⵍⴻⵡⵜ, ⵜⴰⵖⵡⴻⵏⵊⴰⵡⵜ | Cuillère            | Spoon                    | ملعقة            | ![Image185][Img185] |
+| 185 | Tiflewt, Taɣenjawt  | ⵜⵉⴼⵍⴻⵡⵜ, ⵜⴰⵖⴻⵏⵊⴰⵡⵜ | Cuillère            | Spoon                    | ملعقة            | ![Image185][Img185] |
 | 186 | Iɣes                | ⵉⵖⴻⵙ                | Os                  | Bone                     | عظم            | ![Image186][Img186] |
 | 187 | Tamessaṭ            | ⵜⴰⵎⴻⵙⵙⴰⵟ            | Cuisse              | Thigh                    | فخذ            | ![Image187][Img187] |
 | 188 | Imawlan             | ⵉⵎⴰⵡⵍⴰⵏ             | Les parents         | The parents              | الوالدين            | ![Image188][Img188] |
 | 189 | Aḥelluf             | ⴰⵃⴻⵍⵍⵓⴼ             | Cochon, Porc        | Pig, Pork                | خنزير, لحم الخنزير   | ![Image189][Img189] |
-| 190 | Atmaten             | ⴰⵜⵎⴰⵜⴻⵏ             | Frères et sœurs     | Siblings                 | الأخوة والأخوات       | ![Image190][Img190] |
+| 190 | Atmaten             | ⴰⵜⵎⴰⵜⴻⵏ              | Frères et sœurs     | Siblings                 | الأخوة والأخوات       | ![Image190][Img190] |
 | 191 | Ṣṣabun              | ⵚⵚⴰⴱⵓⵏ              | Savon               | Soap                     | صابون            | ![Image191][Img191] |
-| 192 | Amqweṛqweṛ          | ⴰⵎⵇⵡⴻⵕⵇⵡⴻⵕ          | Crapaud             | Toad                     | علجوم            | ![Image192][Img192] |
+| 192 | Amqeṛqeṛ            | ⴰⵎⵇⴻⵕⵇⴻⵕ           | Crapaud             | Toad                     | علجوم            | ![Image192][Img192] |
 | 193 | Tifirest            | ⵜⵉⴼⵉⵔⴻⵙⵜ            | Une poire           | A pear                   | الكمثرى         | ![Image193][Img193] |
 | 194 | Tasarutt            | ⵜⴰⵙⴰⵔⵓⵜⵜ            | Clef, Clé           | Key                      | مفتاح            | ![Image194][Img194] |
-| 195 | Tagwerselt          | ⵜⴰⴳⵡⴻⵔⵙⴻⵍⵜ          | Champignon          | Mushroom                 | فطر            | ![Image195][Img195] |
+| 195 | Tagerselt           | ⵜⴰⴳⴻⵔⵙⴻⵍⵜ           | Champignon          | Mushroom                 | فطر            | ![Image195][Img195] |
 | 196 | Taxxamt             | ⵜⴰⵅⵅⴰⵎⵜ             | Chambre             | Room                     | غرفة            | ![Image196][Img196] |
 | 197 | Tayaziḍt            | ⵜⴰⵢⴰⵣⵉⴹⵜ            | Poule               | Chicken                  | دجاجة            | ![Image197][Img197] |
 | 198 | Taxxamt n tguni     | ⵜⴰⵅⵅⴰⵎⵜ ⵏ ⵜⴳⵓⵏⵉ     | Chambre à coucher   | Bedroom                  | غرفةالنوم        | ![Image198][Img198] |
