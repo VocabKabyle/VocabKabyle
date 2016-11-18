@@ -7,8 +7,8 @@ Images de 201 à 300
 | Id  | Kabyle         | Tifinagh       | Français                      | Anglais                      | Arabe         | Image               |
 |-----|----------------|----------------|-------------------------------|------------------------------|---------------|---------------------|
 | 201 | Bibb           | ⴱⵉⴱⴱ          | Porter sur le dos             | Carry on the back, Piggyback | حمل على الظهر | ![Image201][Img201] |
-| 202 | Taεekkwazt     | ⵜⴰⵄⴻⴽⴽⵡⴰⵣⵜ     | Canne                         | Cane                         | قصب           | ![Image202][Img202] |
-| 203 | Tiɣwmeṛt       | ⵜⵉⵖⵡⵎⴻⵕⵜ       | Coude                         | Elbow                        | كوع           | ![Image203][Img203] |
+| 202 | Taεekkazt      | ⵜⴰⵄⴻⴽⴽⴰⵣⵜ      | Canne                         | Cane                         | قصب           | ![Image202][Img202] |
+| 203 | Tiɣmeṛt        | ⵜⵉⵖⵎⴻⵕⵜ        | Coude                         | Elbow                        | كوع           | ![Image203][Img203] |
 | 204 | Aɣeṛbaz        | ⴰⵖⴻⵕⴱⴰⵣ       | École                         | School                       | مدرسة         | ![Image204][Img204] |
 | 205 | Aqeggel        | ⴰⵇⴻⴳⴳⴻⵍ        | Sieste                        | Siesta                       | قيلولة        | ![Image205][Img205] |
 | 206 | Tislit n unẓar | ⵜⵉⵙⵍⵉⵜ ⵏ ⵓⵏⵥⴰⵔ | Arc-en-ciel                   | Rainbow                      | قوس قزح       | ![Image206][Img206] |
@@ -48,7 +48,7 @@ Images de 201 à 300
 | 240 | Qqim           | ⵇⵇⵉⵎ           | S'asseoir                     | To sit down                  | جلس           | ![Image240][Img240] |
 | 241 | Taqecwalt      | xx             | Panier                        | Basket                       |               | ![Image241][Img241] |
 | 242 | Izimer         | xx             | Agneau                        | Lamb                         |               | ![Image242][Img242] |
-| 243 | alɣwem         | xx             | Dromadaire                    | Dromedary, Arabian camel     |               | ![Image243][Img243] |
+| 243 | Alɣem          | xx             | Dromadaire                    | Dromedary, Arabian camel     |               | ![Image243][Img243] |
 | 244 | Ticcert        | xx             | Ail                           | Garlic                       |               | ![Image244][Img244] |
 | 245 | Tifeɣwett      | xx             | Artichaut                     | Artichoke                    |               | ![Image245][Img245] |
 | 246 | Ayefki         | xx             | Lait                          | Milk                         |               | ![Image246][Img246] |
