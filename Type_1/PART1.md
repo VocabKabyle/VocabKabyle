@@ -26,7 +26,7 @@ Images de 1 à 100
 | 17                | Degger, Demmer       | ⴷⴻⴳⴳⴻⵔ, ⴷⴻⵎⵎⴻⵔ       | Pousser         | To push             | دفع            | ![Image17][Img17]   |
 | 18                | Tadukkli             | ⵜⴰⴷⵓⴽⴽⵍⵉ             | L'union         | The union           | الاتحاد        | ![Image18][Img18]   |
 | 19                | Anzaren              | ⴰⵏⵣⴰⵔⴻⵏ              | Nez             | Nose                | أنف            | ![Image19][Img19]   |
-| 20                | Ansuf yis-wen        | ⴰⵏⵚⵓⴼ ⵢⵉⵙ-ⵡⴻⵏ        | Bienvenue       | Welcome             | مرحبا بكم      | ![Image20][Img20]   |
+| 20                | Anṣuf yis-wen        | ⴰⵏⵚⵓⴼ ⵢⵉⵙ-ⵡⴻⵏ        | Bienvenue       | Welcome             | مرحبا بكم      | ![Image20][Img20]   |
 | 21                | Seksu                | ⵙⴻⴽⵙⵓ                | Couscous        | Couscous            | الكسكس         | ![Image21][Img21]   |
 | 22                | Zegger,Zger          | ⵣⴻⴳⴰⵔ, ⵣⴳⴻⵔ          | Traverser       | To cross            | عبر            | ![Image22][Img22]   |
 | 23                | Σeggeḍ               | ⵄⴻⴳⴳⴻⴹ               | Crier           | To scream           | صرخ            | ![Image23][Img23]   |
@@ -35,10 +35,10 @@ Images de 1 à 100
 | 26                | Azul                 | ⴰⵣⵓⵍ                 | Salut           | Hello               | سلام           | ![Image26][Img26]   |
 | 27                | Yemma                | ⵢⴻⵎⵎⴰ                | Maman           | Mom                 | أمي            | ![Image27][Img27]   |
 | 28                | Amellal, Acebḥan     | ⴰⵎⴻⵍⵍⴰⵍ, ⴰⵛⴻⴱⵃⴰⵏ     | Blanc           | White               | أبيض           | ![Image28][Img28]   |
-| 29                | Azeggwaɣ             | ⴰⵣⴻⴳⴳⵡⴰⵖ             | Rouge           | Red                 | أحمر           | ![Image29][Img29]   |
+| 29                | Azeggaɣ              | ⴰⵣⴻⴳⴳⵡⴰⵖ             | Rouge           | Red                 | أحمر           | ![Image29][Img29]   |
 | 30                | Azegzaw              | ⴰⵣⴻⴳⵣⴰⵡ              | Vert            | Green               | أخضر           | ![Image30][Img30]   |
 | 31                | Aberkan              | ⴰⴱⴰⵔⴽⴰⵏ              | Noir            | Black               | أسود           | ![Image31][Img31]   |
-| 32                | Azeggwaɣ             | ⴰⵣⴻⴳⴳⴰⵖ              | Bleu            | Blue                | أزرق           | ![Image32][Img32]   |
+| 32                | Azegzaw              | ⴰⵣⴻⴳⴳⴰⵖ              | Bleu            | Blue                | أزرق           | ![Image32][Img32]   |
 | 33                | Imi, Aqemmuc         | ⵉⵎⵉ, ⴰⵇⴻⵎⵎⵓⵛ         | Bouche          | Mouth               | فم             | ![Image33][Img33]   |
 | 34                | Acenfir              | ⴰⵛⴻⵏⴼⵉⵔ              | Lèvre           | Lip                 | شفة            | ![Image34][Img34]   |
 | 35                | Ameẓẓuɣ              | ⴰⵎⴻⵥⵥⵓⵖ              | Oreille         | Ear                 | إذن            | ![Image35][Img35]   |
@@ -102,11 +102,11 @@ Images de 1 à 100
 | 93                | Tabbuct              | ⵜⴰⴱⴱⵓⵛⵜ              | Sein            | Breast              | ثدي            | ![Image93][Img93]   |
 | 94                | Nnal                 | ⵏⵏⴰⵍ                 | Toucher         | Touch               | لمس            | ![Image94][Img94]   |
 | 95                | Tismin               | ⵜⵉⵙⵎⵉⵏ               | Jalousie        | Jealousy            | غيرة           | ![Image95][Img95]   |
-| 96                | Amddakwel            | ⴰⵎⴷⴷⴰⴽⵡⴻⵍ            | Un ami          | A friend            | صديق           | ![Image96][Img96]   |
+| 96                | Amddakel            | ⴰⵎⴷⴷⴰⴽⵡⴻⵍ            | Un ami          | A friend            | صديق           | ![Image96][Img96]   |
 | 97                | Azagur, Aεrur        | ⴰⵣⴰⴳⵓⵔ, ⴰⵄⵔⵓⵔ        | Dos             | Back                | ظهر            | ![Image97][Img97]   |
 | 98                | Idammen              | ⵉⴷⴰⵎⵎⴻⵏ              | Sang            | Blood               | دم             | ![Image98][Img98]   |
 | 99                | Lmus                 | ⵍⵎⵓⵙ                 | Couteau         | Knife               | سكين           | ![Image99][Img99]   |
-| 100               | Zzit uzemmur         | ⵣⵣⵉⵜ ⵓⵣⴻⵎⵎⵓⵔ         | Huile d'olive   | Olive oil           | زيت الزيتون    | ![Image100][Img100] |
+| 100               | Zzit uzemmur         | ⵣⵣⵉⵜ ⵓⵣⴻⵎⵎⵓⵔ        | Huile d'olive   | Olive oil           | زيت الزيتون    | ![Image100][Img100] |
 
 
 
