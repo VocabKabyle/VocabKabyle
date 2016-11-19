@@ -158,6 +158,7 @@ Images de 201 à 300
 [Img268]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/268.png
 [Img269]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/269.png
 [Img270]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/270.png
+[Img271]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/271.png
 [Img272]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/272.png
 [Img273]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/273.png
 [Img274]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/274.png
