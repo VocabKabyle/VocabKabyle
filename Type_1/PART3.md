@@ -66,6 +66,21 @@ Images de 201 à 300
 | 258 | Adrim, Asuṛdi  | xx             | Argent                        | Money                        |               | ![Image258][Img258] |
 | 259 | Zenz           | xx             | Vendre                        | To sell                      |               | ![Image259][Img259] |
 | 260 | Takeṛmust      | xx             | Figue de Barbarie             | Prickly pear                 |               | ![Image260][Img260] |
+| 261 | xx             | xx             | xx                            | xx                           |               | ![Image261][Img261] |
+| 262 | xx             | xx             | xx                            | xx                           |               | ![Image262][Img262] |
+| 263 | xx             | xx             | xx                            | xx                           |               | ![Image263][Img263] |
+| 264 | xx             | xx             | xx                            | xx                           |               | ![Image264][Img264] |
+| 265 | xx             | xx             | xx                            | xx                           |               | ![Image265][Img265] |
+| 266 | xx             | xx             | xx                            | xx                           |               | ![Image266][Img266] |
+| 267 | xx             | xx             | xx                            | xx                           |               | ![Image267][Img267] |
+| 268 | xx             | xx             | xx                            | xx                           |               | ![Image268][Img268] |
+| 269 | xx             | xx             | xx                            | xx                           |               | ![Image269][Img269] |
+| 270 | xx             | xx             | xx                            | xx                           |               | ![Image270][Img270] |
+| 271 | xx             | xx             | xx                            | xx                           |               | ![Image271][Img271] |
+| 272 | xx             | xx             | xx                            | xx                           |               | ![Image272][Img272] |
+| 273 | xx             | xx             | xx                            | xx                           |               | ![Image273][Img273] |
+| 274 | xx             | xx             | xx                            | xx                           |               | ![Image274][Img274] |
+| 275 | xx             | xx             | xx                            | xx                           |               | ![Image275][Img275] |
 
 
 
@@ -133,3 +148,17 @@ Images de 201 à 300
 [Img258]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/258.png
 [Img259]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/259.png
 [Img260]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/260.png
+[Img261]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/261.png
+[Img262]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/262.png
+[Img263]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/263.png
+[Img264]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/264.png
+[Img265]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/265.png
+[Img266]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/266.png
+[Img267]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/267.png
+[Img268]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/268.png
+[Img269]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/269.png
+[Img270]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/270.png
+[Img272]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/272.png
+[Img273]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/273.png
+[Img274]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/274.png
+[Img275]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/275.png
