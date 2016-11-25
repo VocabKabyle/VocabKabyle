@@ -46,26 +46,26 @@ Images de 201 à 300
 | 238 | Ibawen         | ⵉⴱⴰⵡⴻⵏ         | Fèves                         | Broad bean                   | فول            | ![Image238][Img238] |
 | 239 | Aẓṛu           | ⴰⵥⵕⵓ           | Pierre                        | Stone                        | حجر           | ![Image239][Img239] |
 | 240 | Qqim           | ⵇⵇⵉⵎ           | S'asseoir                     | To sit down                  | جلس           | ![Image240][Img240] |
-| 241 | Taqecwalt      | xx             | Panier                        | Basket                       |               | ![Image241][Img241] |
-| 242 | Izimer         | xx             | Agneau                        | Lamb                         |               | ![Image242][Img242] |
-| 243 | Alɣem          | xx             | Dromadaire                    | Dromedary, Arabian camel     |               | ![Image243][Img243] |
-| 244 | Ticcert        | xx             | Ail                           | Garlic                       |               | ![Image244][Img244] |
-| 245 | Tifeɣwett      | xx             | Artichaut                     | Artichoke                    |               | ![Image245][Img245] |
-| 246 | Ayefki         | xx             | Lait                          | Milk                         |               | ![Image246][Img246] |
-| 247 | Awṛaɣ          | xx             | Jaune                         | Yellow                       |               | ![Image247][Img247] |
-| 248 | Axuxi          | xx             | Rose                          | Pink                         |               | ![Image248][Img248] |
-| 249 | Tazeqqa        | xx             | Maison traditionnelle Amazigh | Traditional Amazigh house    |               | ![Image249][Img249] |
-| 250 | Igider         | xx             | Aigle royal                   | Golden eagle                 |               | ![Image250][Img250] |
-| 251 | Kmez           | xx             | Gratter                       | To scratch                   |               | ![Image251][Img251] |
-| 252 | Akwer          | xx             | Voler                         | To steal                     |               | ![Image252][Img252] |
-| 253 | Afeg           | xx             | Voler                         | To fly                       |               | ![Image253][Img253] |
-| 254 | Igellil, Aẓawali | xx             | Pauvre                        | Poor                         |               | ![Image254][Img254] |
-| 255 | Self           | xx             | Caresser                      | To stroke                    |               | ![Image255][Img255] |
-| 256 | Iqaciṛen       | xx             | Chaussettes                   | Socks                        |               | ![Image256][Img256] |
-| 257 | Nnaɣ           | xx             | Se disputer                   | To quarrel, To argue         |               | ![Image257][Img257] |
-| 258 | Adrim, Asuṛdi  | xx             | Argent                        | Money                        |               | ![Image258][Img258] |
-| 259 | Zenz           | xx             | Vendre                        | To sell                      |               | ![Image259][Img259] |
-| 260 | Takeṛmust      | xx             | Figue de Barbarie             | Prickly pear                 |               | ![Image260][Img260] |
+| 241 | Taqecwalt      | ⵜⴰⵇⴻⵛⵡⴰⵍⵜ     | Panier                        | Basket                       |               | ![Image241][Img241] |
+| 242 | Izimer         | ⵉⵣⵉⵎⴻⵔ        | Agneau                        | Lamb                         |               | ![Image242][Img242] |
+| 243 | Alɣem          | ⴰⵍⵖⴻⵎ         | Dromadaire                    | Dromedary, Arabian camel     |               | ![Image243][Img243] |
+| 244 | Ticcert        | ⵜⵉⵛⵛⴻⵔⵜ      | Ail                           | Garlic                       |               | ![Image244][Img244] |
+| 245 | Tifeɣwett      | ⵜⵉⴼⴻⵖⵡⴻⵜⵜ    | Artichaut                     | Artichoke                    |               | ![Image245][Img245] |
+| 246 | Ayefki         | ⴰⵢⴻⴼⴽⵉ        | Lait                          | Milk                         |               | ![Image246][Img246] |
+| 247 | Awṛaɣ          | ⴰⵡⵕⴰⵖ         | Jaune                         | Yellow                       |               | ![Image247][Img247] |
+| 248 | Axuxi          | ⴰⵅⵓⵅⵉ         | Rose                          | Pink                         |               | ![Image248][Img248] |
+| 249 | Tazeqqa        | ⵜⴰⵣⴻⵇⵇⴰ       | Maison traditionnelle Amazigh | Traditional Amazigh house    |               | ![Image249][Img249] |
+| 250 | Igider         | ⵉⴳⵉⴷⴻⵔ        | Aigle royal                   | Golden eagle                 |               | ![Image250][Img250] |
+| 251 | Kmez           | ⴽⵎⴻⵣ           | Gratter                       | To scratch                   |               | ![Image251][Img251] |
+| 252 | Akwer          | ⴰⴽⵡⴻⵔ         | Voler                         | To steal                     |               | ![Image252][Img252] |
+| 253 | Afeg           | ⴰⴼⴻⴳ          | Voler                         | To fly                       |               | ![Image253][Img253] |
+| 254 | Igellil, Aẓawali | ⵉⴳⴻⵍⵍⵉⵍ, ⴰⵥⴰⵡⴰⵍ | Pauvre                        | Poor                         |               | ![Image254][Img254] |
+| 255 | Self           | ⵙⴻⵍⴼ          | Caresser                      | To stroke                    |               | ![Image255][Img255] |
+| 256 | Iqaciṛen       | ⵉⵇⴰⵛⵉⵕⴻⵏ       | Chaussettes                   | Socks                        |               | ![Image256][Img256] |
+| 257 | Nnaɣ           | ⵏⵏⴰⵖ            | Se disputer                   | To quarrel, To argue         |               | ![Image257][Img257] |
+| 258 | Adrim, Asuṛdi  | ⴰⴷⵔⵉⵎ, ⴰⵙⵓⵕⴷⵉ | Argent                        | Money                        |               | ![Image258][Img258] |
+| 259 | Zenz           | ⵣⴻⵏⵣ           | Vendre                        | To sell                      |               | ![Image259][Img259] |
+| 260 | Takeṛmust      | ⵜⴰⴽⴻⵕⵎⵓⵙⵜ    | Figue de Barbarie             | Prickly pear                 |               | ![Image260][Img260] |
 | 261 | xx             | xx             | xx                            | xx                           |               | ![Image261][Img261] |
 | 262 | xx             | xx             | xx                            | xx                           |               | ![Image262][Img262] |
 | 263 | xx             | xx             | xx                            | xx                           |               | ![Image263][Img263] |
