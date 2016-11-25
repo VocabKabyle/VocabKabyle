@@ -18,11 +18,11 @@ Images de 201 à 300
 | 210 | Aḥeckul        | ⴰⵃⴻⵛⴽⵓⵍ        | Sortilège                     | Magic spell                  | سحر           | ![Image210][Img210] |
 | 211 | Azzu           | ⴰⵣⵣⵓ           | Genêts                        | Forsythia                    | -             | ![Image211][Img211] |
 | 212 | Zzeṛb          | ⵣⵣⴻⵕⴱ         | Clôture                      | Fence                        | سياج          | ![Image212][Img212] |
-| 213 | S tadist       | ⵙ ⵜⴰⴷⵉⵙⵜ       | Enceinte                      | Pregnant                     | حامل          | ![Image213][Img213] |
-| 214 | Tamart         | ⵜⴰⵎⴰⵔⵜ         | Menton                        | Chin                         | ذقن           | ![Image214][Img214] |
+| 213 | S tadist       | ⵙ ⵜⴰⴷⵉⵙⵜ      | Enceinte                      | Pregnant                     | حامل          | ![Image213][Img213] |
+| 214 | Tamart         | ⵜⴰⵎⴰⵔⵜ        | Menton                        | Chin                         | ذقن           | ![Image214][Img214] |
 | 215 | Ɣli            | ⵖⵍⵉ            | Tomber                        | Fall, Fall down              | سقط           | ![Image215][Img215] |
 | 216 | Afenǧal        | ⴰⴼⴻⵏⴵⴰⵍ        | Tasse                         | Cup                          | كوب           | ![Image216][Img216] |
-| 217 | Wwet afus      | ⵡⵡⴻⵜ ⴰⴼⵓⵙ      | Applaudir                    | Applaud, Clap                | صفق           | ![Image217][Img217] |
+| 217 | Wwet afus      | ⵡⵡⴻⵜ ⴰⴼⵓⵙ     | Applaudir                    | Applaud, Clap                | صفق           | ![Image217][Img217] |
 | 218 | Ɣeṛ            | ⵖⴻⵕ            | Lire                         | Read                         | قرأ           | ![Image218][Img218] |
 | 219 | Adlis          | ⴰⴷⵍⵉⵙ          | Livre                         | Book                         |  كتاب        | ![Image219][Img219] |
 | 220 | Ddu, Lḥu       | ⴷⴷⵓ, ⵍⵃⵓ       | Marcher                       | To walk                      | سير           | ![Image220][Img220] |
@@ -35,37 +35,37 @@ Images de 201 à 300
 | 227 | Itbir          | ⵉⵜⴱⵉⵔ         | Pigeon                        | Pigeon                       | حمامة         | ![Image227][Img227] |
 | 228 | Tajeǧǧigt      | ⵜⴰⵊⴻⴵⴵⵉⴳⵜ      | Fleur                         | Flower                       | زهرة          | ![Image228][Img228] |
 | 229 | Lqaṛes         | ⵍⵇⴰⵕⴻⵙ         | Citron                        | Lemon                        | ليمون        | ![Image229][Img229] |
-| 230 | Cnu            | ⵛⵏⵓ            | Chanter                       | To sing                      | غنى            | ![Image230][Img230] |
+| 230 | Cnu            | ⵛⵏⵓ             | Chanter                       | To sing                      | غنى            | ![Image230][Img230] |
 | 231 | Snitra         | ⵙⵏⵉⵜⵔⴰ         | Guitare                       | Guitar                       | غيتار         | ![Image231][Img231] |
 | 232 | Amrar          | ⴰⵎⵔⴰⵔ          | Corde                         | Rope                         | حبل          | ![Image232][Img232] |
 | 233 | Ajenwi         | ⴰⵊⴻⵏⵡⵉ          | Poignard                      | Dagger                       | خنجر          | ![Image233][Img233] |
 | 234 | Ifri           | ⵉⴼⵔⵉ           | Grotte, Caverne               | Cave                         | كهف, غار     | ![Image234][Img234] |
-| 235 | Gzem           | ⴳⵣⴻⵎ           | Couper                        | To cut                       | قطع           | ![Image235][Img235] |
+| 235 | Gzem           | ⴳⵣⴻⵎ            | Couper                        | To cut                       | قطع           | ![Image235][Img235] |
 | 236 | Tagerfa        | ⵜⴰⴳⴻⵔⴼⴰ        | Corbeau                       | Crow                         | غراب          | ![Image236][Img236] |
 | 237 | Lubyan         | ⵍⵓⴱⵢⴰⵏ          | Haricot                       | Bean                         | فاصوليا       | ![Image237][Img237] |
 | 238 | Ibawen         | ⵉⴱⴰⵡⴻⵏ         | Fèves                         | Broad bean                   | فول            | ![Image238][Img238] |
 | 239 | Aẓṛu           | ⴰⵥⵕⵓ           | Pierre                        | Stone                        | حجر           | ![Image239][Img239] |
 | 240 | Qqim           | ⵇⵇⵉⵎ           | S'asseoir                     | To sit down                  | جلس           | ![Image240][Img240] |
-| 241 | Taqecwalt      | ⵜⴰⵇⴻⵛⵡⴰⵍⵜ     | Panier                        | Basket                       |               | ![Image241][Img241] |
-| 242 | Izimer         | ⵉⵣⵉⵎⴻⵔ        | Agneau                        | Lamb                         |               | ![Image242][Img242] |
-| 243 | Alɣem          | ⴰⵍⵖⴻⵎ         | Dromadaire                    | Dromedary, Arabian camel     |               | ![Image243][Img243] |
-| 244 | Ticcert        | ⵜⵉⵛⵛⴻⵔⵜ      | Ail                           | Garlic                       |               | ![Image244][Img244] |
-| 245 | Tifeɣwett      | ⵜⵉⴼⴻⵖⵡⴻⵜⵜ    | Artichaut                     | Artichoke                    |               | ![Image245][Img245] |
-| 246 | Ayefki         | ⴰⵢⴻⴼⴽⵉ        | Lait                          | Milk                         |               | ![Image246][Img246] |
-| 247 | Awṛaɣ          | ⴰⵡⵕⴰⵖ         | Jaune                         | Yellow                       |               | ![Image247][Img247] |
-| 248 | Axuxi          | ⴰⵅⵓⵅⵉ         | Rose                          | Pink                         |               | ![Image248][Img248] |
-| 249 | Tazeqqa        | ⵜⴰⵣⴻⵇⵇⴰ       | Maison traditionnelle Amazigh | Traditional Amazigh house    |               | ![Image249][Img249] |
-| 250 | Igider         | ⵉⴳⵉⴷⴻⵔ        | Aigle royal                   | Golden eagle                 |               | ![Image250][Img250] |
-| 251 | Kmez           | ⴽⵎⴻⵣ           | Gratter                       | To scratch                   |               | ![Image251][Img251] |
-| 252 | Akwer          | ⴰⴽⵡⴻⵔ         | Voler                         | To steal                     |               | ![Image252][Img252] |
-| 253 | Afeg           | ⴰⴼⴻⴳ          | Voler                         | To fly                       |               | ![Image253][Img253] |
-| 254 | Igellil, Aẓawali | ⵉⴳⴻⵍⵍⵉⵍ, ⴰⵥⴰⵡⴰⵍ | Pauvre                        | Poor                         |               | ![Image254][Img254] |
-| 255 | Self           | ⵙⴻⵍⴼ          | Caresser                      | To stroke                    |               | ![Image255][Img255] |
-| 256 | Iqaciṛen       | ⵉⵇⴰⵛⵉⵕⴻⵏ       | Chaussettes                   | Socks                        |               | ![Image256][Img256] |
-| 257 | Nnaɣ           | ⵏⵏⴰⵖ            | Se disputer                   | To quarrel, To argue         |               | ![Image257][Img257] |
-| 258 | Adrim, Asuṛdi  | ⴰⴷⵔⵉⵎ, ⴰⵙⵓⵕⴷⵉ | Argent                        | Money                        |               | ![Image258][Img258] |
-| 259 | Zenz           | ⵣⴻⵏⵣ           | Vendre                        | To sell                      |               | ![Image259][Img259] |
-| 260 | Takeṛmust      | ⵜⴰⴽⴻⵕⵎⵓⵙⵜ    | Figue de Barbarie             | Prickly pear                 |               | ![Image260][Img260] |
+| 241 | Taqecwalt      | ⵜⴰⵇⴻⵛⵡⴰⵍⵜ     | Panier                        | Basket                       | سلة           | ![Image241][Img241] |
+| 242 | Izimer         | ⵉⵣⵉⵎⴻⵔ        | Agneau                        | Lamb                         | خروف          | ![Image242][Img242] |
+| 243 | Alɣem          | ⴰⵍⵖⴻⵎ         | Dromadaire                    | Dromedary, Arabian camel     | الجمل العربي  | ![Image243][Img243] |
+| 244 | Ticcert        | ⵜⵉⵛⵛⴻⵔⵜ      | Ail                           | Garlic                       | ثوم           | ![Image244][Img244] |
+| 245 | Tifeɣwett      | ⵜⵉⴼⴻⵖⵡⴻⵜⵜ    | Artichaut                     | Artichoke                    | خرشوف        | ![Image245][Img245] |
+| 246 | Ayefki         | ⴰⵢⴻⴼⴽⵉ        | Lait                          | Milk                         | حليب          | ![Image246][Img246] |
+| 247 | Awṛaɣ          | ⴰⵡⵕⴰⵖ         | Jaune                         | Yellow                       | أصفر          | ![Image247][Img247] |
+| 248 | Axuxi          | ⴰⵅⵓⵅⵉ          | Rose                          | Pink                         | وردي          | ![Image248][Img248] |
+| 249 | Tazeqqa        | ⵜⴰⵣⴻⵇⵇⴰ       | Maison traditionnelle Amazigh | Traditional Amazigh house    | منزل أمازيغي تقليدي   | ![Image249][Img249] |
+| 250 | Igider         | ⵉⴳⵉⴷⴻⵔ        | Aigle royal                   | Golden eagle                 | نسر الذهبي    | ![Image250][Img250] |
+| 251 | Kmez           | ⴽⵎⴻⵣ           | Gratter                       | To scratch                   | خدش          | ![Image251][Img251] |
+| 252 | Akwer          | ⴰⴽⵡⴻⵔ         | Voler                         | To steal                     | سرق          | ![Image252][Img252] |
+| 253 | Afeg           | ⴰⴼⴻⴳ          | Voler                         | To fly                       | طار           | ![Image253][Img253] |
+| 254 | Igellil, Aẓawali | ⵉⴳⴻⵍⵍⵉⵍ, ⴰⵥⴰⵡⴰⵍ | Pauvre                   | Poor                         | فقير          | ![Image254][Img254] |
+| 255 | Self           | ⵙⴻⵍⴼ          | Caresser                      | To stroke                    | -             | ![Image255][Img255] |
+| 256 | Iqaciṛen       | ⵉⵇⴰⵛⵉⵕⴻⵏ       | Chaussettes                   | Socks                        | جورب          | ![Image256][Img256] |
+| 257 | Nnaɣ           | ⵏⵏⴰⵖ            | Se disputer                   | To quarrel, To argue         | تجادل         | ![Image257][Img257] |
+| 258 | Adrim, Asuṛdi  | ⴰⴷⵔⵉⵎ, ⴰⵙⵓⵕⴷⵉ | Argent                       | Money                        | نقود, مال, فلوس | ![Image258][Img258] |
+| 259 | Zenz           | ⵣⴻⵏⵣ           | Vendre                        | To sell                      | بيع           | ![Image259][Img259] |
+| 260 | Takeṛmust      | ⵜⴰⴽⴻⵕⵎⵓⵙⵜ    | Figue de Barbarie             | Prickly pear                 | تين الشوكي    | ![Image260][Img260] |
 | 261 | xx             | xx             | xx                            | xx                           |               | ![Image261][Img261] |
 | 262 | xx             | xx             | xx                            | xx                           |               | ![Image262][Img262] |
 | 263 | xx             | xx             | xx                            | xx                           |               | ![Image263][Img263] |
