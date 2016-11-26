@@ -46,56 +46,56 @@ Images de 201 à 300
 | 238 | Ibawen         | ⵉⴱⴰⵡⴻⵏ         | Fèves                         | Broad bean                   | فول            | ![Image238][Img238] |
 | 239 | Aẓṛu           | ⴰⵥⵕⵓ           | Pierre                        | Stone                        | حجر           | ![Image239][Img239] |
 | 240 | Qqim           | ⵇⵇⵉⵎ           | S'asseoir                     | To sit down                  | جلس           | ![Image240][Img240] |
-| 241 | Taqecwalt      | ⵜⴰⵇⴻⵛⵡⴰⵍⵜ     | Panier                        | Basket                       | سلة           | ![Image241][Img241] |
+| 241 | Taqecwalt      | ⵜⴰⵇⴻⵛⵡⴰⵍⵜ      | Panier                        | Basket                       | سلة           | ![Image241][Img241] |
 | 242 | Izimer         | ⵉⵣⵉⵎⴻⵔ        | Agneau                        | Lamb                         | خروف          | ![Image242][Img242] |
 | 243 | Alɣem          | ⴰⵍⵖⴻⵎ         | Dromadaire                    | Dromedary, Arabian camel     | الجمل العربي  | ![Image243][Img243] |
 | 244 | Ticcert        | ⵜⵉⵛⵛⴻⵔⵜ      | Ail                           | Garlic                       | ثوم           | ![Image244][Img244] |
-| 245 | Tifeɣwett      | ⵜⵉⴼⴻⵖⵡⴻⵜⵜ    | Artichaut                     | Artichoke                    | خرشوف        | ![Image245][Img245] |
+| 245 | Tifeɣwett      | ⵜⵉⴼⴻⵖⵡⴻⵜⵜ     | Artichaut                     | Artichoke                    | خرشوف        | ![Image245][Img245] |
 | 246 | Ayefki         | ⴰⵢⴻⴼⴽⵉ        | Lait                          | Milk                         | حليب          | ![Image246][Img246] |
 | 247 | Awṛaɣ          | ⴰⵡⵕⴰⵖ         | Jaune                         | Yellow                       | أصفر          | ![Image247][Img247] |
 | 248 | Axuxi          | ⴰⵅⵓⵅⵉ          | Rose                          | Pink                         | وردي          | ![Image248][Img248] |
 | 249 | Tazeqqa        | ⵜⴰⵣⴻⵇⵇⴰ       | Maison traditionnelle Amazigh | Traditional Amazigh house    | منزل أمازيغي تقليدي   | ![Image249][Img249] |
 | 250 | Igider         | ⵉⴳⵉⴷⴻⵔ        | Aigle royal                   | Golden eagle                 | نسر الذهبي    | ![Image250][Img250] |
-| 251 | Kmez           | ⴽⵎⴻⵣ           | Gratter                       | To scratch                   | خدش          | ![Image251][Img251] |
+| 251 | Kmez           | ⴽⵎⴻⵣ          | Gratter                       | To scratch                   | خدش          | ![Image251][Img251] |
 | 252 | Akwer          | ⴰⴽⵡⴻⵔ         | Voler                         | To steal                     | سرق          | ![Image252][Img252] |
 | 253 | Afeg           | ⴰⴼⴻⴳ          | Voler                         | To fly                       | طار           | ![Image253][Img253] |
-| 254 | Igellil, Aẓawali | ⵉⴳⴻⵍⵍⵉⵍ, ⴰⵥⴰⵡⴰⵍ | Pauvre                   | Poor                         | فقير          | ![Image254][Img254] |
+| 254 | Igellil, Aẓawali | ⵉⴳⴻⵍⵍⵉⵍ, ⴰⵥⴰⵡⴰⵍ | Pauvre                     | Poor                         | فقير          | ![Image254][Img254] |
 | 255 | Self           | ⵙⴻⵍⴼ          | Caresser                      | To stroke                    | -             | ![Image255][Img255] |
 | 256 | Iqaciṛen       | ⵉⵇⴰⵛⵉⵕⴻⵏ       | Chaussettes                   | Socks                        | جورب          | ![Image256][Img256] |
 | 257 | Nnaɣ           | ⵏⵏⴰⵖ            | Se disputer                   | To quarrel, To argue         | تجادل         | ![Image257][Img257] |
 | 258 | Adrim, Asuṛdi  | ⴰⴷⵔⵉⵎ, ⴰⵙⵓⵕⴷⵉ | Argent                       | Money                        | نقود, مال, فلوس | ![Image258][Img258] |
 | 259 | Zenz           | ⵣⴻⵏⵣ           | Vendre                        | To sell                      | بيع           | ![Image259][Img259] |
-| 260 | Takeṛmust      | ⵜⴰⴽⴻⵕⵎⵓⵙⵜ    | Figue de Barbarie             | Prickly pear                 | تين الشوكي    | ![Image260][Img260] |
-| 261 | xx             | xx             | xx                            | xx                           |               | ![Image261][Img261] |
-| 262 | xx             | xx             | xx                            | xx                           |               | ![Image262][Img262] |
-| 263 | xx             | xx             | xx                            | xx                           |               | ![Image263][Img263] |
-| 264 | xx             | xx             | xx                            | xx                           |               | ![Image264][Img264] |
-| 265 | xx             | xx             | xx                            | xx                           |               | ![Image265][Img265] |
-| 266 | xx             | xx             | xx                            | xx                           |               | ![Image266][Img266] |
-| 267 | xx             | xx             | xx                            | xx                           |               | ![Image267][Img267] |
-| 268 | xx             | xx             | xx                            | xx                           |               | ![Image268][Img268] |
-| 269 | xx             | xx             | xx                            | xx                           |               | ![Image269][Img269] |
-| 270 | xx             | xx             | xx                            | xx                           |               | ![Image270][Img270] |
-| 271 | xx             | xx             | xx                            | xx                           |               | ![Image271][Img271] |
-| 272 | xx             | xx             | xx                            | xx                           |               | ![Image272][Img272] |
-| 273 | xx             | xx             | xx                            | xx                           |               | ![Image273][Img273] |
-| 274 | xx             | xx             | xx                            | xx                           |               | ![Image274][Img274] |
-| 275 | xx             | xx             | xx                            | xx                           |               | ![Image275][Img275] |
-| 276 | xx             | xx             | xx                            | xx                           |               | ![Image276][Img276] |
-| 277 | xx             | xx             | xx                            | xx                           |               | ![Image277][Img277] |
-| 278 | xx             | xx             | xx                            | xx                           |               | ![Image278][Img278] |
-| 279 | xx             | xx             | xx                            | xx                           |               | ![Image279][Img279] |
-| 280 | xx             | xx             | xx                            | xx                           |               | ![Image280][Img280] |
-| 281 | xx             | xx             | xx                            | xx                           |               | ![Image281][Img281] |
-| 282 | xx             | xx             | xx                            | xx                           |               | ![Image282][Img282] |
-| 283 | xx             | xx             | xx                            | xx                           |               | ![Image283][Img283] |
-| 284 | xx             | xx             | xx                            | xx                           |               | ![Image284][Img284] |
-| 285 | xx             | xx             | xx                            | xx                           |               | ![Image285][Img285] |
-| 286 | xx             | xx             | xx                            | xx                           |               | ![Image286][Img286] |
-| 287 | xx             | xx             | xx                            | xx                           |               | ![Image287][Img287] |
-| 288 | xx             | xx             | xx                            | xx                           |               | ![Image288][Img288] |
-| 289 | xx             | xx             | xx                            | xx                           |               | ![Image289][Img289] |
-| 290 | xx             | xx             | xx                            | xx                           |               | ![Image290][Img290] |
+| 260 | Takeṛmust      | ⵜⴰⴽⴻⵕⵎⵓⵙⵜ     | Figue de Barbarie              | Prickly pear                 | تين الشوكي    | ![Image260][Img260] |
+| 261 | Iniɣem, Aḥbub, Tazart | xx      | Figue sèche                   | Dry fig                      |               | ![Image261][Img261] |
+| 262 | Arkas, Asebbaḍ  | xx             | Chaussure                     | Shoe                         |               | ![Image262][Img262] |
+| 263 | Muqel, Sikked  | xx             | Regarder                      | To look                      |               | ![Image263][Img263] |
+| 264 | Tidi           | xx             | Sueur                         | Sweat                        |               | ![Image264][Img264] |
+| 265 | Udi            | xx             | Beurre                        | Butter                       |               | ![Image265][Img265] |
+| 266 | Taweṭṭuft      | xx             | Fourmi                        | Ant                          |               | ![Image266][Img266] |
+| 267 | Dellaε         | xx             | Pastèque                      | Watermelon                   |               | ![Image267][Img267] |
+| 268 | Afeqqus        | xx             | Melon                         | Melon                        |               | ![Image268][Img268] |
+| 269 | Aṛẓeẓ          | xx             | Guêpe                         | Wasp                         |               | ![Image269][Img269] |
+| 270 | Arew, Rbu      | xx             | Accoucher                     | To give birth                |               | ![Image270][Img270] |
+| 271 | Asemmiḍ        | xx             | Froid                         | Cold                         |               | ![Image271][Img271] |
+| 272 | Lḥamu          | xx             | Chaleur                       | Heat                         |               | ![Image272][Img272] |
+| 273 | Abẓiẓ          | xx             | Sauterelle                    | Grasshopper, Locust          |               | ![Image273][Img273] |
+| 274 | Tawla          | xx             | Fièvre                        | Fever                        |               | ![Image274][Img274] |
+| 275 | Aferḍas        | xx             | Chauve                        | Bald man                     |               | ![Image275][Img275] |
+| 276 | Tiqit, Timeqqit | xx            | Une goutte                    | A drop                       |               | ![Image276][Img276] |
+| 277 | Ldi            | xx             | Ouvrir                        | To open                      |               | ![Image277][Img277] |
+| 278 | Tasusmi        | xx             | Silence                       | Silence                      |               | ![Image278][Img278] |
+| 279 | Cḍeḥ           | xx             | Danser                        | To dance                     |               | ![Image279][Img279] |
+| 280 | Tamɣaṛt        | xx             | Vieille                       | Old woman                    |               | ![Image280][Img280] |
+| 281 | Bedd           | xx             | Se mettre debout              | To stand                     |               | ![Image281][Img281] |
+| 282 | Aburbu         | xx             | Chenille                      | Caterpillar                  |               | ![Image282][Img282] |
+| 283 | Amɣaṛ          | xx             | Vieux                         | Old man                      |               | ![Image283][Img283] |
+| 284 | Sin            | xx             | Deux                          | Two                          |               | ![Image284][Img284] |
+| 285 | Yiwen          | xx             | Un                            | One                          |               | ![Image285][Img285] |
+| 286 | Yelli          | xx             | Ma fille                      | My daughter                  |               | ![Image286][Img286] |
+| 287 | Mmi            | xx             | Mon fils                      | My son                       |               | ![Image287][Img287] |
+| 288 | Ajewwaq        | xx             | Flûte                         | Flute                        |               | ![Image288][Img288] |
+| 289 | Tasekkurt      | xx             | Perdrix                       | Partridge                    |               | ![Image289][Img289] |
+| 290 | Ssired         | xx             | Laver                         | To wash                      |               | ![Image290][Img290] |
 | 291 | xx             | xx             | xx                            | xx                           |               | ![Image291][Img291] |
 | 292 | xx             | xx             | xx                            | xx                           |               | ![Image292][Img292] |
 | 293 | xx             | xx             | xx                            | xx                           |               | ![Image293][Img293] |
