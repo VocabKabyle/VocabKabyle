@@ -1919,6 +1919,166 @@
          "Français":"S'asseoir",
          "Anglais":"To sit down",
          "Arabe":"جلس"
+      },
+      {  
+         "Id":241,
+         "Kabyle":"Taqecwalt",
+         "Tifinagh":"ⵜⴰⵇⴻⵛⵡⴰⵍⵜ",
+         "Français":"Panier",
+         "Anglais":"Basket",
+         "Arabe":"سلة"
+      },
+      {  
+         "Id":242,
+         "Kabyle":"Izimer",
+         "Tifinagh":"ⵉⵣⵉⵎⴻⵔ",
+         "Français":"Agneau",
+         "Anglais":"Lamb",
+         "Arabe":"خروف"
+      },
+      {  
+         "Id":243,
+         "Kabyle":"Alɣem",
+         "Tifinagh":"ⴰⵍⵖⴻⵎ",
+         "Français":"Dromadaire",
+         "Anglais":"Dromedary, Arabian camel",
+         "Arabe":"الجمل العربي"
+      },
+      {  
+         "Id":244,
+         "Kabyle":"Ticcert",
+         "Tifinagh":"ⵜⵉⵛⵛⴻⵔⵜ",
+         "Français":"Ail",
+         "Anglais":"Garlic",
+         "Arabe":"ثوم"
+      },
+      {  
+         "Id":245,
+         "Kabyle":"Tifeɣwett",
+         "Tifinagh":"ⵜⵉⴼⴻⵖⵡⴻⵜⵜ",
+         "Français":"Artichaut",
+         "Anglais":"Artichoke",
+         "Arabe":"خرشوف"
+      },
+      {  
+         "Id":246,
+         "Kabyle":"Ayefki",
+         "Tifinagh":"ⴰⵢⴻⴼⴽⵉ",
+         "Français":"Lait",
+         "Anglais":"Milk",
+         "Arabe":"حليب"
+      },
+      {  
+         "Id":247,
+         "Kabyle":"Awṛaɣ",
+         "Tifinagh":"ⴰⵡⵕⴰⵖ",
+         "Français":"Jaune",
+         "Anglais":"Yellow",
+         "Arabe":"أصفر"
+      },
+      {  
+         "Id":248,
+         "Kabyle":"Axuxi",
+         "Tifinagh":"ⴰⵅⵓⵅⵉ",
+         "Français":"Rose",
+         "Anglais":"Pink",
+         "Arabe":"وردي"
+      },
+      {  
+         "Id":249,
+         "Kabyle":"Tazeqqa",
+         "Tifinagh":"ⵜⴰⵣⴻⵇⵇⴰ",
+         "Français":"Maison traditionnelle Amazigh",
+         "Anglais":"Traditional Amazigh house",
+         "Arabe":"منزل أمازيغي تقليدي"
+      },
+      {  
+         "Id":250,
+         "Kabyle":"Igider",
+         "Tifinagh":"ⵉⴳⵉⴷⴻⵔ",
+         "Français":"Aigle royal",
+         "Anglais":"Golden eagle",
+         "Arabe":"نسر الذهبي"
+      },
+      {  
+         "Id":251,
+         "Kabyle":"Kmez",
+         "Tifinagh":"ⴽⵎⴻⵣ",
+         "Français":"Gratter",
+         "Anglais":"To scratch",
+         "Arabe":"خدش"
+      },
+      {  
+         "Id":252,
+         "Kabyle":"Akwer",
+         "Tifinagh":"ⴰⴽⵡⴻⵔ",
+         "Français":"Voler",
+         "Anglais":"To steal",
+         "Arabe":"سرق"
+      },
+      {  
+         "Id":253,
+         "Kabyle":"Afeg",
+         "Tifinagh":"ⴰⴼⴻⴳ",
+         "Français":"Voler",
+         "Anglais":"To fly",
+         "Arabe":"طار"
+      },
+      {  
+         "Id":254,
+         "Kabyle":"Igellil, Aẓawali",
+         "Tifinagh":"ⵉⴳⴻⵍⵍⵉⵍ, ⴰⵥⴰⵡⴰⵍ",
+         "Français":"Pauvre",
+         "Anglais":"Poor",
+         "Arabe":"فقير"
+      },
+      {  
+         "Id":255,
+         "Kabyle":"Self",
+         "Tifinagh":"ⵙⴻⵍⴼ",
+         "Français":"Caresser",
+         "Anglais":"To stroke",
+         "Arabe":"-"
+      },
+      {  
+         "Id":256,
+         "Kabyle":"Iqaciṛen",
+         "Tifinagh":"ⵉⵇⴰⵛⵉⵕⴻⵏ",
+         "Français":"Chaussettes",
+         "Anglais":"Socks",
+         "Arabe":"جورب"
+      },
+      {  
+         "Id":257,
+         "Kabyle":"Nnaɣ",
+         "Tifinagh":"ⵏⵏⴰⵖ",
+         "Français":"Se disputer",
+         "Anglais":"To quarrel, To argue",
+         "Arabe":"تجادل"
+      },
+      {  
+         "Id":258,
+         "Kabyle":"Adrim, Asuṛdi",
+         "Tifinagh":"ⴰⴷⵔⵉⵎ, ⴰⵙⵓⵕⴷⵉ",
+         "Français":"Argent",
+         "Anglais":"Money",
+         "Arabe":"نقود, مال, فلوس"
+      },
+      {  
+         "Id":259,
+         "Kabyle":"Zenz",
+         "Tifinagh":"ⵣⴻⵏⵣ",
+         "Français":"Vendre",
+         "Anglais":"To sell",
+         "Arabe":"بيع"
+      },
+      {  
+         "Id":260,
+         "Kabyle":"Takeṛmust",
+         "Tifinagh":"ⵜⴰⴽⴻⵕⵎⵓⵙⵜ",
+         "Français":"Figue de Barbarie",
+         "Anglais":"Prickly pear",
+         "Arabe":"تين الشوكي"
       }
    ]
 }
