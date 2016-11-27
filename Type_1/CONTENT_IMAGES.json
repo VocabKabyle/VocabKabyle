@@ -2079,6 +2079,246 @@
          "Français":"Figue de Barbarie",
          "Anglais":"Prickly pear",
          "Arabe":"تين الشوكي"
+      },
+      {  
+         "Id":261,
+         "Kabyle":"Iniɣem, Aḥbub, Tazart",
+         "Tifinagh":"ⵉⵏⵉⵖⴻⵎ, ⴰⵃⴱⵓⴱ, ⵜⴰⵣⴰⵔⵜ",
+         "Français":"Figue sèche",
+         "Anglais":"Dry fig",
+         "Arabe":"تين المجفف"
+      },
+      {  
+         "Id":262,
+         "Kabyle":"Arkas, Asebbaḍ",
+         "Tifinagh":"ⴰⵔⴽⴰⵙ, ⴰⵙⴻⴱⴱⴰⴹ",
+         "Français":"Chaussure",
+         "Anglais":"Shoe",
+         "Arabe":"حذاء"
+      },
+      {  
+         "Id":263,
+         "Kabyle":"Muqel, Sikked",
+         "Tifinagh":"ⵎⵓⵇⴻⵍ, ⵙⵉⴽⴽⴻⴷ",
+         "Français":"Regarder",
+         "Anglais":"To look",
+         "Arabe":"نظر"
+      },
+      {  
+         "Id":264,
+         "Kabyle":"Tidi",
+         "Tifinagh":"ⵜⵉⴷⵉ",
+         "Français":"Sueur",
+         "Anglais":"Sweat",
+         "Arabe":"عرق"
+      },
+      {  
+         "Id":265,
+         "Kabyle":"Udi",
+         "Tifinagh":"ⵓⴷⵉ",
+         "Français":"Beurre",
+         "Anglais":"Butter",
+         "Arabe":"زبدة"
+      },
+      {  
+         "Id":266,
+         "Kabyle":"Taweṭṭuft",
+         "Tifinagh":"ⵜⴰⵡⴻⵟⵟⵓⴼⵜ",
+         "Français":"Fourmi",
+         "Anglais":"Ant",
+         "Arabe":"نملة"
+      },
+      {  
+         "Id":267,
+         "Kabyle":"Dellaε",
+         "Tifinagh":"ⴷⴻⵍⵍⴰⵄ",
+         "Français":"Pastèque",
+         "Anglais":"Watermelon",
+         "Arabe":"بطيخ"
+      },
+      {  
+         "Id":268,
+         "Kabyle":"Afeqqus",
+         "Tifinagh":"ⴰⴼⴻⵇⵇⵓⵙ",
+         "Français":"Melon",
+         "Anglais":"Melon",
+         "Arabe":"شمام"
+      },
+      {  
+         "Id":269,
+         "Kabyle":"Aṛẓeẓ",
+         "Tifinagh":"ⴰⵕⵥⴻⵥ",
+         "Français":"Guêpe",
+         "Anglais":"Wasp",
+         "Arabe":"دبور"
+      },
+      {  
+         "Id":270,
+         "Kabyle":"Arew, Rbu",
+         "Tifinagh":"ⴰⵔⴻⵡ, ⵔⴱⵓ",
+         "Français":"Accoucher",
+         "Anglais":"To give birth",
+         "Arabe":"تلد"
+      },
+      {  
+         "Id":271,
+         "Kabyle":"Asemmiḍ",
+         "Tifinagh":"ⴰⵙⴻⵎⵎⵉⴹ",
+         "Français":"Froid",
+         "Anglais":"Cold",
+         "Arabe":"برد"
+      },
+      {  
+         "Id":272,
+         "Kabyle":"Lḥamu",
+         "Tifinagh":"ⵍⵃⴰⵎⵓ",
+         "Français":"Chaleur",
+         "Anglais":"Heat",
+         "Arabe":"حرارة"
+      },
+      {  
+         "Id":273,
+         "Kabyle":"Abẓiẓ",
+         "Tifinagh":"ⴰⴱⵥⵉⵥ",
+         "Français":"Sauterelle",
+         "Anglais":"Grasshopper, Locust",
+         "Arabe":"جراد"
+      },
+      {  
+         "Id":274,
+         "Kabyle":"Tawla",
+         "Tifinagh":"ⵜⴰⵡⵍⴰ",
+         "Français":"Fièvre",
+         "Anglais":"Fever",
+         "Arabe":"حمى"
+      },
+      {  
+         "Id":275,
+         "Kabyle":"Aferḍas",
+         "Tifinagh":"ⴰⴼⴻⵔⴹⴰⵙ",
+         "Français":"Chauve",
+         "Anglais":"Bald man",
+         "Arabe":"أصلع"
+      },
+      {  
+         "Id":276,
+         "Kabyle":"Tiqit, Timeqqit",
+         "Tifinagh":"ⵜⵉⵇⵉⵜ, ⵜⵉⵎⴻⵇⵇⵉⵜ",
+         "Français":"Une goutte",
+         "Anglais":"A drop",
+         "Arabe":"قطرة"
+      },
+      {  
+         "Id":277,
+         "Kabyle":"Ldi",
+         "Tifinagh":"ⵍⴷⵉ",
+         "Français":"Ouvrir",
+         "Anglais":"To open",
+         "Arabe":"فتح"
+      },
+      {  
+         "Id":278,
+         "Kabyle":"Tasusmi",
+         "Tifinagh":"ⵜⴰⵙⵓⵙⵎⵉ",
+         "Français":"Silence",
+         "Anglais":"Silence",
+         "Arabe":"صمت"
+      },
+      {  
+         "Id":279,
+         "Kabyle":"Cḍeḥ",
+         "Tifinagh":"ⵛⴹⴻⵃ",
+         "Français":"Danser",
+         "Anglais":"To dance",
+         "Arabe":"رقص"
+      },
+      {  
+         "Id":280,
+         "Kabyle":"Tamɣaṛt",
+         "Tifinagh":"ⵜⴰⵎⵖⴰⵕⵜ",
+         "Français":"Vieille",
+         "Anglais":"Old woman",
+         "Arabe":"إمرأة عجوزة"
+      },
+      {  
+         "Id":281,
+         "Kabyle":"Bedd",
+         "Tifinagh":"ⴱⴻⴷⴷ",
+         "Français":"Se mettre debout",
+         "Anglais":"To stand",
+         "Arabe":"وقف"
+      },
+      {  
+         "Id":282,
+         "Kabyle":"Aburbu",
+         "Tifinagh":"ⴰⴱⵓⵔⴱⵓ",
+         "Français":"Chenille",
+         "Anglais":"Caterpillar",
+         "Arabe":"يرقة"
+      },
+      {  
+         "Id":283,
+         "Kabyle":"Amɣaṛ",
+         "Tifinagh":"ⴰⵎⵖⴰⵕ",
+         "Français":"Vieux",
+         "Anglais":"Old man",
+         "Arabe":"رجل عجوز"
+      },
+      {  
+         "Id":284,
+         "Kabyle":"Sin",
+         "Tifinagh":"ⵙⵉⵏ",
+         "Français":"Deux",
+         "Anglais":"Two",
+         "Arabe":"اثنان"
+      },
+      {  
+         "Id":285,
+         "Kabyle":"Yiwen",
+         "Tifinagh":"ⵢⵉⵡⴻⵏ",
+         "Français":"Un",
+         "Anglais":"One",
+         "Arabe":"واحد"
+      },
+      {  
+         "Id":286,
+         "Kabyle":"Yelli",
+         "Tifinagh":"ⵢⴻⵍⵍⵉ",
+         "Français":"Ma fille",
+         "Anglais":"My daughter",
+         "Arabe":"ابنتي"
+      },
+      {  
+         "Id":287,
+         "Kabyle":"Mmi",
+         "Tifinagh":"ⵎⵎⵉ",
+         "Français":"Mon fils",
+         "Anglais":"My son",
+         "Arabe":"إبني"
+      },
+      {  
+         "Id":288,
+         "Kabyle":"Ajewwaq",
+         "Tifinagh":"ⴰⵊⴻⵡⵡⴰⵇ",
+         "Français":"Flûte",
+         "Anglais":"Flute",
+         "Arabe":"مزمار"
+      },
+      {  
+         "Id":289,
+         "Kabyle":"Tasekkurt",
+         "Tifinagh":"ⵜⴰⵙⴻⴽⴽⵓⵔⵜ",
+         "Français":"Perdrix",
+         "Anglais":"Partridge",
+         "Arabe":"حجل طائر"
+      },
+      {  
+         "Id":290,
+         "Kabyle":"Ssired",
+         "Tifinagh":"ⵙⵙⵉⵔⴻⴷ",
+         "Français":"Laver",
+         "Anglais":"To wash",
+         "Arabe":"غسل"
       }
    ]
 }
