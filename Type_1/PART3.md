@@ -66,36 +66,36 @@ Images de 201 à 300
 | 258 | Adrim, Asuṛdi  | ⴰⴷⵔⵉⵎ, ⴰⵙⵓⵕⴷⵉ | Argent                       | Money                        | نقود, مال, فلوس | ![Image258][Img258] |
 | 259 | Zenz           | ⵣⴻⵏⵣ           | Vendre                        | To sell                      | بيع           | ![Image259][Img259] |
 | 260 | Takeṛmust      | ⵜⴰⴽⴻⵕⵎⵓⵙⵜ     | Figue de Barbarie              | Prickly pear                 | تين الشوكي    | ![Image260][Img260] |
-| 261 | Iniɣem, Aḥbub, Tazart | ⵉⵏⵉⵖⴻⵎ, ⴰⵃⴱⵓⴱ, ⵜⴰⵣⴰⵔⵜ | Figue sèche     | Dry fig                      |               | ![Image261][Img261] |
-| 262 | Arkas, Asebbaḍ  | ⴰⵔⴽⴰⵙ, ⴰⵙⴻⴱⴱⴰⴹ | Chaussure                   | Shoe                         |               | ![Image262][Img262] |
-| 263 | Muqel, Sikked  | ⵎⵓⵇⴻⵍ, ⵙⵉⴽⴽⴻⴷ  | Regarder                      | To look                      |               | ![Image263][Img263] |
-| 264 | Tidi           | ⵜⵉⴷⵉ           | Sueur                         | Sweat                        |               | ![Image264][Img264] |
-| 265 | Udi            | ⵓⴷⵉ            | Beurre                        | Butter                       |               | ![Image265][Img265] |
-| 266 | Taweṭṭuft      | ⵜⴰⵡⴻⵟⵟⵓⴼⵜ      | Fourmi                        | Ant                          |               | ![Image266][Img266] |
-| 267 | Dellaε         | ⴷⴻⵍⵍⴰⵄ         | Pastèque                      | Watermelon                   |               | ![Image267][Img267] |
-| 268 | Afeqqus        | ⴰⴼⴻⵇⵇⵓⵙ       | Melon                         | Melon                        |               | ![Image268][Img268] |
-| 269 | Aṛẓeẓ          | ⴰⵕⵥⴻⵥ         | Guêpe                         | Wasp                         |               | ![Image269][Img269] |
-| 270 | Arew, Rbu      | ⴰⵔⴻⵡ, ⵔⴱⵓ    | Accoucher                     | To give birth                |               | ![Image270][Img270] |
-| 271 | Asemmiḍ        | ⴰⵙⴻⵎⵎⵉⴹ       | Froid                         | Cold                         |               | ![Image271][Img271] |
-| 272 | Lḥamu          | ⵍⵃⴰⵎⵓ          | Chaleur                       | Heat                         |               | ![Image272][Img272] |
-| 273 | Abẓiẓ          | ⴰⴱⵥⵉⵥ        | Sauterelle                    | Grasshopper, Locust          |               | ![Image273][Img273] |
-| 274 | Tawla          | ⵜⴰⵡⵍⴰ           | Fièvre                        | Fever                        |               | ![Image274][Img274] |
-| 275 | Aferḍas        | ⴰⴼⴻⵔⴹⴰⵙ       | Chauve                        | Bald man                     |               | ![Image275][Img275] |
-| 276 | Tiqit, Timeqqit | ⵜⵉⵇⵉⵜ, ⵜⵉⵎⴻⵇⵇⵉⵜ | Une goutte                   | A drop                       |               | ![Image276][Img276] |
-| 277 | Ldi            | ⵍⴷⵉ            | Ouvrir                        | To open                      |               | ![Image277][Img277] |
-| 278 | Tasusmi        | ⵜⴰⵙⵓⵙⵎⵉ        | Silence                       | Silence                      |               | ![Image278][Img278] |
-| 279 | Cḍeḥ           | ⵛⴹⴻⵃ           | Danser                        | To dance                     |               | ![Image279][Img279] |
-| 280 | Tamɣaṛt        | ⵜⴰⵎⵖⴰⵕⵜ        | Vieille                       | Old woman                    |               | ![Image280][Img280] |
-| 281 | Bedd           | ⴱⴻⴷⴷ          | Se mettre debout              | To stand                     |               | ![Image281][Img281] |
-| 282 | Aburbu         | ⴰⴱⵓⵔⴱⵓ        | Chenille                      | Caterpillar                  |               | ![Image282][Img282] |
-| 283 | Amɣaṛ          | ⴰⵎⵖⴰⵕ         | Vieux                         | Old man                      |               | ![Image283][Img283] |
-| 284 | Sin            | ⵙⵉⵏ            | Deux                          | Two                          |               | ![Image284][Img284] |
-| 285 | Yiwen          | ⵢⵉⵡⴻⵏ           | Un                            | One                          |               | ![Image285][Img285] |
-| 286 | Yelli          | ⵢⴻⵍⵍⵉ           | Ma fille                      | My daughter                  |               | ![Image286][Img286] |
-| 287 | Mmi            | ⵎⵎⵉ            | Mon fils                      | My son                       |               | ![Image287][Img287] |
-| 288 | Ajewwaq        | ⴰⵊⴻⵡⵡⴰⵇ        | Flûte                         | Flute                        |               | ![Image288][Img288] |
-| 289 | Tasekkurt      | ⵜⴰⵙⴻⴽⴽⵓⵔⵜ      | Perdrix                       | Partridge                    |               | ![Image289][Img289] |
-| 290 | Ssired         | ⵙⵙⵉⵔⴻⴷ        | Laver                         | To wash                      |               | ![Image290][Img290] |
+| 261 | Iniɣem, Aḥbub, Tazart | ⵉⵏⵉⵖⴻⵎ, ⴰⵃⴱⵓⴱ, ⵜⴰⵣⴰⵔⵜ | Figue sèche     | Dry fig                      | تين المجفف   | ![Image261][Img261] |
+| 262 | Arkas, Asebbaḍ  | ⴰⵔⴽⴰⵙ, ⴰⵙⴻⴱⴱⴰⴹ | Chaussure                   | Shoe                         | حذاء         | ![Image262][Img262] |
+| 263 | Muqel, Sikked  | ⵎⵓⵇⴻⵍ, ⵙⵉⴽⴽⴻⴷ  | Regarder                      | To look                      | نظر           | ![Image263][Img263] |
+| 264 | Tidi           | ⵜⵉⴷⵉ           | Sueur                         | Sweat                        | عرق           | ![Image264][Img264] |
+| 265 | Udi            | ⵓⴷⵉ            | Beurre                        | Butter                       | زبدة          | ![Image265][Img265] |
+| 266 | Taweṭṭuft      | ⵜⴰⵡⴻⵟⵟⵓⴼⵜ      | Fourmi                        | Ant                          | نملة          | ![Image266][Img266] |
+| 267 | Dellaε         | ⴷⴻⵍⵍⴰⵄ         | Pastèque                      | Watermelon                   | بطيخ          | ![Image267][Img267] |
+| 268 | Afeqqus        | ⴰⴼⴻⵇⵇⵓⵙ       | Melon                         | Melon                        | شمام          | ![Image268][Img268] |
+| 269 | Aṛẓeẓ          | ⴰⵕⵥⴻⵥ         | Guêpe                         | Wasp                         | دبور         | ![Image269][Img269] |
+| 270 | Arew, Rbu      | ⴰⵔⴻⵡ, ⵔⴱⵓ    | Accoucher                     | To give birth                | تلد           | ![Image270][Img270] |
+| 271 | Asemmiḍ        | ⴰⵙⴻⵎⵎⵉⴹ       | Froid                         | Cold                         | برد           | ![Image271][Img271] |
+| 272 | Lḥamu          | ⵍⵃⴰⵎⵓ          | Chaleur                       | Heat                         | حرارة        | ![Image272][Img272] |
+| 273 | Abẓiẓ          | ⴰⴱⵥⵉⵥ        | Sauterelle                    | Grasshopper, Locust          | جراد          | ![Image273][Img273] |
+| 274 | Tawla          | ⵜⴰⵡⵍⴰ           | Fièvre                        | Fever                        | حمى          | ![Image274][Img274] |
+| 275 | Aferḍas        | ⴰⴼⴻⵔⴹⴰⵙ       | Chauve                        | Bald man                     | أصلع          | ![Image275][Img275] |
+| 276 | Tiqit, Timeqqit | ⵜⵉⵇⵉⵜ, ⵜⵉⵎⴻⵇⵇⵉⵜ | Une goutte                   | A drop                       | قطرة          | ![Image276][Img276] |
+| 277 | Ldi            | ⵍⴷⵉ            | Ouvrir                        | To open                      | فتح           | ![Image277][Img277] |
+| 278 | Tasusmi        | ⵜⴰⵙⵓⵙⵎⵉ        | Silence                       | Silence                      | صمت           | ![Image278][Img278] |
+| 279 | Cḍeḥ           | ⵛⴹⴻⵃ           | Danser                        | To dance                     | رقص           | ![Image279][Img279] |
+| 280 | Tamɣaṛt        | ⵜⴰⵎⵖⴰⵕⵜ        | Vieille                       | Old woman                    | إمرأة عجوزة   | ![Image280][Img280] |
+| 281 | Bedd           | ⴱⴻⴷⴷ          | Se mettre debout              | To stand                     | وقف           | ![Image281][Img281] |
+| 282 | Aburbu         | ⴰⴱⵓⵔⴱⵓ        | Chenille                      | Caterpillar                  | يرقة          | ![Image282][Img282] |
+| 283 | Amɣaṛ          | ⴰⵎⵖⴰⵕ         | Vieux                         | Old man                      | رجل عجوز      | ![Image283][Img283] |
+| 284 | Sin            | ⵙⵉⵏ            | Deux                          | Two                          | اثنان         | ![Image284][Img284] |
+| 285 | Yiwen          | ⵢⵉⵡⴻⵏ           | Un                            | One                          | واحد          | ![Image285][Img285] |
+| 286 | Yelli          | ⵢⴻⵍⵍⵉ           | Ma fille                      | My daughter                  | ابنتي         | ![Image286][Img286] |
+| 287 | Mmi            | ⵎⵎⵉ            | Mon fils                      | My son                       | إبني          | ![Image287][Img287] |
+| 288 | Ajewwaq        | ⴰⵊⴻⵡⵡⴰⵇ        | Flûte                         | Flute                        | مزمار         | ![Image288][Img288] |
+| 289 | Tasekkurt      | ⵜⴰⵙⴻⴽⴽⵓⵔⵜ      | Perdrix                       | Partridge                    | حجل طائر      | ![Image289][Img289] |
+| 290 | Ssired         | ⵙⵙⵉⵔⴻⴷ        | Laver                         | To wash                      | غسل          | ![Image290][Img290] |
 | 291 | xx             | xx             | xx                            | xx                           |               | ![Image291][Img291] |
 | 292 | xx             | xx             | xx                            | xx                           |               | ![Image292][Img292] |
 | 293 | xx             | xx             | xx                            | xx                           |               | ![Image293][Img293] |
