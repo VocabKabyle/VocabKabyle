@@ -96,11 +96,11 @@ Images de 201 à 300
 | 288 | Ajewwaq        | ⴰⵊⴻⵡⵡⴰⵇ        | Flûte                         | Flute                        | مزمار         | ![Image288][Img288] |
 | 289 | Tasekkurt      | ⵜⴰⵙⴻⴽⴽⵓⵔⵜ      | Perdrix                       | Partridge                    | حجل طائر      | ![Image289][Img289] |
 | 290 | Ssired         | ⵙⵙⵉⵔⴻⴷ        | Laver                         | To wash                      | غسل          | ![Image290][Img290] |
-| 291 | xx             | xx             | xx                            | xx                           |               | ![Image291][Img291] |
-| 292 | xx             | xx             | xx                            | xx                           |               | ![Image292][Img292] |
-| 293 | xx             | xx             | xx                            | xx                           |               | ![Image293][Img293] |
-| 294 | xx             | xx             | xx                            | xx                           |               | ![Image294][Img294] |
-| 295 | xx             | xx             | xx                            | xx                           |               | ![Image295][Img295] |
+| 291 | Aẓaṛ           | xx             | Racine                        | Root                         |               | ![Image291][Img291] |
+| 292 | Asirem         | xx             | Espoir                        | Hope                         |               | ![Image292][Img292] |
+| 293 | Abeqqa         | xx             | Gifle, Claque                 | Slap, Smack                  |               | ![Image293][Img293] |
+| 294 | ḥemmleɣ-kemm   | xx             | Je t'aime (Féminin)           | I love you (Female)          |               | ![Image294][Img294] |
+| 295 | ḥemmleɣ-k      | xx             | Je t'aime (Masculin)          | I love you (Male)            |               | ![Image295][Img295] |
 | 296 | xx             | xx             | xx                            | xx                           |               | ![Image296][Img296] |
 | 297 | xx             | xx             | xx                            | xx                           |               | ![Image297][Img297] |
 | 298 | xx             | xx             | xx                            | xx                           |               | ![Image298][Img298] |
