@@ -3,7 +3,7 @@
 
 <*__Projet en cours de construction__*>
 
-Liste des images de vocabulaire de type 2 (chaque image décrit un phrase en Kabyle avec sa traduction en Français et Anglais)
+Liste des images de vocabulaire de type 2 (chaque image décrit une phrase en Kabyle avec sa traduction en Français et Anglais)
 
 ## Liste
 
