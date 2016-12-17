@@ -101,11 +101,11 @@ Images de 201 à 300
 | 293 | Abeqqa         | xx             | Gifle, Claque                 | Slap, Smack                  |               | ![Image293][Img293] |
 | 294 | ḥemmleɣ-kemm   | xx             | Je t'aime (Féminin)           | I love you (Female)          |               | ![Image294][Img294] |
 | 295 | ḥemmleɣ-k      | xx             | Je t'aime (Masculin)          | I love you (Male)            |               | ![Image295][Img295] |
-| 296 | xx             | xx             | xx                            | xx                           |               | ![Image296][Img296] |
-| 297 | xx             | xx             | xx                            | xx                           |               | ![Image297][Img297] |
-| 298 | xx             | xx             | xx                            | xx                           |               | ![Image298][Img298] |
-| 299 | xx             | xx             | xx                            | xx                           |               | ![Image299][Img299] |
-| 300 | xx             | xx             | xx                            | xx                           |               | ![Image300][Img300] |
+| 296 | Fad            | xx             | Soif                          | Thirst                       |               | ![Image296][Img296] |
+| 297 | Abbuh          | xx             | À l'aide !,	Au secours !      | Help!                        |               | ![Image297][Img297] |
+| 298 | Laẓ            | xx             | Faim                          | Hunger                       |               | ![Image298][Img298] |
+| 299 | Beṛṛa          | xx             | Dehors                        | Outside                      |               | ![Image299][Img299] |
+| 300 | Sel            | xx             | Entendre                      | To hear                      |               | ![Image300][Img300] |
 
 
 
