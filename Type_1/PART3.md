@@ -78,7 +78,7 @@ Images de 201 à 300
 | 270 | Arew, Rbu      | ⴰⵔⴻⵡ, ⵔⴱⵓ    | Accoucher                     | To give birth                | تلد           | ![Image270][Img270] |
 | 271 | Asemmiḍ        | ⴰⵙⴻⵎⵎⵉⴹ       | Froid                         | Cold                         | برد           | ![Image271][Img271] |
 | 272 | Lḥamu          | ⵍⵃⴰⵎⵓ          | Chaleur                       | Heat                         | حرارة        | ![Image272][Img272] |
-| 273 | Abẓiẓ          | ⴰⴱⵥⵉⵥ        | Sauterelle                    | Grasshopper, Locust          | جراد          | ![Image273][Img273] |
+| 273 | Abẓiẓ          | ⴰⴱⵥⵉⵥ         | Sauterelle                    | Grasshopper, Locust          | جراد          | ![Image273][Img273] |
 | 274 | Tawla          | ⵜⴰⵡⵍⴰ           | Fièvre                        | Fever                        | حمى          | ![Image274][Img274] |
 | 275 | Aferḍas        | ⴰⴼⴻⵔⴹⴰⵙ       | Chauve                        | Bald man                     | أصلع          | ![Image275][Img275] |
 | 276 | Tiqit, Timeqqit | ⵜⵉⵇⵉⵜ, ⵜⵉⵎⴻⵇⵇⵉⵜ | Une goutte                   | A drop                       | قطرة          | ![Image276][Img276] |
@@ -91,21 +91,21 @@ Images de 201 à 300
 | 283 | Amɣaṛ          | ⴰⵎⵖⴰⵕ         | Vieux                         | Old man                      | رجل عجوز      | ![Image283][Img283] |
 | 284 | Sin            | ⵙⵉⵏ            | Deux                          | Two                          | اثنان         | ![Image284][Img284] |
 | 285 | Yiwen          | ⵢⵉⵡⴻⵏ           | Un                            | One                          | واحد          | ![Image285][Img285] |
-| 286 | Yelli          | ⵢⴻⵍⵍⵉ           | Ma fille                      | My daughter                  | ابنتي         | ![Image286][Img286] |
+| 286 | Yelli          | ⵢⴻⵍⵍⵉ          | Ma fille                      | My daughter                  | ابنتي         | ![Image286][Img286] |
 | 287 | Mmi            | ⵎⵎⵉ            | Mon fils                      | My son                       | إبني          | ![Image287][Img287] |
 | 288 | Ajewwaq        | ⴰⵊⴻⵡⵡⴰⵇ        | Flûte                         | Flute                        | مزمار         | ![Image288][Img288] |
-| 289 | Tasekkurt      | ⵜⴰⵙⴻⴽⴽⵓⵔⵜ      | Perdrix                       | Partridge                    | حجل طائر      | ![Image289][Img289] |
+| 289 | Tasekkurt      | ⵜⴰⵙⴻⴽⴽⵓⵔⵜ     | Perdrix                       | Partridge                    | حجل طائر      | ![Image289][Img289] |
 | 290 | Ssired         | ⵙⵙⵉⵔⴻⴷ        | Laver                         | To wash                      | غسل          | ![Image290][Img290] |
-| 291 | Aẓaṛ           | ⴰⵥⴰⵕ          | Racine                        | Root                         |               | ![Image291][Img291] |
-| 292 | Asirem         | ⴰⵙⵉⵔⴻⵎ        | Espoir                        | Hope                         |               | ![Image292][Img292] |
-| 293 | Abeqqa         | ⴰⴱⴻⵇⵇⴰ        | Gifle, Claque                 | Slap, Smack                  |               | ![Image293][Img293] |
-| 294 | ḥemmleɣ-kemm   | ⵀⴻⵎⵎⵍⴻⵖ-ⴽⴻⵎⵎ | Je t'aime (Féminin)           | I love you (Female)          |               | ![Image294][Img294] |
-| 295 | ḥemmleɣ-k      | ⵀⴻⵎⵎⵍⴻⵖ-ⴽ    | Je t'aime (Masculin)          | I love you (Male)            |               | ![Image295][Img295] |
-| 296 | Fad            | ⴼⴰⴷ           | Soif                          | Thirst                       |               | ![Image296][Img296] |
-| 297 | Abbuh!         | ⴰⴱⴱⵓⵀ!       | À l'aide !,	Au secours !      | Help!                        |               | ![Image297][Img297] |
-| 298 | Laẓ            | ⵍⴰⵥ           | Faim                          | Hunger                       |               | ![Image298][Img298] |
-| 299 | Beṛṛa          | ⴱⴻⵕⵕⴰ        | Dehors                        | Outside                      |               | ![Image299][Img299] |
-| 300 | Sel            | ⵙⴻⵍ           | Entendre                      | To hear                      |               | ![Image300][Img300] |
+| 291 | Aẓaṛ           | ⴰⵥⴰⵕ          | Racine                        | Root                         | جذر           | ![Image291][Img291] |
+| 292 | Asirem         | ⴰⵙⵉⵔⴻⵎ        | Espoir                        | Hope                         | أمل           | ![Image292][Img292] |
+| 293 | Abeqqa         | ⴰⴱⴻⵇⵇⴰ        | Gifle, Claque                 | Slap, Smack                  | صفعة          | ![Image293][Img293] |
+| 294 | ḥemmleɣ-kemm   | ⵀⴻⵎⵎⵍⴻⵖ-ⴽⴻⵎⵎ | Je t'aime (Féminin)           | I love you (Female)          | أحبك          | ![Image294][Img294] |
+| 295 | ḥemmleɣ-k      | ⵀⴻⵎⵎⵍⴻⵖ-ⴽ    | Je t'aime (Masculin)          | I love you (Male)            | احبك          | ![Image295][Img295] |
+| 296 | Fad            | ⴼⴰⴷ           | Soif                          | Thirst                       | عطش           | ![Image296][Img296] |
+| 297 | Abbuh!         | ⴰⴱⴱⵓⵀ!       | À l'aide !,	Au secours !      | Help!                        | النجدة!       | ![Image297][Img297] |
+| 298 | Laẓ            | ⵍⴰⵥ           | Faim                          | Hunger                       | جوع           | ![Image298][Img298] |
+| 299 | Beṛṛa          | ⴱⴻⵕⵕⴰ        | Dehors                        | Outside                      | خارج          | ![Image299][Img299] |
+| 300 | Sel            | ⵙⴻⵍ           | Entendre                      | To hear                      | سمع           | ![Image300][Img300] |
 
 
 
