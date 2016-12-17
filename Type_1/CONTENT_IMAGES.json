@@ -2320,6 +2320,86 @@
          "Français":"Laver",
          "Anglais":"To wash",
          "Arabe":"غسل"
-      }
+      },
+      {
+       "Id": 291,
+       "Kabyle": "Aẓaṛ",
+       "Tifinagh": "ⴰⵥⴰⵕ",
+       "Français": "Racine",
+       "Anglais": "Root",
+       "Arabe": "جذر"
+     },
+     {
+       "Id": 292,
+       "Kabyle": "Asirem",
+       "Tifinagh": "ⴰⵙⵉⵔⴻⵎ",
+       "Français": "Espoir",
+       "Anglais": "Hope",
+       "Arabe": "أمل"
+     },
+     {
+       "Id": 293,
+       "Kabyle": "Abeqqa",
+       "Tifinagh": "ⴰⴱⴻⵇⵇⴰ",
+       "Français": "Gifle, Claque",
+       "Anglais": "Slap, Smack",
+       "Arabe": "صفعة"
+     },
+     {
+       "Id": 294,
+       "Kabyle": "ḥemmleɣ-kemm",
+       "Tifinagh": "ⵀⴻⵎⵎⵍⴻⵖ-ⴽⴻⵎⵎ",
+       "Français": "Je t'aime (Féminin)",
+       "Anglais": "I love you (Female)",
+       "Arabe": "أحبك"
+     },
+     {
+       "Id": 295,
+       "Kabyle": "ḥemmleɣ-k",
+       "Tifinagh": "ⵀⴻⵎⵎⵍⴻⵖ-ⴽ",
+       "Français": "Je t'aime (Masculin)",
+       "Anglais": "I love you (Male)",
+       "Arabe": "احبك"
+     },
+     {
+       "Id": 296,
+       "Kabyle": "Fad",
+       "Tifinagh": "ⴼⴰⴷ",
+       "Français": "Soif",
+       "Anglais": "Thirst",
+       "Arabe": "عطش"
+     },
+     {
+       "Id": 297,
+       "Kabyle": "Abbuh!",
+       "Tifinagh": "ⴰⴱⴱⵓⵀ!",
+       "Français": "À l'aide !, Au secours !",
+       "Anglais": "Help!",
+       "Arabe": "النجدة!"
+     },
+     {
+       "Id": 298,
+       "Kabyle": "Laẓ",
+       "Tifinagh": "ⵍⴰⵥ",
+       "Français": "Faim",
+       "Anglais": "Hunger",
+       "Arabe": "جوع"
+     },
+     {
+       "Id": 299,
+       "Kabyle": "Beṛṛa",
+       "Tifinagh": "ⴱⴻⵕⵕⴰ",
+       "Français": "Dehors",
+       "Anglais": "Outside",
+       "Arabe": "خارج"
+     },
+     {
+       "Id": 300,
+       "Kabyle": "Sel",
+       "Tifinagh": "ⵙⴻⵍ",
+       "Français": "Entendre",
+       "Anglais": "To hear",
+       "Arabe": "سمع"
+     }
    ]
 }
