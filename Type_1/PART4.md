@@ -7,19 +7,19 @@ Images de 301 à 400
 ## Liste
 | Id        | Kabyle          | Tifinagh      | Français        | Anglais             | Arabe        | Image                |
 |-----------|-----------------|---------------|-----------------|---------------------|--------------|----------------------|
-| 301       | x               | x             | x               | x                   | x            | ![Image301][Img301]  |
-| 302       | x               | x             | x               | x                   | x            | ![Image302][Img302]  |
-| 303       | x               | x             | x               | x                   | x            | ![Image303][Img303]  |
-| 304       | x               | x             | x               | x                   | x            | ![Image304][Img304]  |
-| 305       | x               | x             | x               | x                   | x            | ![Image305][Img305]  |
-| 306       | x               | x             | x               | x                   | x            | ![Image306][Img306]  |
-| 307       | x               | x             | x               | x                   | x            | ![Image307][Img307]  |
-| 308       | x               | x             | x               | x                   | x            | ![Image308][Img308]  |
-| 309       | x               | x             | x               | x                   | x            | ![Image309][Img309]  |
-| 310       | x               | x             | x               | x                   | x            | ![Image310][Img310]  |
-| 311       | x               | x             | x               | x                   | x            | ![Image311][Img311]  |
-| 312       | x               | x             | x               | x                   | x            | ![Image312][Img312]  |
-| 313       | x               | x             | x               | x                   | x            | ![Image313][Img313]  |
+| 301       | x               | x             | Escargot        | Snail               | x            | ![Image301][Img301]  |
+| 302       | Anda?, Anida?   | x             | Où              | Where               | x            | ![Image302][Img302]  |
+| 303       | Aksum           | x             | Viande          | Meat                | x            | ![Image303][Img303]  |
+| 304       | x               | x             | Marteau         | Hammer              | x            | ![Image304][Img304]  |
+| 305       | x               | x             | Casser          | To break            | x            | ![Image305][Img305]  |
+| 306       | x               | x             | Attendre        | To wait             | x            | ![Image306][Img306]  |
+| 307       | Aderwic         | x             | Un fou          | A mad man           | x            | ![Image307][Img307]  |
+| 308       | Acu             | x             | Quoi ?          | What                | x            | ![Image308][Img308]  |
+| 309       | Ssucef          | x             | Se doucher      | To take a shower    | x            | ![Image309][Img309]  |
+| 310       | Targit          | x             | Rêve            | Dream               | x            | ![Image310][Img310]  |
+| 311       | Amergu          | x             | La grive        | A thrush            | x            | ![Image311][Img311]  |
+| 312       | Abehri, Azwu    | x             | L'air           | The air             | x            | ![Image312][Img312]  |
+| 313       | Zik, Zik-nni    | x             | Jadis, Autrefois | Formerly, In the old days | x            | ![Image313][Img313]  |
 | 314       | x               | x             | x               | x                   | x            | ![Image314][Img314]  |
 | 315       | x               | x             | x               | x                   | x            | ![Image315][Img315]  |
 | 316       | x               | x             | x               | x                   | x            | ![Image316][Img316]  |
