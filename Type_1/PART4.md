@@ -7,19 +7,19 @@ Images de 301 à 400
 ## Liste
 | Id        | Kabyle          | Tifinagh      | Français        | Anglais             | Arabe        | Image                |
 |-----------|-----------------|---------------|-----------------|---------------------|--------------|----------------------|
-| 301       | Aεaṛus          | ⴰⵄⴰⵕⵓⵙ      | Escargot        | Snail               | x            | ![Image301][Img301]  |
-| 302       | Anda?, Anida?   | ⴰⵏⴷⴰ?, ⴰⵏⵉⴷⴰ? | Où              | Where               | x            | ![Image302][Img302]  |
-| 303       | Aksum           | ⴰⴽⵙⵓⵎ        | Viande          | Meat                | x            | ![Image303][Img303]  |
-| 304       | Tafḍist         | ⵜⴰⴼⴹⵉⵙⵜ     | Marteau         | Hammer              | x            | ![Image304][Img304]  |
-| 305       | Eṛẓ             | ⴻⵕⵥ          | Casser          | To break            | x            | ![Image305][Img305]  |
-| 306       | Ṛǧu             | ⵕⴵⵓ          | Attendre        | To wait             | x            | ![Image306][Img306]  |
-| 307       | Aderwic         | ⴰⴷⴻⵔⵡⵉⵛ     | Un fou          | A mad man           | x            | ![Image307][Img307]  |
-| 308       | Acu             | ⴰⵛⵓ          | Quoi ?          | What                | x            | ![Image308][Img308]  |
-| 309       | Ssucef          | ⵙⵙⵓⵛⴻⴼ      | Se doucher      | To take a shower    | x            | ![Image309][Img309]  |
-| 310       | Targit          | ⵜⴰⵔⴳⵉⵜ      | Rêve            | Dream               | x            | ![Image310][Img310]  |
-| 311       | Amergu          | ⴰⵎⴻⵔⴳⵓ       | La grive        | A thrush            | x            | ![Image311][Img311]  |
-| 312       | Abehri, Azwu    | ⴰⴱⴻⵀⵔⵉ, ⴰⵣⵡⵓ | L'air         | The air             | x            | ![Image312][Img312]  |
-| 313       | Zik, Zik-nni    | ⵣⵉⴽ, ⵣⵉⴽ-ⵏⵏⵉ | Jadis, Autrefois | Formerly, In the old days | x      | ![Image313][Img313]  |
+| 301       | Aεaṛus          | ⴰⵄⴰⵕⵓⵙ      | Escargot        | Snail               | حلزون        | ![Image301][Img301]  |
+| 302       | Anda?, Anida?   | ⴰⵏⴷⴰ?, ⴰⵏⵉⴷⴰ? | Où              | Where               | أين          | ![Image302][Img302]  |
+| 303       | Aksum           | ⴰⴽⵙⵓⵎ        | Viande          | Meat                | لحم          | ![Image303][Img303]  |
+| 304       | Tafḍist         | ⵜⴰⴼⴹⵉⵙⵜ     | Marteau         | Hammer              | مطرقة        | ![Image304][Img304]  |
+| 305       | Eṛẓ             | ⴻⵕⵥ          | Casser          | To break            | كسر          | ![Image305][Img305]  |
+| 306       | Ṛǧu             | ⵕⴵⵓ          | Attendre        | To wait             | انتظر        | ![Image306][Img306]  |
+| 307       | Aderwic         | ⴰⴷⴻⵔⵡⵉⵛ     | Un fou          | A mad man           | مجنون        | ![Image307][Img307]  |
+| 308       | Acu             | ⴰⵛⵓ          | Quoi ?          | What?               | ماذا         | ![Image308][Img308]  |
+| 309       | Ssucef          | ⵙⵙⵓⵛⴻⴼ      | Se doucher      | To take a shower    | يستحم        | ![Image309][Img309]  |
+| 310       | Targit          | ⵜⴰⵔⴳⵉⵜ      | Rêve            | Dream               | حلم          | ![Image310][Img310]  |
+| 311       | Amergu          | ⴰⵎⴻⵔⴳⵓ       | La grive        | A thrush            | -            | ![Image311][Img311]  |
+| 312       | Abehri, Azwu    | ⴰⴱⴻⵀⵔⵉ, ⴰⵣⵡⵓ | L'air         | The air             | الهواء       | ![Image312][Img312]  |
+| 313       | Zik, Zik-nni | ⵣⵉⴽ, ⵣⵉⴽ-ⵏⵏⵉ | Jadis, Autrefois | Formerly, In the old days | سابقا, فيما مضى | ![Image313][Img313]  |
 | 314       | x               | x             | x               | x                   | x            | ![Image314][Img314]  |
 | 315       | x               | x             | x               | x                   | x            | ![Image315][Img315]  |
 | 316       | x               | x             | x               | x                   | x            | ![Image316][Img316]  |
