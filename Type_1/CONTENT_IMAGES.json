@@ -2399,6 +2399,110 @@
          "Français":"Entendre",
          "Anglais":"To hear",
          "Arabe":"سمع"
-      }
+      },
+       {
+          "Id": "301",
+          "Kabyle": "Aεaṛus",
+          "Tifinagh": "ⴰⵄⴰⵕⵓⵙ",
+          "Français": "Escargot",
+          "Anglais": "Snail",
+          "Arabe": "حلزون"
+        },
+        {
+          "Id": "302",
+          "Kabyle": "Anda?, Anida?",
+          "Tifinagh": "ⴰⵏⴷⴰ?, ⴰⵏⵉⴷⴰ?",
+          "Français": "Où",
+          "Anglais": "Where",
+          "Arabe": "أين"
+        },
+        {
+          "Id": "303",
+          "Kabyle": "Aksum",
+          "Tifinagh": "ⴰⴽⵙⵓⵎ",
+          "Français": "Viande",
+          "Anglais": "Meat",
+          "Arabe": "لحم"
+        },
+        {
+          "Id": "304",
+          "Kabyle": "Tafḍist",
+          "Tifinagh": "ⵜⴰⴼⴹⵉⵙⵜ",
+          "Français": "Marteau",
+          "Anglais": "Hammer",
+          "Arabe": "مطرقة"
+        },
+        {
+          "Id": "305",
+          "Kabyle": "Eṛẓ",
+          "Tifinagh": "ⴻⵕⵥ",
+          "Français": "Casser",
+          "Anglais": "To break",
+          "Arabe": "كسر"
+        },
+        {
+          "Id": "306",
+          "Kabyle": "Ṛǧu",
+          "Tifinagh": "ⵕⴵⵓ",
+          "Français": "Attendre",
+          "Anglais": "To wait",
+          "Arabe": "انتظر"
+        },
+        {
+          "Id": "307",
+          "Kabyle": "Aderwic",
+          "Tifinagh": "ⴰⴷⴻⵔⵡⵉⵛ",
+          "Français": "Un fou",
+          "Anglais": "A mad man",
+          "Arabe": "مجنون"
+        },
+        {
+          "Id": "308",
+          "Kabyle": "Acu",
+          "Tifinagh": "ⴰⵛⵓ",
+          "Français": "Quoi ?",
+          "Anglais": "What?",
+          "Arabe": "ماذا"
+        },
+        {
+          "Id": "309",
+          "Kabyle": "Ssucef",
+          "Tifinagh": "ⵙⵙⵓⵛⴻⴼ",
+          "Français": "Se doucher",
+          "Anglais": "To take a shower",
+          "Arabe": "يستحم"
+        },
+        {
+          "Id": "310",
+          "Kabyle": "Targit",
+          "Tifinagh": "ⵜⴰⵔⴳⵉⵜ",
+          "Français": "Rêve",
+          "Anglais": "Dream",
+          "Arabe": "حلم"
+        },
+        {
+          "Id": "311",
+          "Kabyle": "Amergu",
+          "Tifinagh": "ⴰⵎⴻⵔⴳⵓ",
+          "Français": "La grive",
+          "Anglais": "A thrush",
+          "Arabe": "-"
+        },
+        {
+          "Id": "312",
+          "Kabyle": "Abehri, Azwu",
+          "Tifinagh": "ⴰⴱⴻⵀⵔⵉ, ⴰⵣⵡⵓ",
+          "Français": "L'air",
+          "Anglais": "The air",
+          "Arabe": "الهواء"
+        },
+        {
+          "Id": "313",
+          "Kabyle": "Zik, Zik-nni",
+          "Tifinagh": "ⵣⵉⴽ, ⵣⵉⴽ-ⵏⵏⵉ",
+          "Français": "Jadis, Autrefois",
+          "Anglais": "Formerly, In the old days",
+          "Arabe": "سابقا, فيما مضى"
+        }
    ]
 }
