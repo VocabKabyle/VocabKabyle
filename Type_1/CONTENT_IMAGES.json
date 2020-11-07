@@ -2503,6 +2503,14 @@
           "Français": "Jadis, Autrefois",
           "Anglais": "Formerly, In the old days",
           "Arabe": "سابقا, فيما مضى"
-        }
+        },
+        {
+         "Id": "314",
+         "Kabyle": "Tugdut",
+         "Tifinagh": "ⵜⵓⴳⴷⵓⵜ",
+         "Français": "Démocratie",
+         "Anglais": "Democracy",
+         "Arabe": "ديمقراطية"
+       }
    ]
 }
