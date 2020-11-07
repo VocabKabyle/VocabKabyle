@@ -6,7 +6,7 @@
 
 ## Description
 
-VocabKabyle est une application sur les réseaux sociaux [Facebook](https://facebook.com/VocabKabyle) et [Twitter](https://twitter.com/VocabKabyle) qui partage (automatiquement) des images qui décrivent des mots et phrases du vocabulaire [Kabyle](https://fr.wikipedia.org/wiki/Kabyle)
+VocabKabyle est une application sur les réseaux sociaux [Facebook](https://facebook.com/VocabKabyle) et [Instagram](https://www.instagram.com/vocabkabyle) qui partage (automatiquement) des images qui décrivent des mots et phrases du vocabulaire [Kabyle](https://fr.wikipedia.org/wiki/Kabyle)
 
 
 ## Contribuer 
