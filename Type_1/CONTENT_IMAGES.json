@@ -2519,6 +2519,38 @@
       "Français": "Miel",
       "Anglais": "Honey",
       "Arabe": "عسل"
+    },
+    {
+      "Id": "316",
+      "Kabyle": "Asamar",
+      "Tifinagh": "ⴰⵙⴰⵎⵎⴰⵔ",
+      "Français": "Est",
+      "Anglais": "East",
+      "Arabe": "الشرق"
+    },
+    {
+      "Id": "317",
+      "Kabyle": "Amalu",
+      "Tifinagh": "ⴰⵎⴰⵍⵓ",
+      "Français": "Ouest",
+      "Anglais": "West",
+      "Arabe": "الغرب"
+    },
+    {
+      "Id": "318",
+      "Kabyle": "Agafa",
+      "Tifinagh": "ⴰⴳⴰⴼⴰ",
+      "Français": "Nord",
+      "Anglais": "North",
+      "Arabe": "الشمال"
+    },
+    {
+      "Id": "319",
+      "Kabyle": "Anẓul",
+      "Tifinagh": "ⴰⵏⵥⵓⵍ",
+      "Français": "Sud",
+      "Anglais": "South",
+      "Arabe": "الجنوب"
     }
   ]
 }

@@ -23,10 +23,10 @@ Images de 301 à 400
 | 313 | Zik, Zik-nni  | ⵣⵉⴽ, ⵣⵉⴽ-ⵏⵏⵉ  | Jadis, Autrefois | Formerly, In the old days | سابقا, فيما مضى | ![Image313][img313] |
 | 314 | Tugdut        | ⵜⵓⴳⴷⵓⵜ        | Démocratie       | Democracy                 | ديمقراطية       | ![Image314][img314] |
 | 315 | Tament        | ⵜⴰⵎⴻⵏⵜ        | Miel             | Honey                     | عسل             | ![Image315][img315] |
-| 316 | x             | x             | x                | x                         | x               | ![Image316][img316] |
-| 317 | x             | x             | x                | x                         | x               | ![Image317][img317] |
-| 318 | x             | x             | x                | x                         | x               | ![Image318][img318] |
-| 319 | x             | x             | x                | x                         | x               | ![Image319][img319] |
+| 316 | Asamar        | ⴰⵙⴰⵎⵎⴰⵔ       | Est              | East                      | الشرق           | ![Image316][img316] |
+| 317 | Amalu         | ⴰⵎⴰⵍⵓ         | Ouest            | West                      | الغرب           | ![Image317][img317] |
+| 318 | Agafa         | ⴰⴳⴰⴼⴰ         | Nord             | North                     | الشمال          | ![Image318][img318] |
+| 319 | Anẓul         | ⴰⵏⵥⵓⵍ         | Sud              | South                     | الجنوب          | ![Image319][img319] |
 | 320 | x             | x             | x                | x                         | x               | ![Image320][img320] |
 
 [img301]: https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/301.png
