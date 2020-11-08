@@ -22,7 +22,7 @@ Images de 301 à 400
 | 312 | Abehri, Azwu  | ⴰⴱⴻⵀⵔⵉ, ⴰⵣⵡⵓ  | L'air            | The air                   | الهواء          | ![Image312][img312] |
 | 313 | Zik, Zik-nni  | ⵣⵉⴽ, ⵣⵉⴽ-ⵏⵏⵉ  | Jadis, Autrefois | Formerly, In the old days | سابقا, فيما مضى | ![Image313][img313] |
 | 314 | Tugdut        | ⵜⵓⴳⴷⵓⵜ        | Démocratie       | Democracy                 | ديمقراطية       | ![Image314][img314] |
-| 315 | Tament        | x             | x                | x                         | x               | ![Image315][img315] |
+| 315 | Tament        | ⵜⴰⵎⴻⵏⵜ        | Miel             | Honey                     | عسل             | ![Image315][img315] |
 | 316 | x             | x             | x                | x                         | x               | ![Image316][img316] |
 | 317 | x             | x             | x                | x                         | x               | ![Image317][img317] |
 | 318 | x             | x             | x                | x                         | x               | ![Image318][img318] |
