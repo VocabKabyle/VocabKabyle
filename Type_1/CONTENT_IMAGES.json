@@ -2551,6 +2551,14 @@
       "Français": "Sud",
       "Anglais": "South",
       "Arabe": "الجنوب"
+    },
+    {
+      "Id": "320",
+      "Kabyle": "Tisusaf",
+      "Tifinagh": "ⵜⵉⵙⵓⵙⴰⴼ",
+      "Français": "Salive",
+      "Anglais": "Saliva",
+      "Arabe": "اللعاب"
     }
   ]
 }

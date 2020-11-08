@@ -27,7 +27,7 @@ Images de 301 à 400
 | 317 | Amalu         | ⴰⵎⴰⵍⵓ         | Ouest            | West                      | الغرب           | ![Image317][img317] |
 | 318 | Agafa         | ⴰⴳⴰⴼⴰ         | Nord             | North                     | الشمال          | ![Image318][img318] |
 | 319 | Anẓul         | ⴰⵏⵥⵓⵍ         | Sud              | South                     | الجنوب          | ![Image319][img319] |
-| 320 | x             | x             | x                | x                         | x               | ![Image320][img320] |
+| 320 | Tisusaf       | ⵜⵉⵙⵓⵙⴰⴼ       | Salive           | Saliva                    | اللعاب          | ![Image320][img320] |
 
 [img301]: https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/301.png
 [img302]: https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/302.png
