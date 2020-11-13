@@ -28,6 +28,8 @@ Images de 301 à 400
 | 318 | Agafa         | ⴰⴳⴰⴼⴰ         | Nord             | North                     | الشمال          | ![Image318][img318] |
 | 319 | Anẓul         | ⴰⵏⵥⵓⵍ         | Sud              | South                     | الجنوب          | ![Image319][img319] |
 | 320 | Tisusaf       | ⵜⵉⵙⵓⵙⴰⴼ       | Salive           | Saliva                    | اللعاب          | ![Image320][img320] |
+| 321 | Amddakel-iw   | ⴰⵎⴷⴷⴰⴽⴻⵍⵉⵡ    | Mon petit ami    | My boyfriend              | حبيبي           | ![Image321][img321] |
+| 322 | Tamddakelt-iw | ⵜⴰⵎⴷⴷⴰⴽⴻⵍⵜⵉⵡ  | Ma petite amie   | My girlfriend             | حبيبتى          | ![Image322][img322] |
 
 [img301]: https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/301.png
 [img302]: https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/302.png
@@ -49,3 +51,8 @@ Images de 301 à 400
 [img318]: https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/318.png
 [img319]: https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/319.png
 [img320]: https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/320.png
+[img321]: https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/321.png
+[img322]: https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/322.png
+[img323]: https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/323.png
+[img324]: https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/324.png
+[img325]: https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/325.png

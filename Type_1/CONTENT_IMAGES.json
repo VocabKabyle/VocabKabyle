@@ -2559,6 +2559,22 @@
       "Français": "Salive",
       "Anglais": "Saliva",
       "Arabe": "اللعاب"
+    },
+    {
+      "Id": "321",
+      "Kabyle": "Amddakel-iw",
+      "Tifinagh": "ⴰⵎⴷⴷⴰⴽⴻⵍⵉⵡ",
+      "Français": "Mon petit ami",
+      "Anglais": "My boyfriend",
+      "Arabe": "حبيبي"
+    },
+    {
+      "Id": "321",
+      "Kabyle": "Tamddakelt-iw",
+      "Tifinagh": "ⵜⴰⵎⴷⴷⴰⴽⴻⵍⵜⵉⵡ",
+      "Français": "Ma petite amie",
+      "Anglais": "My girlfriend",
+      "Arabe": "حبيبتى"
     }
   ]
 }
