@@ -2578,11 +2578,27 @@
     },
     {
       "Id": "323",
-      "Kabyle": "ⴰⵥⵉⴷⴰⵏ",
+      "Kabyle": "Aẓidan",
       "Tifinagh": "ⵜⴰⵎⴷⴷⴰⴽⴻⵍⵜⵉⵡ",
       "Français": "Délicieux",
       "Anglais": "Delicious",
       "Arabe": "لذيذ"
+    },
+    {
+      "Id": "324",
+      "Kabyle": "Niwel",
+      "Tifinagh": "ⵏⵉⵡⴻⵍ",
+      "Français": "Cuisiner",
+      "Anglais": "To cook",
+      "Arabe": "طبخ"
+    },
+    {
+      "Id": "325",
+      "Kabyle": "Elmed",
+      "Tifinagh": "ⴻⵍⵎⴻⴷ",
+      "Français": "Apprendre",
+      "Anglais": "To learn",
+      "Arabe": "تعلم"
     }
   ]
 }

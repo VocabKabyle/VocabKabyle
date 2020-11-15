@@ -29,7 +29,9 @@ Images de 301 à 400
 | 319 | Anẓul         | ⴰⵏⵥⵓⵍ         | Sud              | South                     | الجنوب          | ![Image319][img319] |
 | 320 | Tisusaf       | ⵜⵉⵙⵓⵙⴰⴼ       | Salive           | Saliva                    | اللعاب          | ![Image320][img320] |
 | 321 | Amddakel-iw   | ⴰⵎⴷⴷⴰⴽⴻⵍⵉⵡ    | Mon petit ami    | My boyfriend              | حبيبي           | ![Image321][img321] |
-| 323 | ⴰⵥⵉⴷⴰⵏ        | ⵜⴰⵎⴷⴷⴰⴽⴻⵍⵜⵉⵡ  | Délicieux        | Delicious                 | لذيذ            | ![Image323][img323] |
+| 323 | Aẓidan        | ⵜⴰⵎⴷⴷⴰⴽⴻⵍⵜⵉⵡ  | Délicieux        | Delicious                 | لذيذ            | ![Image323][img323] |
+| 324 | Niwel         | ⵏⵉⵡⴻⵍ         | Cuisiner         | To cook                   | طبخ             | ![Image324][img324] |
+| 325 | Elmed         | ⴻⵍⵎⴻⴷ         | Apprendre        | To learn                  | تعلم            | ![Image325][img325] |
 
 [img301]: https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/301.png
 [img302]: https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/302.png
