@@ -29,6 +29,7 @@ Images de 301 à 400
 | 319 | Anẓul         | ⴰⵏⵥⵓⵍ         | Sud              | South                     | الجنوب          | ![Image319][img319] |
 | 320 | Tisusaf       | ⵜⵉⵙⵓⵙⴰⴼ       | Salive           | Saliva                    | اللعاب          | ![Image320][img320] |
 | 321 | Amddakel-iw   | ⴰⵎⴷⴷⴰⴽⴻⵍⵉⵡ    | Mon petit ami    | My boyfriend              | حبيبي           | ![Image321][img321] |
+| 322 | Tamddakelt-iw | ⵜⴰⵎⴷⴷⴰⴽⴻⵍⵜⵉⵡ  | Ma petite amie   | My girlfriend             | حبيبتى          | ![Image322][img322] |
 | 323 | Aẓidan        | ⵜⴰⵎⴷⴷⴰⴽⴻⵍⵜⵉⵡ  | Délicieux        | Delicious                 | لذيذ            | ![Image323][img323] |
 | 324 | Niwel         | ⵏⵉⵡⴻⵍ         | Cuisiner         | To cook                   | طبخ             | ![Image324][img324] |
 | 325 | Elmed         | ⴻⵍⵎⴻⴷ         | Apprendre        | To learn                  | تعلم            | ![Image325][img325] |
