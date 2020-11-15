@@ -2569,12 +2569,20 @@
       "Arabe": "حبيبي"
     },
     {
-      "Id": "321",
+      "Id": "322",
       "Kabyle": "Tamddakelt-iw",
       "Tifinagh": "ⵜⴰⵎⴷⴷⴰⴽⴻⵍⵜⵉⵡ",
       "Français": "Ma petite amie",
       "Anglais": "My girlfriend",
       "Arabe": "حبيبتى"
+    },
+    {
+      "Id": "323",
+      "Kabyle": "ⴰⵥⵉⴷⴰⵏ",
+      "Tifinagh": "ⵜⴰⵎⴷⴷⴰⴽⴻⵍⵜⵉⵡ",
+      "Français": "Délicieux",
+      "Anglais": "Delicious",
+      "Arabe": "لذيذ"
     }
   ]
 }
