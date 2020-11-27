@@ -2599,6 +2599,30 @@
       "Français": "Apprendre",
       "Anglais": "To learn",
       "Arabe": "تعلم"
+    },
+    {
+      "Id": "326",
+      "Kabyle": "Asemmam",
+      "Tifinagh": "ⴰⵙⴻⵎⵎⴰⵎ",
+      "Français": "Acide",
+      "Anglais": "Acid",
+      "Arabe": "حامض"
+    },
+    {
+      "Id": "327",
+      "Kabyle": "Tiɣilt",
+      "Tifinagh": "ⵜⵉⵖⵉⵍⵜ",
+      "Français": "Colline",
+      "Anglais": "Hill",
+      "Arabe": "تل"
+    },
+    {
+      "Id": "328",
+      "Kabyle": "Talwit",
+      "Tifinagh": "ⵜⴰⵍⵡⵉⵜ",
+      "Français": "Paix",
+      "Anglais": "Peace",
+      "Arabe": "سلام"
     }
   ]
 }

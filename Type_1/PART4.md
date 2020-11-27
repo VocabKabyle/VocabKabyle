@@ -33,6 +33,9 @@ Images de 301 à 400
 | 323 | Aẓidan        | ⵜⴰⵎⴷⴷⴰⴽⴻⵍⵜⵉⵡ  | Délicieux        | Delicious                 | لذيذ            | ![Image323][img323] |
 | 324 | Niwel         | ⵏⵉⵡⴻⵍ         | Cuisiner         | To cook                   | طبخ             | ![Image324][img324] |
 | 325 | Elmed         | ⴻⵍⵎⴻⴷ         | Apprendre        | To learn                  | تعلم            | ![Image325][img325] |
+| 326 | Asemmam       | ⴰⵙⴻⵎⵎⴰⵎ       | Acide            | Acid                      | حامض            | ![Image326][img326] |
+| 327 | Tiɣilt        | ⵜⵉⵖⵉⵍⵜ        | Colline          | Hill                      | تل              | ![Image327][img327] |
+| 328 | Talwit        | ⵜⴰⵍⵡⵉⵜ        | Paix             | Peace                     | سلام            | ![Image328][img328] |
 
 [img301]: https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/301.png
 [img302]: https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/302.png
@@ -59,3 +62,8 @@ Images de 301 à 400
 [img323]: https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/323.png
 [img324]: https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/324.png
 [img325]: https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/325.png
+[img326]: https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/326.png
+[img327]: https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/327.png
+[img328]: https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/328.png
+[img329]: https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/329.png
+[img330]: https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/330.png
