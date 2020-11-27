@@ -2623,6 +2623,22 @@
       "Français": "Paix",
       "Anglais": "Peace",
       "Arabe": "سلام"
+    },
+    {
+      "Id": "329",
+      "Kabyle": "Aneɣmas",
+      "Tifinagh": "ⴰⵏⴻⵖⵎⴰⵙ",
+      "Français": "Journaliste",
+      "Anglais": "Journalist",
+      "Arabe": "صحافي"
+    },
+    {
+      "Id": "330",
+      "Kabyle": "Aɣmis",
+      "Tifinagh": "ⴰⵖⵎⵉⵙ",
+      "Français": "Journal",
+      "Anglais": "Newspaper",
+      "Arabe": "جريدة"
     }
   ]
 }

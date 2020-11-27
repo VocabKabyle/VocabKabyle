@@ -36,6 +36,8 @@ Images de 301 à 400
 | 326 | Asemmam       | ⴰⵙⴻⵎⵎⴰⵎ       | Acide            | Acid                      | حامض            | ![Image326][img326] |
 | 327 | Tiɣilt        | ⵜⵉⵖⵉⵍⵜ        | Colline          | Hill                      | تل              | ![Image327][img327] |
 | 328 | Talwit        | ⵜⴰⵍⵡⵉⵜ        | Paix             | Peace                     | سلام            | ![Image328][img328] |
+| 329 | Aneɣmas       | ⴰⵏⴻⵖⵎⴰⵙ       | Journaliste      | Journalist                | صحافي           | ![Image329][img329] |
+| 330 | Aɣmis         | ⴰⵖⵎⵉⵙ         | Journal          | Newspaper                 | جريدة           | ![Image330][img330] |
 
 [img301]: https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/301.png
 [img302]: https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/302.png
