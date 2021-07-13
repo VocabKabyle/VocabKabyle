@@ -40,33 +40,103 @@ Images de 301 à 400
 | 330 | Aɣmis         | ⴰⵖⵎⵉⵙ         | Journal          | Newspaper                 | جريدة           | ![Image330][img330] |
 | 331 | ⴰⴼ            | ⴰⵖⵎⵉⵙ         | Trouver          | Find                      | تجد             | ![Image331][img331] |
 
-[img301]: https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/301.png
-[img302]: https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/302.png
-[img303]: https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/303.png
-[img304]: https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/304.png
-[img305]: https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/305.png
-[img306]: https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/306.png
-[img307]: https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/307.png
-[img308]: https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/308.png
-[img309]: https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/309.png
-[img310]: https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/310.png
-[img311]: https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/311.png
-[img312]: https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/312.png
-[img313]: https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/313.png
-[img314]: https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/314.png
-[img315]: https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/315.png
-[img316]: https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/316.png
-[img317]: https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/317.png
-[img318]: https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/318.png
-[img319]: https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/319.png
-[img320]: https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/320.png
-[img321]: https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/321.png
-[img322]: https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/322.png
-[img323]: https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/323.png
-[img324]: https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/324.png
-[img325]: https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/325.png
-[img326]: https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/326.png
-[img327]: https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/327.png
-[img328]: https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/328.png
-[img329]: https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/329.png
-[img330]: https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/330.png
+[Img301]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/301.png
+[Img302]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/302.png
+[Img303]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/303.png
+[Img304]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/304.png
+[Img305]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/305.png
+[Img306]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/306.png
+[Img307]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/307.png
+[Img308]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/308.png
+[Img309]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/309.png
+[Img310]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/310.png
+[Img311]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/311.png
+[Img312]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/312.png
+[Img313]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/313.png
+[Img314]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/314.png
+[Img315]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/315.png
+[Img316]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/316.png
+[Img317]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/317.png
+[Img318]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/318.png
+[Img319]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/319.png
+[Img320]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/320.png
+[Img321]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/321.png
+[Img322]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/322.png
+[Img323]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/323.png
+[Img324]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/324.png
+[Img325]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/325.png
+[Img326]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/326.png
+[Img327]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/327.png
+[Img328]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/328.png
+[Img329]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/329.png
+[Img330]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/330.png
+[Img331]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/331.png
+[Img332]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/332.png
+[Img333]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/333.png
+[Img334]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/334.png
+[Img335]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/335.png
+[Img336]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/336.png
+[Img337]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/337.png
+[Img338]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/338.png
+[Img339]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/339.png
+[Img340]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/340.png
+[Img341]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/341.png
+[Img342]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/342.png
+[Img343]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/343.png
+[Img344]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/344.png
+[Img345]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/345.png
+[Img346]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/346.png
+[Img347]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/347.png
+[Img348]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/348.png
+[Img349]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/349.png
+[Img350]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/350.png
+[Img351]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/351.png
+[Img352]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/352.png
+[Img353]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/353.png
+[Img354]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/354.png
+[Img355]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/355.png
+[Img356]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/356.png
+[Img357]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/357.png
+[Img358]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/358.png
+[Img359]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/359.png
+[Img360]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/360.png
+[Img361]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/361.png
+[Img362]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/362.png
+[Img363]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/363.png
+[Img364]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/364.png
+[Img365]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/365.png
+[Img366]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/366.png
+[Img367]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/367.png
+[Img368]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/368.png
+[Img369]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/369.png
+[Img370]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/370.png
+[Img371]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/371.png
+[Img372]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/372.png
+[Img373]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/373.png
+[Img374]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/374.png
+[Img375]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/375.png
+[Img376]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/376.png
+[Img377]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/377.png
+[Img378]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/378.png
+[Img379]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/379.png
+[Img380]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/380.png
+[Img381]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/381.png
+[Img382]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/382.png
+[Img383]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/383.png
+[Img384]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/384.png
+[Img385]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/385.png
+[Img386]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/386.png
+[Img387]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/387.png
+[Img388]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/388.png
+[Img389]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/389.png
+[Img390]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/390.png
+[Img391]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/391.png
+[Img392]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/392.png
+[Img393]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/393.png
+[Img394]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/394.png
+[Img395]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/395.png
+[Img396]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/396.png
+[Img397]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/397.png
+[Img398]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/398.png
+[Img399]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/399.png
+[Img400]:https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/400.png
