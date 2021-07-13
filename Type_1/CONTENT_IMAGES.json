@@ -2642,11 +2642,43 @@
     },
     {
       "Id": "331",
-      "Kabyle": "ⴰⴼ",
-      "Tifinagh": "ⴰⵖⵎⵉⵙ",
+      "Kabyle": "Af",
+      "Tifinagh": "ⴰⴼ",
       "Français": "Trouver",
       "Anglais": "Find",
       "Arabe": "تجد"
+    },
+    {
+      "Id": "332",
+      "Kabyle": "Anay",
+      "Tifinagh": "ⴰⵏⴰⵢ",
+      "Français": "Drapeau",
+      "Anglais": "Flag",
+      "Arabe": "علم"
+    },
+    {
+      "Id": "333",
+      "Kabyle": "Ih",
+      "Tifinagh": "ⵉⵀ",
+      "Français": "Oui",
+      "Anglais": "Yes",
+      "Arabe": "نعم"
+    },
+    {
+      "Id": "334",
+      "Kabyle": "Ala",
+      "Tifinagh": "ⴰⵍⴰ",
+      "Français": "Non",
+      "Anglais": "No",
+      "Arabe": "لا"
+    },
+    {
+      "Id": "335",
+      "Kabyle": "Aṭas",
+      "Tifinagh": "ⴰⵟⴰⵙ",
+      "Français": "Beaucoup",
+      "Anglais": "Many, A lot",
+      "Arabe": "كثيرا"
     }
   ]
 }
