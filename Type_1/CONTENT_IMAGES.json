@@ -2639,6 +2639,14 @@
       "Français": "Journal",
       "Anglais": "Newspaper",
       "Arabe": "جريدة"
+    },
+    {
+      "Id": "331",
+      "Kabyle": "ⴰⴼ",
+      "Tifinagh": "ⴰⵖⵎⵉⵙ",
+      "Français": "Trouver",
+      "Anglais": "Find",
+      "Arabe": "تجد"
     }
   ]
 }
