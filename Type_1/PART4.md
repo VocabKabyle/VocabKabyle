@@ -43,6 +43,11 @@ Images de 301 à 400
 | 333 | Ih            | ⵉⵀ            | Oui              | Yes                       | نعم             | ![Image333][img333] |
 | 334 | Ala           | ⴰⵍⴰ           | Non              | No                        | لا              | ![Image334][img334] |
 | 335 | Aṭas          | ⴰⵟⴰⵙ          | Beaucoup         | Many, A lot               | كثيرا           | ![Image335][img335] |
+| 336 | Cwiṭ, Ciṭṭuḥ  | ⵛⵡⵉⵟ, ⵛⵉⵟⵟⵓⵃ  | Peu              | Few, Little               | قليل, بعض       | ![Image336][img336] |
+| 337 | Tassemt       | ⵜⴰⵙⵙⴻⵎⵜ       | Graisse          | Fat                       | شحم             | ![Image337][img337] |
+| 338 | Aglim         | ⴰⴳⵍⵉⵎ         | Peau             | Skin                      | جلد             | ![Image338][img338] |
+| 339 | Waɣzen        | ⵡⴰⵖⵣⴻⵏ        | Ogre             | Ogre                      | عملاق بشع       | ![Image339][img339] |
+| 340 | Xemmem        | ⵅⴻⵎⵎⴻⵎ        | Penser           | Think                     | فكر             | ![Image340][img340] |
 
 [img301]: https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/301.png
 [img302]: https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/302.png

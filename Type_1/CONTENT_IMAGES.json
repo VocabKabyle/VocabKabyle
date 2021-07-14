@@ -2679,6 +2679,46 @@
       "Français": "Beaucoup",
       "Anglais": "Many, A lot",
       "Arabe": "كثيرا"
+    },
+    {
+      "Id": "336",
+      "Kabyle": "Cwiṭ, Ciṭṭuḥ",
+      "Tifinagh": "ⵛⵡⵉⵟ, ⵛⵉⵟⵟⵓⵃ",
+      "Français": "Peu",
+      "Anglais": "Few, Little",
+      "Arabe": "قليل, بعض"
+    },
+    {
+      "Id": "337",
+      "Kabyle": "Tassemt",
+      "Tifinagh": "ⵜⴰⵙⵙⴻⵎⵜ",
+      "Français": "Graisse",
+      "Anglais": "Fat",
+      "Arabe": "شحم"
+    },
+    {
+      "Id": "338",
+      "Kabyle": "Aglim",
+      "Tifinagh": "ⴰⴳⵍⵉⵎ",
+      "Français": "Peau",
+      "Anglais": "Skin",
+      "Arabe": "جلد"
+    },
+    {
+      "Id": "339",
+      "Kabyle": "Waɣzen",
+      "Tifinagh": "ⵡⴰⵖⵣⴻⵏ",
+      "Français": "Ogre",
+      "Anglais": "Ogre",
+      "Arabe": "عملاق بشع"
+    },
+    {
+      "Id": "340",
+      "Kabyle": "Xemmem",
+      "Tifinagh": "ⵅⴻⵎⵎⴻⵎ",
+      "Français": "Penser",
+      "Anglais": "Think",
+      "Arabe": "فكر"
     }
   ]
 }
