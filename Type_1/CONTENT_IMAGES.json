@@ -2719,6 +2719,54 @@
       "Français": "Penser",
       "Anglais": "Think",
       "Arabe": "فكر"
+    },
+    {
+      "Id": "341",
+      "Kabyle": "Ssuma",
+      "Tifinagh": "ⵙⵙⵓⵎⴰ",
+      "Français": "Prix",
+      "Anglais": "Price",
+      "Arabe": "سعر"
+    },
+    {
+      "Id": "342",
+      "Kabyle": "Agellid",
+      "Tifinagh": "ⴰⴳⴻⵍⵍⵉⴷ",
+      "Français": "Roi",
+      "Anglais": "King",
+      "Arabe": "ملك"
+    },
+    {
+      "Id": "343",
+      "Kabyle": "Anaẓur",
+      "Tifinagh": "ⴰⵏⴰⵥⵓⵔ",
+      "Français": "Artiste",
+      "Anglais": "Artist",
+      "Arabe": "فنان"
+    },
+    {
+      "Id": "344",
+      "Kabyle": "Tabyirt",
+      "Tifinagh": "ⵜⴰⴱⵢⵉⵔⵜ",
+      "Français": "Une bière",
+      "Anglais": "A beer",
+      "Arabe": "البيرة"
+    },
+    {
+      "Id": "345",
+      "Kabyle": "Amezwaru",
+      "Tifinagh": "ⴰⵎⴻⵣⵡⴰⵔⵓ",
+      "Français": "Premier",
+      "Anglais": "First",
+      "Arabe": "أولا"
+    },
+    {
+      "Id": "346",
+      "Kabyle": "Wis sin",
+      "Tifinagh": "ⵡⵉⵙ ⵙⵉⵏ",
+      "Français": "Deuxième",
+      "Anglais": "Second",
+      "Arabe": "ثان"
     }
   ]
 }

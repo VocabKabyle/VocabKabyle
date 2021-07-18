@@ -48,6 +48,12 @@ Images de 301 à 400
 | 338 | Aglim         | ⴰⴳⵍⵉⵎ         | Peau             | Skin                      | جلد             | ![Image338][img338] |
 | 339 | Waɣzen        | ⵡⴰⵖⵣⴻⵏ        | Ogre             | Ogre                      | عملاق بشع       | ![Image339][img339] |
 | 340 | Xemmem        | ⵅⴻⵎⵎⴻⵎ        | Penser           | Think                     | فكر             | ![Image340][img340] |
+| 341 | Ssuma         | ⵙⵙⵓⵎⴰ         | Prix             | Price                     | سعر             | ![Image341][img341] |
+| 342 | Agellid       | ⴰⴳⴻⵍⵍⵉⴷ       | Roi              | King                      | ملك             | ![Image342][img342] |
+| 343 | Anaẓur        | ⴰⵏⴰⵥⵓⵔ        | Artiste          | Artist                    | فنان            | ![Image343][img343] |
+| 344 | Tabyirt       | ⵜⴰⴱⵢⵉⵔⵜ       | Une bière        | A beer                    | البيرة          | ![Image344][img344] |
+| 345 | Amezwaru      | ⴰⵎⴻⵣⵡⴰⵔⵓ      | Premier          | First                     | أولا            | ![Image345][img345] |
+| 346 | Wis sin       | ⵡⵉⵙ ⵙⵉⵏ       | Deuxième         | Second                    | ثان             | ![Image346][img346] |
 
 [img301]: https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/301.png
 [img302]: https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/302.png
