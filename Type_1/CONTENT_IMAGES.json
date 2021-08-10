@@ -2767,6 +2767,38 @@
       "Français": "Deuxième",
       "Anglais": "Second",
       "Arabe": "ثان"
+    },
+    {
+      "Id": "347",
+      "Kabyle": "Amruj, Axjiḍ",
+      "Tifinagh": "ⴰⵎⵔⵓⵊ, ⴰⵅⵊⵉⴹ",
+      "Français": "Trou",
+      "Anglais": "Hole",
+      "Arabe": "حفرة"
+    },
+    {
+      "Id": "348",
+      "Kabyle": "Amaynut",
+      "Tifinagh": "ⴰⵎⴰⵢⵏⵓⵜ",
+      "Français": "Nouveau",
+      "Anglais": "New",
+      "Arabe": "جديد"
+    },
+    {
+      "Id": "349",
+      "Kabyle": "Addal",
+      "Tifinagh": "ⴰⴷⴷⴰⵍ",
+      "Français": "Sport",
+      "Anglais": "Sport",
+      "Arabe": "رياضة"
+    },
+    {
+      "Id": "350",
+      "Kabyle": "Tizitt",
+      "Tifinagh": "ⵜⵉⵣⵉⵜⵜ",
+      "Français": "Moustique",
+      "Anglais": "Mosquito",
+      "Arabe": "ناموس"
     }
   ]
 }

@@ -54,6 +54,10 @@ Images de 301 à 400
 | 344 | Tabyirt       | ⵜⴰⴱⵢⵉⵔⵜ       | Une bière        | A beer                    | البيرة          | ![Image344][img344] |
 | 345 | Amezwaru      | ⴰⵎⴻⵣⵡⴰⵔⵓ      | Premier          | First                     | أولا            | ![Image345][img345] |
 | 346 | Wis sin       | ⵡⵉⵙ ⵙⵉⵏ       | Deuxième         | Second                    | ثان             | ![Image346][img346] |
+| 347 | Amruj, Axjiḍ  | ⴰⵎⵔⵓⵊ, ⴰⵅⵊⵉⴹ  | Trou             | Hole                      | حفرة            | ![Image347][img347] |
+| 348 | Amaynut       | ⴰⵎⴰⵢⵏⵓⵜ       | Nouveau          | New                       | جديد            | ![Image348][img348] |
+| 349 | Addal         | ⴰⴷⴷⴰⵍ         | Sport            | Sport                     | رياضة           | ![Image349][img349] |
+| 350 | Tizitt        | ⵜⵉⵣⵉⵜⵜ        | Moustique        | Mosquito                  | ناموس           | ![Image350][img350] |
 
 [img301]: https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/301.png
 [img302]: https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/302.png
