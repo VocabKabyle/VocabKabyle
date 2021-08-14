@@ -6,58 +6,59 @@ Images de 301 à 400
 
 ## Liste
 
-| Id  | Kabyle        | Tifinagh      | Français         | Anglais                   | Arabe           | Image               |
-| --- | ------------- | ------------- | ---------------- | ------------------------- | --------------- | ------------------- |
-| 301 | Aεaṛus        | ⴰⵄⴰⵕⵓⵙ        | Escargot         | Snail                     | حلزون           | ![Image301][img301] |
-| 302 | Anda?, Anida? | ⴰⵏⴷⴰ?, ⴰⵏⵉⴷⴰ? | Où               | Where                     | أين             | ![Image302][img302] |
-| 303 | Aksum         | ⴰⴽⵙⵓⵎ         | Viande           | Meat                      | لحم             | ![Image303][img303] |
-| 304 | Tafḍist       | ⵜⴰⴼⴹⵉⵙⵜ       | Marteau          | Hammer                    | مطرقة           | ![Image304][img304] |
-| 305 | Eṛẓ           | ⴻⵕⵥ           | Casser           | To break                  | كسر             | ![Image305][img305] |
-| 306 | Ṛǧu           | ⵕⴵⵓ           | Attendre         | To wait                   | انتظر           | ![Image306][img306] |
-| 307 | Aderwic       | ⴰⴷⴻⵔⵡⵉⵛ       | Un fou           | A mad man                 | مجنون           | ![Image307][img307] |
-| 308 | Acu           | ⴰⵛⵓ           | Quoi ?           | What?                     | ماذا            | ![Image308][img308] |
-| 309 | Ssucef        | ⵙⵙⵓⵛⴻⴼ        | Se doucher       | To take a shower          | يستحم           | ![Image309][img309] |
-| 310 | Targit        | ⵜⴰⵔⴳⵉⵜ        | Rêve             | Dream                     | حلم             | ![Image310][img310] |
-| 311 | Amergu        | ⴰⵎⴻⵔⴳⵓ        | La grive         | A thrush                  | -               | ![Image311][img311] |
-| 312 | Abehri, Azwu  | ⴰⴱⴻⵀⵔⵉ, ⴰⵣⵡⵓ  | L'air            | The air                   | الهواء          | ![Image312][img312] |
-| 313 | Zik, Zik-nni  | ⵣⵉⴽ, ⵣⵉⴽ-ⵏⵏⵉ  | Jadis, Autrefois | Formerly, In the old days | سابقا, فيما مضى | ![Image313][img313] |
-| 314 | Tugdut        | ⵜⵓⴳⴷⵓⵜ        | Démocratie       | Democracy                 | ديمقراطية       | ![Image314][img314] |
-| 315 | Tament        | ⵜⴰⵎⴻⵏⵜ        | Miel             | Honey                     | عسل             | ![Image315][img315] |
-| 316 | Asamar        | ⴰⵙⴰⵎⵎⴰⵔ       | Est              | East                      | الشرق           | ![Image316][img316] |
-| 317 | Amalu         | ⴰⵎⴰⵍⵓ         | Ouest            | West                      | الغرب           | ![Image317][img317] |
-| 318 | Agafa         | ⴰⴳⴰⴼⴰ         | Nord             | North                     | الشمال          | ![Image318][img318] |
-| 319 | Anẓul         | ⴰⵏⵥⵓⵍ         | Sud              | South                     | الجنوب          | ![Image319][img319] |
-| 320 | Tisusaf       | ⵜⵉⵙⵓⵙⴰⴼ       | Salive           | Saliva                    | اللعاب          | ![Image320][img320] |
-| 321 | Amddakel-iw   | ⴰⵎⴷⴷⴰⴽⴻⵍⵉⵡ    | Mon petit ami    | My boyfriend              | حبيبي           | ![Image321][img321] |
-| 322 | Tamddakelt-iw | ⵜⴰⵎⴷⴷⴰⴽⴻⵍⵜⵉⵡ  | Ma petite amie   | My girlfriend             | حبيبتى          | ![Image322][img322] |
-| 323 | Aẓidan        | ⵜⴰⵎⴷⴷⴰⴽⴻⵍⵜⵉⵡ  | Délicieux        | Delicious                 | لذيذ            | ![Image323][img323] |
-| 324 | Niwel         | ⵏⵉⵡⴻⵍ         | Cuisiner         | To cook                   | طبخ             | ![Image324][img324] |
-| 325 | Elmed         | ⴻⵍⵎⴻⴷ         | Apprendre        | To learn                  | تعلم            | ![Image325][img325] |
-| 326 | Asemmam       | ⴰⵙⴻⵎⵎⴰⵎ       | Acide            | Acid                      | حامض            | ![Image326][img326] |
-| 327 | Tiɣilt        | ⵜⵉⵖⵉⵍⵜ        | Colline          | Hill                      | تل              | ![Image327][img327] |
-| 328 | Talwit        | ⵜⴰⵍⵡⵉⵜ        | Paix             | Peace                     | سلام            | ![Image328][img328] |
-| 329 | Aneɣmas       | ⴰⵏⴻⵖⵎⴰⵙ       | Journaliste      | Journalist                | صحافي           | ![Image329][img329] |
-| 330 | Aɣmis         | ⴰⵖⵎⵉⵙ         | Journal          | Newspaper                 | جريدة           | ![Image330][img330] |
-| 331 | ⴰⴼ            | ⴰⵖⵎⵉⵙ         | Trouver          | Find                      | تجد             | ![Image331][img331] |
-| 332 | Anay          | ⴰⵏⴰⵢ          | Drapeau          | Flag                      | علم             | ![Image332][img332] |
-| 333 | Ih            | ⵉⵀ            | Oui              | Yes                       | نعم             | ![Image333][img333] |
-| 334 | Ala           | ⴰⵍⴰ           | Non              | No                        | لا              | ![Image334][img334] |
-| 335 | Aṭas          | ⴰⵟⴰⵙ          | Beaucoup         | Many, A lot               | كثيرا           | ![Image335][img335] |
-| 336 | Cwiṭ, Ciṭṭuḥ  | ⵛⵡⵉⵟ, ⵛⵉⵟⵟⵓⵃ  | Peu              | Few, Little               | قليل, بعض       | ![Image336][img336] |
-| 337 | Tassemt       | ⵜⴰⵙⵙⴻⵎⵜ       | Graisse          | Fat                       | شحم             | ![Image337][img337] |
-| 338 | Aglim         | ⴰⴳⵍⵉⵎ         | Peau             | Skin                      | جلد             | ![Image338][img338] |
-| 339 | Waɣzen        | ⵡⴰⵖⵣⴻⵏ        | Ogre             | Ogre                      | عملاق بشع       | ![Image339][img339] |
-| 340 | Xemmem        | ⵅⴻⵎⵎⴻⵎ        | Penser           | Think                     | فكر             | ![Image340][img340] |
-| 341 | Ssuma         | ⵙⵙⵓⵎⴰ         | Prix             | Price                     | سعر             | ![Image341][img341] |
-| 342 | Agellid       | ⴰⴳⴻⵍⵍⵉⴷ       | Roi              | King                      | ملك             | ![Image342][img342] |
-| 343 | Anaẓur        | ⴰⵏⴰⵥⵓⵔ        | Artiste          | Artist                    | فنان            | ![Image343][img343] |
-| 344 | Tabyirt       | ⵜⴰⴱⵢⵉⵔⵜ       | Une bière        | A beer                    | البيرة          | ![Image344][img344] |
-| 345 | Amezwaru      | ⴰⵎⴻⵣⵡⴰⵔⵓ      | Premier          | First                     | أولا            | ![Image345][img345] |
-| 346 | Wis sin       | ⵡⵉⵙ ⵙⵉⵏ       | Deuxième         | Second                    | ثان             | ![Image346][img346] |
-| 347 | Amruj, Axjiḍ  | ⴰⵎⵔⵓⵊ, ⴰⵅⵊⵉⴹ  | Trou             | Hole                      | حفرة            | ![Image347][img347] |
-| 348 | Amaynut       | ⴰⵎⴰⵢⵏⵓⵜ       | Nouveau          | New                       | جديد            | ![Image348][img348] |
-| 349 | Addal         | ⴰⴷⴷⴰⵍ         | Sport            | Sport                     | رياضة           | ![Image349][img349] |
-| 350 | Tizitt        | ⵜⵉⵣⵉⵜⵜ        | Moustique        | Mosquito                  | ناموس           | ![Image350][img350] |
+| Id  | Kabyle          | Tifinagh        | Français         | Anglais                   | Arabe           | Image               |
+| --- | --------------- | --------------- | ---------------- | ------------------------- | --------------- | ------------------- |
+| 301 | Aεaṛus          | ⴰⵄⴰⵕⵓⵙ          | Escargot         | Snail                     | حلزون           | ![Image301][img301] |
+| 302 | Anda?, Anida?   | ⴰⵏⴷⴰ?, ⴰⵏⵉⴷⴰ?   | Où               | Where                     | أين             | ![Image302][img302] |
+| 303 | Aksum           | ⴰⴽⵙⵓⵎ           | Viande           | Meat                      | لحم             | ![Image303][img303] |
+| 304 | Tafḍist         | ⵜⴰⴼⴹⵉⵙⵜ         | Marteau          | Hammer                    | مطرقة           | ![Image304][img304] |
+| 305 | Eṛẓ             | ⴻⵕⵥ             | Casser           | To break                  | كسر             | ![Image305][img305] |
+| 306 | Ṛǧu             | ⵕⴵⵓ             | Attendre         | To wait                   | انتظر           | ![Image306][img306] |
+| 307 | Aderwic         | ⴰⴷⴻⵔⵡⵉⵛ         | Un fou           | A mad man                 | مجنون           | ![Image307][img307] |
+| 308 | Acu             | ⴰⵛⵓ             | Quoi ?           | What?                     | ماذا            | ![Image308][img308] |
+| 309 | Ssucef          | ⵙⵙⵓⵛⴻⴼ          | Se doucher       | To take a shower          | يستحم           | ![Image309][img309] |
+| 310 | Targit          | ⵜⴰⵔⴳⵉⵜ          | Rêve             | Dream                     | حلم             | ![Image310][img310] |
+| 311 | Amergu          | ⴰⵎⴻⵔⴳⵓ          | La grive         | A thrush                  | -               | ![Image311][img311] |
+| 312 | Abehri, Azwu    | ⴰⴱⴻⵀⵔⵉ, ⴰⵣⵡⵓ    | L'air            | The air                   | الهواء          | ![Image312][img312] |
+| 313 | Zik, Zik-nni    | ⵣⵉⴽ, ⵣⵉⴽ-ⵏⵏⵉ    | Jadis, Autrefois | Formerly, In the old days | سابقا, فيما مضى | ![Image313][img313] |
+| 314 | Tugdut          | ⵜⵓⴳⴷⵓⵜ          | Démocratie       | Democracy                 | ديمقراطية       | ![Image314][img314] |
+| 315 | Tament          | ⵜⴰⵎⴻⵏⵜ          | Miel             | Honey                     | عسل             | ![Image315][img315] |
+| 316 | Asamar          | ⴰⵙⴰⵎⵎⴰⵔ         | Est              | East                      | الشرق           | ![Image316][img316] |
+| 317 | Amalu           | ⴰⵎⴰⵍⵓ           | Ouest            | West                      | الغرب           | ![Image317][img317] |
+| 318 | Agafa           | ⴰⴳⴰⴼⴰ           | Nord             | North                     | الشمال          | ![Image318][img318] |
+| 319 | Anẓul           | ⴰⵏⵥⵓⵍ           | Sud              | South                     | الجنوب          | ![Image319][img319] |
+| 320 | Tisusaf         | ⵜⵉⵙⵓⵙⴰⴼ         | Salive           | Saliva                    | اللعاب          | ![Image320][img320] |
+| 321 | Amddakel-iw     | ⴰⵎⴷⴷⴰⴽⴻⵍⵉⵡ      | Mon petit ami    | My boyfriend              | حبيبي           | ![Image321][img321] |
+| 322 | Tamddakelt-iw   | ⵜⴰⵎⴷⴷⴰⴽⴻⵍⵜⵉⵡ    | Ma petite amie   | My girlfriend             | حبيبتى          | ![Image322][img322] |
+| 323 | Aẓidan          | ⵜⴰⵎⴷⴷⴰⴽⴻⵍⵜⵉⵡ    | Délicieux        | Delicious                 | لذيذ            | ![Image323][img323] |
+| 324 | Niwel           | ⵏⵉⵡⴻⵍ           | Cuisiner         | To cook                   | طبخ             | ![Image324][img324] |
+| 325 | Elmed           | ⴻⵍⵎⴻⴷ           | Apprendre        | To learn                  | تعلم            | ![Image325][img325] |
+| 326 | Asemmam         | ⴰⵙⴻⵎⵎⴰⵎ         | Acide            | Acid                      | حامض            | ![Image326][img326] |
+| 327 | Tiɣilt          | ⵜⵉⵖⵉⵍⵜ          | Colline          | Hill                      | تل              | ![Image327][img327] |
+| 328 | Talwit          | ⵜⴰⵍⵡⵉⵜ          | Paix             | Peace                     | سلام            | ![Image328][img328] |
+| 329 | Aneɣmas         | ⴰⵏⴻⵖⵎⴰⵙ         | Journaliste      | Journalist                | صحافي           | ![Image329][img329] |
+| 330 | Aɣmis           | ⴰⵖⵎⵉⵙ           | Journal          | Newspaper                 | جريدة           | ![Image330][img330] |
+| 331 | ⴰⴼ              | ⴰⵖⵎⵉⵙ           | Trouver          | Find                      | تجد             | ![Image331][img331] |
+| 332 | Anay            | ⴰⵏⴰⵢ            | Drapeau          | Flag                      | علم             | ![Image332][img332] |
+| 333 | Ih              | ⵉⵀ              | Oui              | Yes                       | نعم             | ![Image333][img333] |
+| 334 | Ala             | ⴰⵍⴰ             | Non              | No                        | لا              | ![Image334][img334] |
+| 335 | Aṭas            | ⴰⵟⴰⵙ            | Beaucoup         | Many, A lot               | كثيرا           | ![Image335][img335] |
+| 336 | Cwiṭ, Ciṭṭuḥ    | ⵛⵡⵉⵟ, ⵛⵉⵟⵟⵓⵃ    | Peu              | Few, Little               | قليل, بعض       | ![Image336][img336] |
+| 337 | Tassemt         | ⵜⴰⵙⵙⴻⵎⵜ         | Graisse          | Fat                       | شحم             | ![Image337][img337] |
+| 338 | Aglim           | ⴰⴳⵍⵉⵎ           | Peau             | Skin                      | جلد             | ![Image338][img338] |
+| 339 | Waɣzen          | ⵡⴰⵖⵣⴻⵏ          | Ogre             | Ogre                      | عملاق بشع       | ![Image339][img339] |
+| 340 | Xemmem          | ⵅⴻⵎⵎⴻⵎ          | Penser           | Think                     | فكر             | ![Image340][img340] |
+| 341 | Ssuma           | ⵙⵙⵓⵎⴰ           | Prix             | Price                     | سعر             | ![Image341][img341] |
+| 342 | Agellid         | ⴰⴳⴻⵍⵍⵉⴷ         | Roi              | King                      | ملك             | ![Image342][img342] |
+| 343 | Anaẓur          | ⴰⵏⴰⵥⵓⵔ          | Artiste          | Artist                    | فنان            | ![Image343][img343] |
+| 344 | Tabyirt         | ⵜⴰⴱⵢⵉⵔⵜ         | Une bière        | A beer                    | البيرة          | ![Image344][img344] |
+| 345 | Amezwaru        | ⴰⵎⴻⵣⵡⴰⵔⵓ        | Premier          | First                     | أولا            | ![Image345][img345] |
+| 346 | Wis sin         | ⵡⵉⵙ ⵙⵉⵏ         | Deuxième         | Second                    | ثان             | ![Image346][img346] |
+| 347 | Amruj, Axjiḍ    | ⴰⵎⵔⵓⵊ, ⴰⵅⵊⵉⴹ    | Trou             | Hole                      | حفرة            | ![Image347][img347] |
+| 348 | Amaynut         | ⴰⵎⴰⵢⵏⵓⵜ         | Nouveau          | New                       | جديد            | ![Image348][img348] |
+| 349 | Addal           | ⴰⴷⴷⴰⵍ           | Sport            | Sport                     | رياضة           | ![Image349][img349] |
+| 350 | Tizitt          | ⵜⵉⵣⵉⵜⵜ          | Moustique        | Mosquito                  | ناموس           | ![Image350][img350] |
+| 351 | Lmerta, Tawaɣit | ⵍⵎⴻⵔⵜⴰ, ⵜⴰⵡⴰⵖⵉⵜ | Tragédie         | Tragedy                   | فاجعة, مأساة    | ![Image351][img351] |
 
 [img301]: https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/301.png
 [img302]: https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/302.png
