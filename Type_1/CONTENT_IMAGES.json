@@ -2807,6 +2807,38 @@
       "Français": "Tragédie",
       "Anglais": "Tragedy",
       "Arabe": "فاجعة, مأساة"
+    },
+    {
+      "Id": "352",
+      "Kabyle": "Abelluḍ",
+      "Tifinagh": "ⵄⴱⴻⵍⵍⵓⴹ",
+      "Français": "Glands",
+      "Anglais": "Acorns",
+      "Arabe": "ثمرة شجرة البلوط"
+    },
+    {
+      "Id": "353",
+      "Kabyle": "Yillu",
+      "Tifinagh": "ⵖⵉⵍⵍⵓ",
+      "Français": "Dieu",
+      "Anglais": "God",
+      "Arabe": "الله, رب"
+    },
+    {
+      "Id": "354",
+      "Kabyle": "Tamurt",
+      "Tifinagh": "ⵟⴰⵎⵓⵔⵜ",
+      "Français": "Pays",
+      "Anglais": "Country",
+      "Arabe": "بلد"
+    },
+    {
+      "Id": "355",
+      "Kabyle": "Ameṛkanti",
+      "Tifinagh": "ⵄⵎⴻⵕⴽⴰⵏⵜⵉ",
+      "Français": "Riche",
+      "Anglais": "Rich, Wealthy",
+      "Arabe": "غني"
     }
   ]
 }
