@@ -2839,6 +2839,30 @@
       "Français": "Riche",
       "Anglais": "Rich, Wealthy",
       "Arabe": "غني"
+    },
+    {
+      "Id": "356",
+      "Kabyle": "Tifxet",
+      "Tifinagh": "ⵟⵉⴼⵅⴻⵜ",
+      "Français": "Piége",
+      "Anglais": "Trap",
+      "Arabe": "فخ"
+    },
+    {
+      "Id": "357",
+      "Kabyle": "Ayeffus",
+      "Tifinagh": "ⵄⵢⴻⴼⴼⵓⵙ",
+      "Français": "Droite",
+      "Anglais": "Right",
+      "Arabe": "يمين"
+    },
+    {
+      "Id": "358",
+      "Kabyle": "Azelmaḍ",
+      "Tifinagh": "ⵄⵣⴻⵍⵎⴰⴹ",
+      "Français": "Gauche",
+      "Anglais": "Left",
+      "Arabe": "يسار"
     }
   ]
 }

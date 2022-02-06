@@ -7,7 +7,7 @@ Images de 301 à 400
 ## Liste
 
 | Id  | Kabyle          | Tifinagh        | Français         | Anglais                   | Arabe            | Image               |
-| --- | --------------- | --------------- | ---------------- | ------------------------- | ---------------- | ------------------- |
+| --- | --------------- | --------------- | ---------------- | ------------------------- | ---------------- | ------------------- | -------- |
 | 301 | Aεaṛus          | ⴰⵄⴰⵕⵓⵙ          | Escargot         | Snail                     | حلزون            | ![Image301][img301] |
 | 302 | Anda?, Anida?   | ⴰⵏⴷⴰ?, ⴰⵏⵉⴷⴰ?   | Où               | Where                     | أين              | ![Image302][img302] |
 | 303 | Aksum           | ⴰⴽⵙⵓⵎ           | Viande           | Meat                      | لحم              | ![Image303][img303] |
@@ -62,7 +62,10 @@ Images de 301 à 400
 | 352 | Abelluḍ         | ⵄⴱⴻⵍⵍⵓⴹ         | Glands           | Acorns                    | ثمرة شجرة البلوط | ![Image352][img352] |
 | 353 | Yillu           | ⵖⵉⵍⵍⵓ           | Dieu             | God                       | الله, رب         | ![Image353][img353] |
 | 354 | Tamurt          | ⵟⴰⵎⵓⵔⵜ          | Pays             | Country                   | بلد              | ![Image354][img354] |
-| 355 | Ameṛkanti       | ⵄⵎⴻⵕⴽⴰⵏⵜⵉ       | Riche            | Rich, Wealthy             | غني              | ![Image355][img355] |
+| 355 | Ameṛkanti       | ⵄⵎⴻⵕⴽⴰⵏⵜⵉ       | Riche            | Rich, Wealthy             | غني              | ![Image355]         |
+| 356 | Tifxet          | ⵟⵉⴼⵅⴻⵜ          | Piége            | Trap                      | فخ               | ![Image356][img356] |
+| 357 | Ayeffus         | ⵄⵢⴻⴼⴼⵓⵙ         | Droite           | Right                     | يمين             | ![Image357][img357] |
+| 358 | Azelmaḍ         | ⵄⵣⴻⵍⵎⴰⴹ         | Gauche           | Left                      | يسار             | ![Image358][img358] | [img355] |
 
 [img301]: https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/301.png
 [img302]: https://raw.githubusercontent.com/VocabKabyle/VocabKabyle/master/Type_1/images/302.png
